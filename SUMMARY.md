@@ -2,7 +2,6 @@
 
 * [Présentation générale](README.md)
 * [Ce que change la loi en matière d'apprentissage](ce-que-change-la-loi-en-matiere-dapprentissage.md)
-* [Catalogue](https://mission-apprentissage.gitbook.io/catalogue/)
 * [Pourquoi ces nouveaux services ?](pourquoi-ces-nouveaux-services.md)
 * [L'équipe](lequipe.md)
 
@@ -21,6 +20,5 @@
 
 * [Des communs open source](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
 * [Mentions légales](mentions-legales.md)
-* [Untitled](untitled.md)
-* [Untitled](untitled-1.md)
+* [CGU](untitled-1.md)
 
