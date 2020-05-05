@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Guide pour la communauté](README.md)
+* [Présentation générale](README.md)
 
 ## Cartographies
 

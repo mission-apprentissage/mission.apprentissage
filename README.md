@@ -1,4 +1,4 @@
-# Guide pour la communauté
+# Présentation générale
 
 ### **Bienvenue sur la documentation Mission apprentissage !**
 
