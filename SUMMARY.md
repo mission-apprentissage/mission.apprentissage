@@ -7,7 +7,7 @@
 
 ## Les nouveaux services
 
-* [La cartographie des services Apprentissage](les-nouveaux-services/la-cartographie-des-services-apprentissage.md)
+* [Un catalogue élargi de formations en Apprentissage](https://mission-apprentissage.gitbook.io/catalogue/)
 * [Un catalogue élargi de formations en Apprentissage](un-catalogue-elargi-de-formations-en-apprentissage.md)
 * [L'Apprentissage sur Parcoursup](lapprentissage-sur-parcoursup.md)
 
