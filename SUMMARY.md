@@ -1,10 +1,6 @@
 # Table of contents
 
 * [Présentation générale](README.md)
-
-## Cartographies
-
-* [Introduction](cartographies/introduction.md)
 * [Ce que change la loi en matière d'apprentissage](ce-que-change-la-loi-en-matiere-dapprentissage.md)
 * [Catalogue](https://mission-apprentissage.gitbook.io/catalogue/)
 * [Pourquoi ces nouveaux services ?](pourquoi-ces-nouveaux-services.md)
