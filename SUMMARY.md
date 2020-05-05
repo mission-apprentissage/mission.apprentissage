@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Guide pour la communauté](README.md)
 
