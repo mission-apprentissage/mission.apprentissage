@@ -4,7 +4,7 @@ description: 'https://mission-apprentissage.gitbook.io/doc/'
 
 # Présentation générale
 
-### **Bienvenue sur la documentation Mission apprentissage !**
+### **Bienvenue sur la documentation de la Mission apprentissage** 
 
 Elle documente ce que les membres de la mission ont appris.
 
@@ -12,7 +12,7 @@ Il s'agit d'un recueil de fonctionnalités et de méthodologies, en perpétuelle
 
 ## Les services attendus de la Mission Apprentissage
 
-Cette documentation a été conçue afin de permettre aux usagers de comprendre les services numériques construits dans le cadre des travaux de la [Mission Apprentissage](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/une-mission-pour-faciliter-les-entrees-en-apprentissage).
+Cette documentation a été conçue afin de permettre aux usagers de comprendre les services numériques en construction dans le cadre des travaux de la [Mission Apprentissage](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/une-mission-pour-faciliter-les-entrees-en-apprentissage).
 
 L'objectif de cette Mission a été précisé par Jean-Michel Blanquer, ministre de l’Éducation nationale, Frédérique Vidal, ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation et Muriel Pénicaud, ministre du Travail . Elle vise à lever les freins à l’essor de l’apprentissage et à faciliter la mise en contact des jeunes, des CFA et des entreprises \).
 

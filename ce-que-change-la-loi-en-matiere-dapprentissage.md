@@ -1,6 +1,11 @@
+---
+description: >-
+  La loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel
+  a profondément changé le paysage de la formation professionnelle et de
+  l'apprentissage
+---
+
 # Ce que change la loi en matière d'apprentissage
-
-
 
 ## Pour les apprentis
 
@@ -14,8 +19,6 @@
 ![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  création de [l’aide unique pour les entreprises de moins de 250 salariés](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) qui signent un contrat d’apprentissage avec un jeune qui prépare un diplôme ou un titre à finalité professionnelle équivalant au plus au baccalauréat ;  
 ![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  possibilité pour les entreprises de créer leur propre CFA, amplifiant ainsi l’offre de formation -[voir le guide d’information](https://travail-emploi.gouv.fr/demarches-ressources-documentaires/documentation-et-publications-officielles/guides/article/kit-ouvrir-votre-propre-centre-de-formation-d-apprentis-cfa)  
 ![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  simplification du déplacement des alternants à l’étranger – dont les apprentis ; la mobilité est mieux sécurisée et bénéficie de nouvelles possibilités de financement - [voir les guides d’information](https://travail-emploi.gouv.fr/demarches-ressources-documentaires/documentation-et-publications-officielles/guides/kits-mobilite-alternance)Getting Super Powers
-
-
 
 ## **Sur le plan de la formation**
 

@@ -2,7 +2,7 @@
 
 ## Open source et contribution
 
-Nos outils sont développés en open-source 
+Tous nos outils et services sont développés en open-source 
 
 
 
