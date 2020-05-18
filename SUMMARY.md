@@ -1,21 +1,20 @@
 # Table of contents
 
 * [Présentation générale](README.md)
-* [Ce que change la loi en matière d'apprentissage](ce-que-change-la-loi-en-matiere-dapprentissage.md)
-* [Pourquoi de nouveaux services ?](pourquoi-ces-nouveaux-services.md)
-* [L'équipe](lequipe.md)
+
+## La Mission Apprentissage
+
+* [Ce que change la loi en matière d'apprentissage](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
+* [L'équipe](la-mission-apprentissage/lequipe.md)
+* [Les services attendus de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 
 ## Les nouveaux services
 
+* [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-nouveaux-services/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
+* [Anotea Apprentissage](les-nouveaux-services/anotea-apprentissage.md)
 * [Un catalogue élargi de formations en Apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [Un catalogue élargi de formations en Apprentissage](https://mission-apprentissage.gitbook.io/catalogue/)
 * [L'Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
-
-## Les services à venir
-
-* [L'Open data du catalogue de formation](les-services-a-venir/lopen-data-du-catalogue-de-formation.md)
-* [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-services-a-venir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
-* [Anotea Apprentissage](les-services-a-venir/anotea-apprentissage.md)
+* [L'Open data du catalogue de formation](les-nouveaux-services/lopen-data-du-catalogue-de-formation.md)
 
 ## De nouveaux outils pour l'écosystème
 
