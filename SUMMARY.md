@@ -4,9 +4,10 @@
 
 ## La Mission Apprentissage
 
-* [Ce que change la loi en matière d'apprentissage](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
-* [L'équipe](la-mission-apprentissage/lequipe.md)
 * [Les services attendus de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
+* [L'équipe](la-mission-apprentissage/lequipe.md)
+* [Les acteurs](la-mission-apprentissage/les-acteurs.md)
+* [Ce que change la loi en matière d'apprentissage](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 
 ## Les nouveaux services
 
@@ -16,10 +17,12 @@
 * [L'Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 * [L'Open data du catalogue de formation](les-nouveaux-services/lopen-data-du-catalogue-de-formation.md)
 
-## De nouveaux outils pour l'écosystème
+## DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
 
-* [Des communs open source](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
-* [Des ressources documentaires utiles](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
+* [Etudes / Publications](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
+* [Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
+* [Cartographies / Ecosytèmes](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
+* [Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 
 ## Mentions
 

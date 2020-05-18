@@ -5,5 +5,5 @@ description: >-
   simplement le reflet des lectures de l'équipe.
 ---
 
-# Des ressources documentaires utiles
+# Etudes / Publications
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Finalité de la mission globale / problématique / vision et ambition /
+  finalités / utilisateurs
+---
+
 # Les services attendus de la Mission Apprentissage
 
 Cette documentation a été conçue afin de permettre aux usagers de comprendre les services numériques en construction dans le cadre des travaux de la [Mission Apprentissage](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/une-mission-pour-faciliter-les-entrees-en-apprentissage).
