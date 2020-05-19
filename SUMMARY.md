@@ -14,7 +14,7 @@
 * [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-nouveaux-services/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Anotea Apprentissage](les-nouveaux-services/anotea-apprentissage.md)
 * [Un catalogue élargi de formations en Apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [L'Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
+* [L' Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 * [L'Open data du catalogue de formation](les-nouveaux-services/lopen-data-du-catalogue-de-formation.md)
 
 ## DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
