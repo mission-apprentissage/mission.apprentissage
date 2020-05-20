@@ -25,8 +25,6 @@ Retrouvez l'intégralité de la Note aux Ministres confiée à Guillaume Houzel 
 
 Ce service évolutif est porté par  la [délégation générale à l’emploi et à la formation professionnelle \(DGEFP\)](https://travail-emploi.gouv.fr/ministere/organisation/organisation-des-directions-et-services/article/organisation-de-la-delegation-generale-a-l-emploi-et-a-la-formation), le Ministère de l'Education nationale,  et accompagné par la [Direction Interministérielle au Numérique \(DINUM\)](https://www.numerique.gouv.fr/). 
 
-Aucune connaissance spécifique en informatique n'est requise pour comprendre cette documentation.
-
 {% hint style="info" %}
 Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email, contact@...
 {% endhint %}

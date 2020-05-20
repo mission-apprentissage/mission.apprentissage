@@ -6,19 +6,27 @@ description: >-
 
 # La recherche simultanée d'une formation et d'un emploi en Apprentissage
 
+### L'Ambition 
+
 Jusqu'à présent, l'information n'était pas complète et pas centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
 
 L'ambition d'Idea est de permettre aux jeunes de trouver plus facilement et plus rapidement une formation et un contrat en apprentissage par la délivrance d'une information :
 
-1 - la plus complète possible \(toute l'offre de formation et tout le marché du travail exposés sur une seule et même interface\)
+### Le Public visé
 
-2 - la plus personnalisée possible \(critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs\)
+Toute personne , jeune,  demandeur d'emploi , personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage
 
-3 - la plus efficace possible \(affichage du minimum indispensable permettant à l'utilisateur de faire des choix et d'engager les démarches nécessaires\)
+### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
 Un affichage des meilleure combinaisons formation+emploi permet à l'utilisateur de gagner du temps sur sa recherche d'information et de passer immédiatement à l'action.
 
-Tout ou partie des données que l'API Idea délivre est consommable par les plateformes existantes qui ont vocation à renseigner sur l'apprentissage.
+### Les Solutions
 
+Délivrer l’information la plus complète possible à la fois sur toute l'offre de formation disponible et tout le marché du travail, les deux exposés sur une seule et même interface, qui soit :
 
+1 - la plus personnalisée possible \(critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs\)
+
+2 - la plus efficace possible \(affichage du minimum indispensable permettant à l'utilisateur de faire des choix et d'engager les démarches nécessaires\)
+
+Offrir ce service également sous forme d'API , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
 

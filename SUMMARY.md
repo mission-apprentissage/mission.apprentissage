@@ -4,10 +4,10 @@
 
 ## La Mission Apprentissage
 
-* [Les services attendus de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
-* [L'équipe](la-mission-apprentissage/lequipe.md)
+* [Présentation générale de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [Les acteurs](la-mission-apprentissage/les-acteurs.md)
 * [Ce que change la loi en matière d'apprentissage](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
+* [L'équipe](la-mission-apprentissage/lequipe.md)
 
 ## Les nouveaux services
 

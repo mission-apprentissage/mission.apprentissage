@@ -7,7 +7,7 @@ description: >-
 
 # Anotea Apprentissage
 
-## Pourquoi ce futur service ?
+## **L'ambition**
 
 Les avis en ligne sur les formations deviennent un standard, cependant il n’existe aucune solution pour recueillir et diffuser les avis sur les formations en apprentissage. 
 
@@ -15,7 +15,18 @@ Or les avis sont un fort élément de réassurance pour les internautes, notamme
 
 Ce, à condition de pouvoir s’assurer de la véracité du commentaire et de la réalisation effective de la formation en apprentissage
 
-## Le service testé :
+### Les Publics visés
+
+Les candidats à une formation en apprentissage.
+
+Les Centre de Formation en Apprentissage, évalués par les ex-apprentis et qui bénéficient de leur retour pour développer leurs services.
+
+### Le\(s\) Bénéfice\(s\) attendu\(s\)
+
+Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques.  
+Valoriser les bonnes pratiques des centres de formation des apprentis.
+
+### La  Solution
 
 Une solution unique de recueil et de restitution d’avis auprès de toutes les parties prenantes, basée sur la démarche réussie d’Anotéa sur la formation professionnelle. 
 
@@ -24,8 +35,6 @@ Découvrez Anotea , le service de recueil et de restitution des avis des demande
 [https://anotea.pole-emploi.fr/](https://anotea.pole-emploi.fr/) 
 {% endhint %}
 
-Ce service s'appuiera sur la base de données des anciens apprentis, et cherchercra à construire avec les répondants  un questionnaire simple et rapide et une restitution claire des notes et avis sur tous les catalogues de formation en apprentissage.   
-Les test réalisés auprès des futurs apprentis permettront de valider si ce service les éclair et leur permet de répondre à leurs interrogations  spécifiques.
-
+Ce service s'appuiera sur la base de données des anciens apprentis, et cherchera à construire avec les répondants  un questionnaire simple et rapide et une restitution claire des notes et avis sur tous les catalogues de formation en apprentissage.   
 
 
