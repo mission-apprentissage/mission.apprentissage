@@ -4,21 +4,21 @@ description: 'Finalité#1 Finalité#2'
 
 # L' Apprentissage sur Parcoursup
 
-## L'ambition
+## **L'ambition**
 
 Accompagner les candidats qui formulent des voeux en apprentissage dans parcoursup
 
-### Public visé
+### Le Public visé
 
 Les candidats voulant émettre / ayant émis des voeux en apprentissage
 
-### Bénéfice\(s\) visé\(s\)
+### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
 * Les candidats sont mieux informés sur les spécificités des formations en apprentissage \(étapes, dispositifs d’accompagnement, etc.\) ;
-* Les candidats comprennent le calendrier et la nécessiter de trouver un employeur dès la formulation des voeux pour être inscrit définitivement dans la formation de leur choix ;
+* Les candidats comprennent le calendrier et la nécessiter de trouver un employeur dès la formulation des voeux pour être inscrit définitivement dans la formation de leur choix 
 * Les candidats ont eu meilleure visilibité sur le marché de l'emploi de l'alternance.
 
-### Solutions
+### Les Solutions
 
 * Rédirection via l'espace candidat vers le service “la bonne alternance” permettant aux jeunes d’identifier \(par métier et par territoire\) les entreprises susceptibles de les recruter comme apprentis \[lien\]
 * Rédirection via l'espace candidat vers les 60 000 offres d’emploi en apprentissage collectées par Pôle emploi \[lien\]
