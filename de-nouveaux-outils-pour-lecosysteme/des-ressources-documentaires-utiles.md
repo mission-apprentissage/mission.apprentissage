@@ -9,10 +9,9 @@ description: >-
 
 
 
-##  livres \(qu'on peut prêter\)
+## Etudes
 
-* [Ergonomie Web](https://www.eyrolles.com/Informatique/Livre/ergonomie-web-9782212132151/) \(3eme édition\) - Amélie Boucher
-* [Méthodes de design UX](https://www.eyrolles.com/Informatique/Livre/methodes-de-design-ux-9782212673982/) \(2eme édition\) - Carine Lallemand
-
+* [L’apprentissage au service de l’emploi](http://www.cae-eco.fr/L-apprentissage-au-service-de-l-emploi) \(Déc. 2014\) - Marc Ferracci, Pierre Cahuc, Jean Tirole, Étienne Wasmer 
+* 
 
 

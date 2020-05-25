@@ -9,7 +9,7 @@ description: >-
 ### L' Ambition 
 
 Permettre aux jeunes de trouver plus facilement et plus rapidement et une formation et un contrat en apprentissage en offrant une information complète et centralisée.  
-Jusqu'à présent, l'information n'était pas complète et pas centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
+Jusqu'à présent, l'information était ni complète ni centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
 
 
 
@@ -17,9 +17,13 @@ Jusqu'à présent, l'information n'était pas complète et pas centralisée, occ
 
 Toute personne , jeune,  demandeur d'emploi , personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage
 
+
+
 ### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
 Un affichage des meilleure combinaisons formation+emploi permet à l'utilisateur de gagner du temps sur sa recherche d'information et de passer immédiatement à l'action.
+
+
 
 ### Les Solutions
 

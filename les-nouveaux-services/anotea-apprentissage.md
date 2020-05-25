@@ -15,16 +15,22 @@ Or les avis sont un fort élément de réassurance pour les internautes, notamme
 
 Ce, à condition de pouvoir s’assurer de la véracité du commentaire et de la réalisation effective de la formation en apprentissage
 
+
+
 ### Les Publics visés
 
 Les candidats à une formation en apprentissage.
 
 Les Centre de Formation en Apprentissage, évalués par les ex-apprentis et qui bénéficient de leur retour pour développer leurs services.
 
+
+
 ### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
 Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques.  
 Valoriser les bonnes pratiques des centres de formation des apprentis.
+
+
 
 ### La  Solution
 
