@@ -1,8 +1,8 @@
 ---
 description: >-
   Cette documentation a été conçue afin de permettre aux usagers de comprendre
-  les services numériques en construction dans le cadre des travaux de la
-  Mission Apprentissage.
+  les services numériques construits dans le cadre des travaux de la Mission
+  Apprentissage.
 ---
 
 # Présentation générale de la Mission Apprentissage
