@@ -6,11 +6,12 @@ description: >-
 
 # La recherche simultanée d'une formation et d'un emploi en Apprentissage
 
-### L'Ambition 
+### L' Ambition 
 
+Permettre aux jeunes de trouver plus facilement et plus rapidement et une formation et un contrat en apprentissage en offrant une information complète et centralisée.  
 Jusqu'à présent, l'information n'était pas complète et pas centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
 
-L'ambition d'Idea est de permettre aux jeunes de trouver plus facilement et plus rapidement une formation et un contrat en apprentissage par la délivrance d'une information :
+
 
 ### Le Public visé
 

@@ -19,9 +19,9 @@
 
 ## DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
 
-* [Etudes / Publications](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
-* [Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
+* [Etudes / Publications autour du sujet Apprentissage](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
 * [Cartographies / Ecosytèmes](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
+* [Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
 * [Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 
 ## Mentions

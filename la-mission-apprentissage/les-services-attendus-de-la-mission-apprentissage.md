@@ -21,8 +21,6 @@ Ce service évolutif est porté par  la [délégation générale à l’emploi e
 
 ### Vision et ambition
 
-### **Finalités**
-
 {% hint style="info" %}
 Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email, contact@...
 {% endhint %}
