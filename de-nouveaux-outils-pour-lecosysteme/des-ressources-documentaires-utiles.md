@@ -5,7 +5,7 @@ description: >-
   inspirantes pour l'équipe.
 ---
 
-# Etudes / Publications autour du sujet Apprentissage
+# Les Etudes / Publications autour du sujet Apprentissage
 
 
 

@@ -20,7 +20,8 @@ Enfin, vous trouverez dans cette documentation une sélection d'études et de pu
 
 
 {% hint style="info" %}
-Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email, contact@...
+Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email  
+contact@beta.gouv.fr 
 {% endhint %}
 
 
