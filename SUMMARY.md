@@ -17,14 +17,14 @@
 * [L' Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 * [L'Open data du catalogue de formation](les-nouveaux-services/lopen-data-du-catalogue-de-formation.md)
 
-## DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
+## LA DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
 
 * [Etudes / Publications autour du sujet Apprentissage](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
 * [Cartographies / Ecosytèmes](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
 * [Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
 * [Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 
-## Mentions
+## Les Mentions <a id="mentions"></a>
 
 * [Mentions légales](mentions/mentions-legales.md)
 * [CGU](mentions/untitled-1.md)
