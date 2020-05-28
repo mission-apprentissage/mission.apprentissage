@@ -10,6 +10,11 @@
 * [L'Open data du catalogue de formation](les-nouveaux-services/lopen-data-du-catalogue-de-formation.md)
 * [L' Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 
+## les services en devenir
+
+* [Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
+* [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
+
 ## La Mission Apprentissage
 
 * [Présentation générale de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
