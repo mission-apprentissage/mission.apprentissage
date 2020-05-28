@@ -6,6 +6,10 @@ description: >-
 
 # La recherche simultanée d'une formation et d'un emploi en Apprentissage
 
+{% hint style="success" %}
+Accédez directement au service : 
+{% endhint %}
+
 ### L' Ambition 
 
 Permettre aux jeunes de trouver plus facilement et plus rapidement et une formation et un contrat en apprentissage en offrant une information complète et centralisée.  
