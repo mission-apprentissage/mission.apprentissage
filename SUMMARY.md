@@ -30,7 +30,3 @@
 * [CGU](mentions/untitled-1.md)
 * [Untitled](mentions/untitled.md)
 
-## les services en devenir
-
-* [Untitled](les-services-en-devenir/untitled.md)
-
