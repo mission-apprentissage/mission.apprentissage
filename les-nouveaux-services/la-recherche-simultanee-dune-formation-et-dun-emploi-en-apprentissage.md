@@ -7,7 +7,7 @@ description: >-
 # La recherche simultanée d'une formation et d'un emploi en Apprentissage
 
 {% hint style="success" %}
-Accédez directement au service : 
+Accédez directement au service : [https://idea-mna.netlify.app/recherche-apprentissage](https://idea-mna.netlify.app/recherche-apprentissage)
 {% endhint %}
 
 ### L' Ambition 
