@@ -10,16 +10,18 @@ description: >-
 Accédez directement au service : [https://idea-mna.netlify.app/recherche-apprentissage](https://idea-mna.netlify.app/recherche-apprentissage)
 {% endhint %}
 
-### L' Ambition 
+### Le problème à résoudre 
 
-Permettre aux jeunes de trouver plus facilement et plus rapidement et une formation et un contrat en apprentissage en offrant une information complète et centralisée.  
-Jusqu'à présent, l'information était ni complète ni centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
+L'apprentissage est  un contrat apprenant : à la fois un contrat de travail avec un employeur et une formation permettant l'acquisition d'une certification. Or il est très compliqué aujourd'hui d'identifier à la fois un employeur et une formation lorsque l'on cherche à devenir apprenti .  
+Jusqu'à présent, l'information est ni complète ni centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
 
+### L'ambition  
 
+Permettre aux jeunes de trouver plus facilement et plus rapidement et une formation et un contrat en apprentissage en offrant une information complète et centralisée.
 
 ### Le Public visé
 
-Toute personne , jeune,  demandeur d'emploi , personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage
+Toute personne, jeune,  demandeur d'emploi, personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage
 
 
 
@@ -36,6 +38,8 @@ Délivrer l’information la plus complète possible à la fois sur toute l'offr
 1 - la plus personnalisée possible \(critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs\)
 
 2 - la plus efficace possible \(affichage du minimum indispensable permettant à l'utilisateur de faire des choix et d'engager les démarches nécessaires\)
+
+Pour cela, l'outil utilise à la fois le catalogue des formations en Apprentissage,  en utilisant la donnée sur les certifications, pour la faire matcher avec une liste d'entreprises susceptibles d'embaucher, extraite d'un [algorithme exploitant l'historique des embauches en alternance](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/la-bonne-alternance-v1?id=5b9a1742243a5f3873a4d2e5)
 
 Offrir ce service également sous forme d'API , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
 

@@ -12,10 +12,10 @@ description: >-
 L'objectif de cette Mission a été précisé par Jean-Michel Blanquer, ministre de l’Éducation nationale, Frédérique Vidal, ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation et Muriel Pénicaud, ministre du Travail . Elle vise à lever les freins à l’essor de l’apprentissage et à faciliter la mise en contact des jeunes, des CFA et des entreprises.
 
 {% hint style="info" %}
-Retrouvez l'intégralité de la Note aux Ministres confiée à Guillaume Houzel : 
+Retrouvez l'intégralité de la Note aux Ministres confiée à Guillaume Houzel :  
 {% endhint %}
 
-Ce service évolutif est porté par  la [délégation générale à l’emploi et à la formation professionnelle \(DGEFP\)](https://travail-emploi.gouv.fr/ministere/organisation/organisation-des-directions-et-services/article/organisation-de-la-delegation-generale-a-l-emploi-et-a-la-formation), le Ministère de l'Education nationale,  et accompagné par la [Direction Interministérielle au Numérique \(DINUM\)](https://www.numerique.gouv.fr/). 
+Ces services évolutifs sont portés par [l’équipe de la mission](https://beta.gouv.fr/startups/apprentissage.html) avec l’appui de la [Direction Interministérielle au Numérique \(DINUM\)](https://www.numerique.gouv.fr/). 
 
 ### Problématique
 
