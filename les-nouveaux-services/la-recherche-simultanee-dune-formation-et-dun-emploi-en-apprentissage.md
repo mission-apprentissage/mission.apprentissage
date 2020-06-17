@@ -1,7 +1,7 @@
 ---
 description: >-
-  Idea est un service qui expose les deux composantes de l'apprentissage : la
-  formation et l'emploi.
+  Idea est un service (en construction) qui expose les deux composantes de
+  l'apprentissage : la formation et l'emploi.
 ---
 
 # La recherche simultanée d'une formation et d'un emploi en Apprentissage
