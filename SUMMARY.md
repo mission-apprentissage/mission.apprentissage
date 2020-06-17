@@ -7,7 +7,7 @@
 * [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-nouveaux-services/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Un catalogue élargi de formations en Apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
 * [Anotea Apprentissage](les-nouveaux-services/anotea-apprentissage.md)
-* [L' Apprentissage sur Parcoursup](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
+* [L' Apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 
 ## les services en devenir
 
@@ -17,7 +17,7 @@
 ## LA DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
 
 * [Les Etudes / Publications autour du sujet Apprentissage](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
-* [La Cartographie de l’écosystème Apprentissage](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
+* [Les parcours croisés Jeune / Entreprise / CFA](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
 * [Les Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
 * [Les Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 

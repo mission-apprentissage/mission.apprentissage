@@ -18,13 +18,13 @@ description: >-
 
 ![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  création de [l’aide unique pour les entreprises de moins de 250 salariés](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) qui signent un contrat d’apprentissage avec un jeune qui prépare un diplôme ou un titre à finalité professionnelle équivalant au plus au baccalauréat ;  
 ![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  possibilité pour les entreprises de créer leur propre CFA, amplifiant ainsi l’offre de formation -[voir le guide d’information](https://travail-emploi.gouv.fr/demarches-ressources-documentaires/documentation-et-publications-officielles/guides/article/kit-ouvrir-votre-propre-centre-de-formation-d-apprentis-cfa)  
-![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  simplification du déplacement des alternants à l’étranger – dont les apprentis ; la mobilité est mieux sécurisée et bénéficie de nouvelles possibilités de financement - [voir les guides d’information](https://travail-emploi.gouv.fr/demarches-ressources-documentaires/documentation-et-publications-officielles/guides/kits-mobilite-alternance)Getting Super Powers
+![-](https://travail-emploi.gouv.fr/plugins/site/themes/mass_theme_travail/v1/puce.gif)  simplification du déplacement des alternants à l’étranger – dont les apprentis ; la mobilité est mieux sécurisée et bénéficie de nouvelles possibilités de financement - [voir les guides d’information](https://travail-emploi.gouv.fr/demarches-ressources-documentaires/documentation-et-publications-officielles/guides/kits-mobilite-alternance) 
 
 ## **Sur le plan de la formation**
 
+* la libéralisation du marché à l’ensemble des organismes de formation qui souhaitent dispenser des actions de formation certifiantes par apprentissage et pour lesquelles un niveau de financement pour chaque contrat sera assuré
 * davantage de passerelles entre apprentissage et statut scolaire ou étudiant,
 * la création des « prépa-apprentissage » pour acquérir les savoir de base et les savoir-être professionnels,
-* le doublement des écoles de production d’ici 2022,
 * l’objectif de 15 000 apprentis en "Erasmus pro" d’ici 2022.
 
 ## **Sur le plan de l’orientation**
