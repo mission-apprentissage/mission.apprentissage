@@ -1,6 +1,6 @@
 # Un catalogue élargi de formations en Apprentissage
 
-[ocumentation catalogue](https://mission-apprentissage.gitbook.io/catalogue/) 
+[Documentation catalogue](https://mission-apprentissage.gitbook.io/catalogue/) 
 
 ## L' ambition
 
