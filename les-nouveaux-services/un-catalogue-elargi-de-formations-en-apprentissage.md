@@ -1,6 +1,6 @@
 # Un catalogue élargi de formations en Apprentissage
 
-[Documentation catalogue](https://mission-apprentissage.gitbook.io/catalogue/) 
+[ocumentation catalogue](https://mission-apprentissage.gitbook.io/catalogue/) 
 
 ## L' ambition
 
@@ -25,8 +25,6 @@ Un 'Open catalogue' est « consommable » à travers les principaux outils numé
 
 
 ### La Solution
-
-
 
 
 
