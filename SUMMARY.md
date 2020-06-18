@@ -17,7 +17,7 @@
 ## LA DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
 
 * [Les Etudes / Publications autour du sujet Apprentissage](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
-* [Les parcours croisés Jeune / Entreprise / CFA](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
+* [Les parcours croisés des Jeunes, des  Entreprises et des CFA](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
 * [Les Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
 * [Les Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 

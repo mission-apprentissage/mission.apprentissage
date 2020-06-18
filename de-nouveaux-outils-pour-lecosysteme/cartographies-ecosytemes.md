@@ -1,4 +1,4 @@
-# Les parcours croisés Jeune / Entreprise / CFA
+# Les parcours croisés des Jeunes, des  Entreprises et des CFA
 
 ## Les parcours croisés jeune / entreprise / cfa
 
