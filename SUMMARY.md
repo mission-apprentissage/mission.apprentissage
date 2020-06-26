@@ -11,7 +11,7 @@
 
 ## les services en devenir
 
-* [Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
+* [RecrutApp - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
 * [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
 
 ## LA DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
