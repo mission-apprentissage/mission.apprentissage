@@ -4,7 +4,7 @@ description: >-
   susceptibles de les embaucher en apprentissage.
 ---
 
-# RecrutApp - Susciter des recrutements en apprentissage
+# Matcha - Susciter des recrutements en apprentissage
 
 ## L'ambition
 
