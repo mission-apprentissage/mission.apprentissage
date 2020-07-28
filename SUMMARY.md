@@ -27,8 +27,3 @@
 * [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
 * [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 
-## Les Mentions <a id="mentions"></a>
-
-* [Mentions légales](mentions/mentions-legales.md)
-* [CGU](mentions/untitled-1.md)
-
