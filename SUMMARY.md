@@ -25,7 +25,7 @@
 
 * [La Présentation générale de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
-* [Ce que change la loi en matière d'apprentissage](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
+* [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 * [L'équipe](la-mission-apprentissage/lequipe.md)
 
 ## Les Mentions <a id="mentions"></a>
