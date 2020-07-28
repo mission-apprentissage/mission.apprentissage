@@ -1,10 +1,8 @@
 # Un catalogue élargi de formations en Apprentissage
 
-[Documentation catalogue](https://mission-apprentissage.gitbook.io/catalogue/) 
-
 ## L' ambition
 
-Rendre plus visible les offres de formation en apprentissage  
+Rendre plus visible les offres de formation en apprentissage, via une collecte nationale  réalisée sous forme "d'enquête flash » lancée en décembre 2019 pour répondre aux besoins  d' eposition accrue de l'offre d'apprentissage, notamment sur les outils d’affectation du ministère de l’Enseignement supérieur et de la Recherche \(Parcoursup\) et de l’Éducation nationale \(Affelnet\).  
 
 
 ### Le Public visé
@@ -25,8 +23,6 @@ Un 'Open catalogue' est « consommable » à travers les principaux outils numé
 
 
 ### La Solution
-
-
 
 {% hint style="info" %}
 Retrouvez [ici la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission

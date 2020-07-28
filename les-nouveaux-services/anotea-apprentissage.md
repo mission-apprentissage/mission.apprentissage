@@ -2,7 +2,7 @@
 description: >-
   Alors même que les formations en alternance sont amenées à se développer,
   l’apprentissage souffre d’un déficit d’image, tout comme certains secteurs
-  d’activité qui ont recours à ce type de contrat pou
+  d’activité ayant recours à ce type de contrat.
 ---
 
 # Sirius - avis et témoignages d'apprentis
@@ -17,14 +17,17 @@ Ce, à condition de pouvoir s’assurer de la véracité du commentaire et de la
 
 ### Les Publics visés
 
-Les candidats à une formation en apprentissage.
-
+Les candidats à une formation en apprentissage.  
 Les Centre de Formation en Apprentissage, évalués par les ex-apprentis et qui bénéficient de leur retour pour développer leurs services.
+
+
 
 ### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
 Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques.  
 Valoriser les bonnes pratiques des centres de formation des apprentis.
+
+
 
 ### La  Solution
 

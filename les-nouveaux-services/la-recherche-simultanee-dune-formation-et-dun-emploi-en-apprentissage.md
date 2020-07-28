@@ -21,7 +21,7 @@ Permettre aux jeunes de trouver plus facilement et plus rapidement et une format
 
 ### Le Public visé
 
-Toute personne, jeune,  demandeur d'emploi, personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage
+Toute personne, jeune, demandeur d'emploi, personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage.
 
 
 
@@ -39,7 +39,7 @@ Délivrer l’information la plus complète possible à la fois sur toute l'offr
 
 2 - la plus efficace possible \(affichage du minimum indispensable permettant à l'utilisateur de faire des choix et d'engager les démarches nécessaires\)
 
-Pour cela, l'outil utilise à la fois le catalogue des formations en Apprentissage,  en utilisant la donnée sur les certifications, pour la faire matcher avec une liste d'entreprises susceptibles d'embaucher, extraite d'un [algorithme exploitant l'historique des embauches en alternance](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/la-bonne-alternance-v1?id=5b9a1742243a5f3873a4d2e5)
+Pour cela, l'outil utilise à la fois le catalogue des formations en Apprentissage,  en exploitant la donnée sur les certifications, pour la faire matcher avec une liste d'entreprises susceptibles d'embaucher, extraite d'un [algorithme exploitant l'historique des embauches en alternance](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/la-bonne-alternance-v1?id=5b9a1742243a5f3873a4d2e5)
 
 Offrir ce service également sous forme d'API , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
 
