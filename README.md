@@ -19,7 +19,7 @@ Cette documentation présente enfin plus généralement la  [Mission Apprentissa
 
 {% hint style="info" %}
 Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email  
-contact@beta.gouv.fr 
+contact@beta.gouv.fr
 {% endhint %}
 
 
