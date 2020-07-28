@@ -11,9 +11,11 @@ description: >-
 
 * **Prolongation à 6 mois du délai de signature d’un contrat d’apprentissage avec une entreprise**
 
-  Pour les jeunes entrant en formation entre le 1er août et le 31 décembre 2020, un délai de 6 mois leur est accordé pour trouver une entreprise avec laquelle signer un contrat d’apprentissage.
+{% hint style="success" %}
+Pour les jeunes entrant en formation entre le 1er août et le 31 décembre 2020, un délai de 6 mois leur est accordé pour trouver une entreprise avec laquelle signer un contrat d’apprentissage.
 
-  Ils peuvent ainsi rester en centre de formation des apprentis \(CFA\), sans contrat, pendant 6 mois \(contre 3 mois avant\). Durant cette période, le CFA est financé pour assurer son accueil.
+Ils peuvent ainsi rester en centre de formation des apprentis \(CFA\), sans contrat, pendant 6 mois \(contre 3 mois avant\). Durant cette période, le CFA est financé pour assurer son accueil.
+{% endhint %}
 
 #### Egalement 
 
@@ -26,17 +28,21 @@ description: >-
 
 #### Création d’une aide exceptionnelle au recrutement des apprentis, jusqu’au niveau master et pour toutes les entreprises
 
+{% hint style="success" %}
 **Aide financière de**  :
 
 * 5 000 euros pour un apprenti de moins de 18 ans ;
 * 8 000 euros pour un apprenti majeur ; par contrat préparant à un diplôme jusqu’au master
+{% endhint %}
 
 **Pour les contrats signés à compter du 1er juillet 2020 et jusqu’au 28 février 2021**, cette aide sera versée :
 
 * aux entreprises de moins de 250 salariés **sans condition** ;
 * et aux entreprises de plus 250 salariés à la condition qu’elles s’engagent à atteindre le seuil de contrats d’apprentissage ou de contrats de professionnalisation dans leur effectif en 2021, selon des modalités définies pas décret \(faute de quoi il faudra rembourser les sommes perçues.\)
 
+{% hint style="success" %}
 **À noter** : à l’issue de la première année d’exécution du contrat, les entreprises éligibles à l’[aide unique](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) pourront bénéficier de cette aide jusqu’à la fin du contrat.
+{% endhint %}
 
 #### Egalement :
 
