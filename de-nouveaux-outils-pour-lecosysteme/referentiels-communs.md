@@ -1,2 +1,19 @@
 # Les Référentiels communs
 
+### Les données accessibles en Open data utilisées par la Mission
+
+#### Concernant les établissements d'enseignement et organismes de formation actifs :
+
+* [https://data.education.gouv.fr/explore/dataset/fr-en-adresse-et-geolocalisation-etablissements-premier-et-second-degre](https://data.education.gouv.fr/explore/dataset/fr-en-adresse-et-geolocalisation-etablissements-premier-et-second-degre)
+* [https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education](https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education)
+* [https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-principaux-etablissements-enseignement-superieur](https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-principaux-etablissements-enseignement-superieur)
+* [https://www.data.gouv.fr/fr/datasets/liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail/](https://www.data.gouv.fr/fr/datasets/liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail/)
+* [http://opendata.onisep.fr/data/57da92de4e062/2-etablissements-d-enseignement-secondaire.htm](http://opendata.onisep.fr/data/57da92de4e062/2-etablissements-d-enseignement-secondaire.htm)
+* [http://opendata.onisep.fr/data/57da952417293/2-etablissements-d-enseignement-superieur.htm](http://opendata.onisep.fr/data/57da952417293/2-etablissements-d-enseignement-superieur.htm)
+
+#### Concernant **les données du** Répertoire national de la certification professionnelle \(RNCP\)
+
+* [https://www.data.gouv.fr/fr/datasets/repertoire-national-des-certifications-professionnelles-et-repertoire-specifique/](https://www.data.gouv.fr/fr/datasets/repertoire-national-des-certifications-professionnelles-et-repertoire-specifique/)
+
+
+

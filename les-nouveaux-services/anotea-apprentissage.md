@@ -7,7 +7,7 @@ description: >-
 
 # Sirius - avis et témoignages d'apprentis
 
-## Le problème à résoudre
+### Le problème à résoudre
 
 Les avis en ligne sur les formations deviennent un standard, cependant il n’existe aucune solution pour recueillir et diffuser les avis sur les formations en apprentissage.
 

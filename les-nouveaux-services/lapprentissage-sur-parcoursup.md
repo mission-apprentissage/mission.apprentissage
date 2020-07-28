@@ -1,10 +1,13 @@
 ---
-description: 'Finalité#1 Finalité#2'
+description: >-
+  Améliorer l'information sur l'apprentissage et ses formations sur ces deux
+  plateformes  du ministère de l’Enseignement supérieur et de la Recherche et de
+  l’Éducation nationale.
 ---
 
 # L' Apprentissage sur Parcoursup et Affelnet
 
-## **L'ambition**
+### **L'ambition**
 
 Accompagner les candidats qui formulent des vœux en apprentissage depuis Parcoursup 
 
