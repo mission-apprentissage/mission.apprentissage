@@ -36,7 +36,7 @@ description: >-
 * aux entreprises de moins de 250 salariés **sans condition** ;
 * et aux entreprises de plus 250 salariés à la condition qu’elles s’engagent à atteindre le seuil de contrats d’apprentissage ou de contrats de professionnalisation dans leur effectif en 2021, selon des modalités définies pas décret \(faute de quoi il faudra rembourser les sommes perçues.\)
 
-**À noter** : à l’issue de la première année d’exécution du contrat, les entreprises éligibles à l’[aide unique](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) pourront bénéficier de cette aide jusqu’à la fin du contrat.création de [l’aide unique pour les entreprises de moins de 250 salariés](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) qui signent un contrat d’apprentissage avec un jeune qui prépare un diplôme ou un titre à finalité professionnelle équivalant au plus au baccalauréat ;
+**À noter** : à l’issue de la première année d’exécution du contrat, les entreprises éligibles à l’[aide unique](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) pourront bénéficier de cette aide jusqu’à la fin du contrat.
 
 #### Egalement :
 
