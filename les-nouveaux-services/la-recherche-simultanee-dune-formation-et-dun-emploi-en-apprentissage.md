@@ -12,8 +12,8 @@ Accédez directement au service : [https://idea-mna.netlify.app/recherche-appren
 
 ### Le problème à résoudre 
 
-L'apprentissage est  un contrat apprenant : à la fois un contrat de travail avec un employeur et une formation permettant l'acquisition d'une certification. Or il est très compliqué aujourd'hui d'identifier à la fois un employeur et une formation lorsque l'on cherche à devenir apprenti .  
-Jusqu'à présent, l'information est ni complète ni centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
+L'apprentissage est  un contrat apprenant : à la fois un contrat de travail avec un employeur et une formation permettant l'acquisition d'une certification.  Il est très compliqué aujourd'hui d'identifier à la fois un employeur et une formation lorsque l'on cherche à devenir apprenti .  
+Jusqu'à présent, l'information n'était ni complète ni centralisée, occasionnant perte de temps et d'opportunités pour les personnes en recherche d'apprentissage.
 
 ### L'ambition  
 
@@ -27,7 +27,7 @@ Toute personne, jeune, demandeur d'emploi, personne en reconversion, cherchant �
 
 ### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
-Un affichage des meilleure combinaisons formation+emploi permet à l'utilisateur de gagner du temps sur sa recherche d'information et de passer immédiatement à l'action.
+Un affichage des meilleures combinaisons formation+emploi permet à l'utilisateur de gagner du temps sur sa recherche d'information et de passer immédiatement à l'action.
 
 
 
@@ -41,5 +41,5 @@ Délivrer l’information la plus complète possible à la fois sur toute l'offr
 
 Pour cela, l'outil utilise à la fois le catalogue des formations en Apprentissage,  en exploitant la donnée sur les certifications, pour la faire matcher avec une liste d'entreprises susceptibles d'embaucher, extraite d'un [algorithme exploitant l'historique des embauches en alternance](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/la-bonne-alternance-v1?id=5b9a1742243a5f3873a4d2e5)
 
-Offrir ce service également sous forme d'API , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
+Offrir ce service également sous forme d'API et de widget , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
 
