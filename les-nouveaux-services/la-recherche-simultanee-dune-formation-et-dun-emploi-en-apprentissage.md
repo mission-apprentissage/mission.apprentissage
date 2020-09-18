@@ -41,5 +41,7 @@ Délivrer l’information la plus complète possible à la fois sur toute l'offr
 
 Pour cela, l'outil utilise à la fois le catalogue des formations en Apprentissage,  en exploitant la donnée sur les certifications, pour la faire matcher avec une liste d'entreprises susceptibles d'embaucher, extraite d'un [algorithme exploitant l'historique des embauches en alternance](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/la-bonne-alternance-v1?id=5b9a1742243a5f3873a4d2e5)
 
-Offrir ce service également sous forme d'API et de widget , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
+Offrir ce service également sous forme d'API \(prochainement\) et de widget \(déjà disponible\) , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
+
+Documentation du widget disponible ici : [https://app.gitbook.com/@mission-apprentissage/s/idea/](https://app.gitbook.com/@mission-apprentissage/s/idea/)
 
