@@ -58,10 +58,7 @@ Ceci afin tout d'abord d'éviter aux CFA des temps de collecte long, des erreurs
 Le périmètre de la collecte ainsi que les informations collectées mises à jour pour 2021 sont celles qui figurent dans le catalogue des offres de formation au 30 juin 2020.    
 Cette collecte sera réalisée a minima via un export, au mieux via une interface permettant le transfert automatique des données.
 
-### **Lien vers Démarches simplifiées pour remplir les informations concernant votre CFA** [**https://www.demarches-simplifiees.fr/commencer/simplification-transmission-donnees**](https://www.demarches-simplifiees.fr/commencer/simplification-transmission-donnees)\*\*\*\*
-
-
-
-  
-
+{% hint style="success" %}
+**vous êtes CFA : accédez ici à**[ **'Démarches simplifiées'** ](https://www.demarches-simplifiees.fr/commencer/simplification-transmission-donnees)**pour remplir les informations concernant votre établissement** 
+{% endhint %}
 
