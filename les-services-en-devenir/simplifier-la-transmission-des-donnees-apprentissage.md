@@ -38,7 +38,8 @@ _**Version 1 : Partager 4 champs disponibles
 Développer une solution qui permet l’interfaçage des données entre les CFA et les SI Parcoursup et Affelnet sur 3 champs :  
 - signalement d’une première étape -&gt; RV, information collective,   
 - pré-inscription -&gt; vœux exploité, inscription comme stagiaire de la formation professionnelle \(voire scolaire\),   
--déjà apprenti -&gt; avec contrat signé et information sur l’abandon du parcours\).  
+- déjà apprenti -&gt; avec contrat signé  
+- abandon &gt; information sur l’abandon du parcours.  
   
 L’opération est conduite en respectant scrupuleusement le RGPD : les données relatives aux jeunes qui sont l’objet du transfert sont les plus réduites possibles \(INE, NIR, vœux et souhaits de formation\). L’engagement du transfert sera effectué avec l’accord des CFA, sollicité par l’État et encouragé à donner leur accord par leurs réseaux et leurs éditeurs de logiciel.  
 Cette solution remplacera des boutons déclaratifs aujourd’hui proposés uniquement sur Parcoursup.
