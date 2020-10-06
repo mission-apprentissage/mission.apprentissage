@@ -35,7 +35,7 @@ Les jeunes en apprentissage dans les CFA.
 
 _**Version 1 : Partager 4 champs disponibles   
 \[échéance mi octobre\]**_   
-Développer une solution qui permet l’interfaçage des données entre les CFA et les SI Parcoursup et Affelnet sur 3 champs :  
+Développer une solution qui permet l’interfaçage des données entre les CFA et les SI Parcoursup et Affelnet sur 4 champs :  
 - signalement d’une première étape -&gt; RV, information collective,   
 - pré-inscription -&gt; vœux exploité, inscription comme stagiaire de la formation professionnelle \(voire scolaire\),   
 - déjà apprenti -&gt; avec contrat signé  
