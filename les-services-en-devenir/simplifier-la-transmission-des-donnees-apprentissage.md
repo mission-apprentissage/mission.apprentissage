@@ -41,7 +41,7 @@ Développer une solution qui permet l’interfaçage des données entre les CFA 
 - déjà apprenti -&gt; avec contrat signé  
 - abandon &gt; information sur l’abandon du parcours.  
   
-L’opération est conduite en respectant scrupuleusement le RGPD : les données relatives aux jeunes qui sont l’objet du transfert sont les plus réduites possibles \(INE, NIR, vœux et souhaits de formation\). L’engagement du transfert sera effectué avec l’accord des CFA, sollicité par l’État et encouragé à donner leur accord par leurs réseaux et leurs éditeurs de logiciel.  
+L’opération est conduite en respectant scrupuleusement le RGPD : les données relatives aux jeunes qui sont l’objet du transfert sont les plus réduites possibles \(INE, NIR, vœux et souhaits de formation\).   
 Cette solution remplacera des boutons déclaratifs aujourd’hui proposés uniquement sur Parcoursup.
 
 _**Version 1.1 : Outiller le pilotage sur la base des données extraites   
