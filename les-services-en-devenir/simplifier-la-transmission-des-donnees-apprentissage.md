@@ -16,7 +16,7 @@ Aucun indice ne permet non plus d’observer les étapes franchies ou non par le
 
 ### L'ambition 
 
-Développer une solution organisant la remontée d’informations clés depuis les systèmes de gestion des CFA vers la Direction interministérielle du numérique \(DINUM\) afin de : 
+Développer une solution organisant la remontée d’informations clés depuis les systèmes de gestion des CFA vers la mission interministérielle pour faciliter les entrées en apprentissage afin de : 
 
 * mieux observer les trajectoires des jeunes jusqu’à l’engagement effectif de leur poursuite d’études
 * discerner plus vite et plus précisément les difficultés rencontrées par certains jeunes dans l’objectif de les résoudre plus efficacement.   
@@ -35,7 +35,7 @@ Les jeunes en apprentissage dans les CFA.
 
 _**Version 1 : Partager 4 champs disponibles   
 \[échéance mi octobre\]**_   
-Développer une solution qui permet l’interfaçage des données entre les CFA et la DINUM pour permettre l'alimentation des SI Parcoursup puis Affelnet sur 4 champs :  
+Développer une solution qui permet l’interfaçage des données entre les CFA et la mission interministérielle pour faciliter les entrées en apprentissage afin de permettre l'alimentation des SI Parcoursup puis Affelnet sur 4 champs :  
 - signalement d’une première étape -&gt; RV, information collective,   
 - pré-inscription -&gt; vœux exploité, inscription comme stagiaire de la formation professionnelle \(voie scolaire\),   
 - déjà apprenti -&gt; avec contrat signé  
