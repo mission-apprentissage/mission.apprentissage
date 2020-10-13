@@ -27,5 +27,5 @@
 * [La Présentation générale de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
 * [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
-* [Zoom RGPD et traitement des données](la-mission-apprentissage/zoom-rgpd-et-traitement-des-donnees.md)
+* [Focus RGPD et traitement de données](la-mission-apprentissage/zoom-rgpd-et-traitement-des-donnees.md)
 
