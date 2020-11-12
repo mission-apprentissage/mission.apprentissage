@@ -7,7 +7,7 @@ description: >-
 # La recherche simultanée d'une formation et d'un emploi en Apprentissage
 
 {% hint style="success" %}
-Accédez directement au service : [https://idea-mna.netlify.app/recherche-apprentissage](https://idea-mna.netlify.app/recherche-apprentissage)
+Accédez directement au service : [https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage](https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage)
 {% endhint %}
 
 ### Le problème à résoudre 
@@ -43,5 +43,5 @@ Pour cela, l'outil utilise à la fois le catalogue des formations en Apprentissa
 
 Offrir ce service également sous forme d'API \(prochainement\) et de widget \(déjà disponible\) , pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
 
-Documentation du widget disponible ici : [https://app.gitbook.com/@mission-apprentissage/s/idea/](https://app.gitbook.com/@mission-apprentissage/s/idea/)
+Documentation du widget disponible ici : [https://mission-apprentissage.gitbook.io/la-bonne-alternance/](https://mission-apprentissage.gitbook.io/la-bonne-alternance/)
 
