@@ -1,6 +1,6 @@
 ---
 description: >-
-  L'objectif de cette Mission a été précisé par les trois ministres, de
+  L'objectif de cette Mission a été précisé par les quatre ministres, de
   l’Éducation nationale, de l’Enseignement supérieur, de la Recherche et de
   l’Innovation et du Travail.
 ---
