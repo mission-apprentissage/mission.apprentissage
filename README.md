@@ -1,8 +1,8 @@
 ---
 description: >-
-  L'objectif de cette Mission a été précisé par les quatre ministres, de
-  l’Éducation nationale, de l’Enseignement supérieur, de la Recherche et de
-  l’Innovation , du Travail et de la Fonction publique.
+  Une Mission visant à faciliter les entrées en apprentissage a été installée
+  par les ministres en charge de l’Éducation nationale, de l’Enseignement
+  supérieur, du Travail et de Transformation publique.
 ---
 
 # Présentation générale
