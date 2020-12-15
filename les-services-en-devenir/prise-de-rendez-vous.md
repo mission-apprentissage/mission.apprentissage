@@ -3,8 +3,10 @@
 ### Le problème à résoudre 
 
 Malgré l’engagement d’une profonde réforme de l’apprentissage qui a supprimé la plupart des freins à son développement et malgré les efforts déployés par les CFA, la mise en contact des candidats à l’apprentissage et des centres de formation n’est pas encore devenue très fluide.   
-Ainsi, une partie des candidats qui souhaitent entrer en apprentissage ne rencontrent pas les CFA qui les intéressent ou le font très tardivement. Cette absence ou ce retard de mise en relation entraîne une perte de chances pour ces candidats, qui n’arrivent pas à concrétiser leur vœu, et pour les CFA concernés qui ne sourcent pas tous les candidats en adéquation avec leur offre de formation.   
+Ainsi, une partie des candidats qui souhaitent entrer en apprentissage ne rencontrent pas les CFA qui les intéressent ou le font très tardivement. Cette absence ou ce retard de mise en relation entraîne une perte de chances pour ces candidats, qui n’arrivent pas à concrétiser leur vœu, et pour les CFA concernés, qui ne sourcent pas tous les candidats en adéquation avec leur offre de formation.   
 En effet, un échange de 5mn entre le candidat et un CFA suffirait parfois à fiabiliser le parcours d’entrée en apprentissage.
+
+
 
 ### Les Publics visés
 
@@ -32,9 +34,9 @@ L’outil sera développé, testé sur les sites de La Bonne Alternance et de Pa
 * version 2 : prise de rendez-vous par formulaire e-mail 
 * version 3 : prise de rendez-vous par agenda 
 
-A l’issue de cette phase, si l’outil fait la preuve de sa valeur tant auprès des candidats que des CFA, alors fera l’objet d’un déploiement général. &gt; faut-il dire qu’il y aura un go / non go au vu de la mesure d’impact du produit ou de ses résultats pour être plus simple ?
+A l’issue de cette phase, si l’outil fait la preuve de sa valeur tant auprès des candidats que des CFA, alors il fera l’objet d’un déploiement général. 
 
-{% hint style="success" %}
-Découvrez la toute première version du service « prise de RDV » :
+{% hint style="info" %}
+Pour toute question concernant ce projet, merci de nous contacter : carole.cuiller@beta.gouv.fr
 {% endhint %}
 
