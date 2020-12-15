@@ -6,11 +6,11 @@
 
 * [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-nouveaux-services/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Un catalogue élargi de formations en Apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [Sirius - avis et témoignages d'apprentis](les-nouveaux-services/anotea-apprentissage.md)
 * [L' Apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 
 ## les services en devenir
 
+* [Sirius - avis et témoignages d'apprentis](les-services-en-devenir/anotea-apprentissage.md)
 * [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
 * [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
 * [Simplifier la transmission des données apprentissage](les-services-en-devenir/simplifier-la-transmission-des-donnees-apprentissage.md)
