@@ -37,6 +37,6 @@ L’outil sera développé, testé sur les sites de La Bonne Alternance et de Pa
 A l’issue de cette phase, si l’outil fait la preuve de sa valeur tant auprès des candidats que des CFA, alors il fera l’objet d’un déploiement général. 
 
 {% hint style="info" %}
-Pour toute question concernant ce projet, merci de nous contacter : carole.cuiller@beta.gouv.fr
+Pour toute question concernant ce projet, merci de nous contacter :  [carole.cuillier@beta.gouv.fr](mailto:carole.cuillier@beta.gouv.fr)
 {% endhint %}
 
