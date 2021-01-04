@@ -13,7 +13,7 @@
 * [Sirius - avis et témoignages d'apprentis](les-services-en-devenir/anotea-apprentissage.md)
 * [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
 * [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
-* [Simplifier la transmission des données apprentissage](les-services-en-devenir/simplifier-la-transmission-des-donnees-apprentissage.md)
+* [Simplifier la transmission des données de l'apprentissage](les-services-en-devenir/simplifier-la-transmission-des-donnees-apprentissage.md)
 * [Prise de rendez-vous](les-services-en-devenir/prise-de-rendez-vous.md)
 
 ## LA DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>

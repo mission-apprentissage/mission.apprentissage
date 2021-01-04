@@ -1,16 +1,15 @@
 ---
 description: >-
-  Les Centres de Formation des Apprentis multiplient les saisies dans différents
+  Les Centres de formation des apprentis multiplient les saisies dans différents
   systèmes pour rendre compte de leur activité, des statuts des apprentis, et
   mettre en visibilité leur offre de formation.
 ---
 
-# Simplifier la transmission des données apprentissage
+# Simplifier la transmission des données de l'apprentissage
 
-### Le problème à résoudre 
+### Le \(premier\) problème à résoudre 
 
-Au total, en 2019, ce sont environ 220 000 candidats qui ont souhaité une mise en relation avec un CFA par l’un des deux portails . Or une fois le vœu exprimé et transmis au centre de formation, l’information se perd.   
-Aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut.   
+Au total, en 2020, ce sont environ 250 000 candidats qui ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré. Aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut.   
 Aucun indice ne permet non plus d’observer les étapes franchies ou non par les jeunes, en vue d’accompagner d’une façon réactive ceux qui décrochent et peuvent se retrouver en difficulté.    
 
 
