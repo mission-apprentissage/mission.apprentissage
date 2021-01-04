@@ -9,13 +9,13 @@ description: >-
 
 ### Le \(premier\) problème à résoudre 
 
-Au total, en 2020, ce sont environ 250 000 candidats qui ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré. Aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut.   
-Aucun indice ne permet non plus d’observer les étapes franchies ou non par les jeunes, en vue d’accompagner d’une façon réactive ceux qui décrochent et peuvent se retrouver en difficulté.    
+Au total, en 2020, ce sont environ 250 000 candidats qui ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré. Aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut. Aucun indice ne permet non plus d’observer les étapes franchies ou non par les jeunes, en vue d’accompagner d’une façon réactive ceux qui décrochent et peuvent se retrouver en difficulté.    
+Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion pour simplifier les échanges, favoriser un pilotage plus fin et réactif, simplifier les démarches des CFA et améliorer l'accompagnement des jeunes et des employeurs.   
 
 
 ### L'ambition 
 
-Développer une solution organisant la remontée d’informations clés depuis les systèmes de gestion des CFA vers la mission interministérielle pour faciliter les entrées en apprentissage afin de : 
+Développer une solution organisant la remontée d’informations clés depuis les systèmes de gestion des CFA vers la mission interministérielle pour faciliter les entrées en apprentissage afin dans un premier temps, de : 
 
 * mieux observer les trajectoires des jeunes jusqu’à l’engagement effectif de leur poursuite d’études
 * discerner plus vite et plus précisément les difficultés rencontrées par certains jeunes dans l’objectif de les résoudre plus efficacement.   
@@ -50,8 +50,7 @@ Piloter l'évolution des effectifs par région administrative, par CFA, par cert
 - les capacités d’accueil révisées au motif de l’épidémie s’avèrent respectées,   
 - il existe des places vacantes pouvant être mobilisées par des jeunes sans solution dans le cadre du plan de relance  '1 jeune 1 solution'
 
-_**Version 2 : Automatiser la collecte de l’offre de formation pour les CFA sous Ymag   
-\[échéance d’ici la fin 2020\]**_  
+_**Version 2 : Automatiser la collecte de l’offre de formation pour les CFA sous Ymag**_   
 ****Collecter les données liées aux offres de formation en apprentissage proposées par les CFA via une interface.   
 Ceci afin tout d'abord d'éviter aux CFA des temps de collecte long, des erreurs dans les re-saisies multiples. Pour permettre ensuite de gérer la capacité et les places restant disponibles au plus près afin d’assurer une bonne adéquation entre demande et offre de formation.  
 Le périmètre de la collecte ainsi que les informations collectées mises à jour pour 2021 sont celles qui figurent dans le catalogue des offres de formation au 30 juin 2020.    
