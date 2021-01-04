@@ -2,7 +2,7 @@
 
 ### Le problème à résoudre 
 
-Malgré l’engagement d’une profonde réforme de l’apprentissage qui a supprimé la plupart des freins à son développement et malgré les efforts déployés par les CFA, la mise en contact des candidats à l’apprentissage et des centres de formation n’est pas encore devenue très fluide.   
+Malgré l’engagement d’une profonde réforme de l’apprentissage qui a supprimé la plupart des freins à son développement et malgré les efforts déployés par les CFA, la mise en contact des candidats à l’apprentissage et des centres de formation n’est pas encore devenue assez fluide.   
 Ainsi, une partie des candidats qui souhaitent entrer en apprentissage ne rencontrent pas les CFA qui les intéressent ou le font très tardivement. Cette absence ou ce retard de mise en relation entraîne une perte de chances pour ces candidats, qui n’arrivent pas à concrétiser leur vœu, et pour les CFA concernés, qui ne sourcent pas tous les candidats en adéquation avec leur offre de formation.   
 En effet, un échange de 5mn entre le candidat et un CFA suffirait parfois à fiabiliser le parcours d’entrée en apprentissage.
 
