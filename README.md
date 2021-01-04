@@ -9,7 +9,7 @@ description: >-
 
 ### **Bienvenue sur l'espace de documentation de la Mission interministérielle pour l'apprentissage.** 
 
-C'est ici qu'est présenté l'objet et les finalités de la [Mission Apprentissage](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/une-mission-pour-faciliter-les-entrees-en-apprentissage) , l'équipe qui la constitue et l'écosystème dans lequel elle intervient.   
+C'est ici que sont présentés l'objet et les finalités de la [Mission Apprentissage](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/une-mission-pour-faciliter-les-entrees-en-apprentissage), l'équipe qui la constitue et l'écosystème dans lequel elle intervient.   
    
 Vous y trouverez en outre des informations sur chacun des nouvaux services en cours de développement, dont le problème qu'ils ont vocation à résoudre, le public visé, le\(s\) bénéfice\(s\) attendu\(s\), les solutions testées et mises en oeuvre.  
   

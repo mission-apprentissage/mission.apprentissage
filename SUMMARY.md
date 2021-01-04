@@ -6,7 +6,7 @@
 
 * [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-nouveaux-services/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Un catalogue élargi de formations en Apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [L' Apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
+* [L' apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 
 ## les services en devenir
 
