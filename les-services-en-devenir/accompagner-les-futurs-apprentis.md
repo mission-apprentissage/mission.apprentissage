@@ -20,6 +20,7 @@ Mettre en œuvre en juin et juillet 2020 voire au-delà un accompagnement par vo
 ### Le Public visé
 
 Les 20 000 jeunes environ ayant émis sur ParcourSup  exclusivement des vœux de formation en apprentissage.  
+Ces ressources seront proposées de façon complémentaire aux autres candidats à l'apprentissage via ParcourSup ou d'autres canaux.   
 
 
 ### Le\(s\) Bénéfice\(s\) attendu\(s\)
