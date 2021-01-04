@@ -17,16 +17,16 @@ Ces jeunes ne bénéficient pas tous des savoir-faire et outils pour concrétise
 Mettre en œuvre en juin et juillet 2020 voire au-delà un accompagnement par voie numérique de cette cohorte de jeunes candidats à l’apprentissage pour leur proposer des ressources, des conseils, des contacts et optimiser leurs chances d’assurer leur entrée en apprentissage.  
 
 
-### Le Public visé
+### Le public visé
 
 Les 20 000 jeunes environ ayant émis sur ParcourSup  exclusivement des vœux de formation en apprentissage.  
 Ces ressources seront proposées de façon complémentaire aux autres candidats à l'apprentissage via ParcourSup ou d'autres canaux.   
 
 
-### Le\(s\) Bénéfice\(s\) attendu\(s\)
+### Le\(s\) bénéfice\(s\) attendu\(s\)
 
-Suivre le parcours de cette cohorte dans le temps  afin de mesurer l’impact des actions mises en œuvre.  
-Au-delà des solutions apportées aux jeunes concernées , cette action doit permettre de constituer  des données d’analyse détaillées permettant de renforcer la pertinence des efforts engagés.  
+Affiner et compléter les conseils donnés aux jeunes à l'heure de leur entrée en apprentissage.   
+Suivre le parcours de cette cohorte dans le temps  afin de mesurer l’impact des actions mises en œuvre et constituer  des données d’analyse détaillées permettant de renforcer la pertinence des efforts engagés.  
 
 
 ### Les Solutions
