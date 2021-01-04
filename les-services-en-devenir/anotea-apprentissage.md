@@ -1,8 +1,8 @@
 ---
 description: >-
-  Alors même que les formations en alternance sont amenées à se développer,
-  l’apprentissage souffre d’un déficit d’image, tout comme certains secteurs
-  d’activité ayant recours à ce type de contrat.
+  L'apprentissage est une voie de formation très dynamique, mais encore assez
+  mal connue et parfois victime de préjugés. Mettre en avant l'expérience des
+  anciens apprentis peut lever des appréhensions;
 ---
 
 # Sirius - avis et témoignages d'apprentis
@@ -15,23 +15,19 @@ Or les avis sont un fort élément de réassurance pour les internautes, notamme
 
 Ce, à condition de pouvoir s’assurer de la véracité du commentaire et de la réalisation effective de la formation en apprentissage
 
-### Les Publics visés
+### Les publics visés
 
 Les candidats à une formation en apprentissage.  
 Les Centre de Formation en Apprentissage, évalués par les ex-apprentis et qui bénéficient de leur retour pour développer leurs services.
 
-
-
-### Le\(s\) Bénéfice\(s\) attendu\(s\)
+### Le\(s\) bénéfice\(s\) attendu\(s\)
 
 Éclairer les choix des futurs apprentis et leur permettre de répondre à leurs interrogations spécifiques.  
 Valoriser les bonnes pratiques des centres de formation des apprentis.
 
+### La  solution
 
-
-### La  Solution
-
-Une solution unique de recueil et de restitution d’avis auprès de toutes les parties prenantes, basée sur la démarche réussie d’Anotéa sur la formation professionnelle.
+Une solution unique de recueil et de restitution d’avis auprès de toutes les parties prenantes, inspirée par la démarche réussie d’Anotéa sur la formation professionnelle.
 
 {% hint style="info" %}
 Découvrez Anotea , le service de recueil et de restitution des avis des demandeurs d'emploi sur les formations qu'ils ont suivies  
