@@ -18,6 +18,8 @@ Simplifier, accélérer et sécuriser la mise en relation entre un candidat à u
 
 ### La Solution
 
+{% embed url="https://drive.google.com/file/d/1yA0uIijdMOpSCKXcPu94LnNbTAGPr-E2/view" %}
+
 Nous souhaitons mettre à disposition de tous un outil numérique en ligne qui permette aux candidats à l’apprentissage de prendre rendez-vous avec les CFA qui les intéressent via trois modes : 
 
 * Demande à être rappelé par le CFA 
@@ -25,6 +27,8 @@ Nous souhaitons mettre à disposition de tous un outil numérique en ligne qui p
 * Inscription sur un créneau de réunion individuelle ou collective dans un agenda proposé par le CFA
 
 Cet outil sera publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
+
+
 
 ### Statut du projet
 
