@@ -24,9 +24,15 @@ Un catalogue ouvert est « consommable » à travers les principaux outils numé
 
 ### La solution
 
-{% hint style="info" %}
-Retrouvez [ici la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission
+{% hint style="success" %}
+Retrouvez sur [catalogue.apprentissage.beta.gouv.fr](https://catalogue.apprentissage.beta.gouv.fr/) le catalogue des établissements et formations en apprentissage 
 {% endhint %}
+
+
+
+### La documentation détaillée 
+
+Retrouvez [ici la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission
 
 
 
