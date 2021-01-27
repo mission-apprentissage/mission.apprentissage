@@ -13,7 +13,7 @@ description: >-
   * Anne-Camille Monet, [anne-camille.monet@pole-emploi.fr](mailto:anne-camille.monet@pole-emploi.fr) 
 * Interlocuteur technique
 
-  * Alan Le Ruyet, alan.leruyet@free.fr
+  * Alan Le Ruyet, [alan.leruyet@free.fr](mailto:alan.leruyet@free.fr)
 
 * Support
   * [labonnealternance@pole-emploi.fr](mailto:labonnealternance@pole-emploi.fr)
