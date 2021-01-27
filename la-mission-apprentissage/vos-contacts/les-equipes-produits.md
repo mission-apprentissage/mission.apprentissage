@@ -1,76 +1,63 @@
+---
+description: >-
+  Chaque produit développé par la Mission fonctionne en équipe resserrée que
+  vous pouvez contacter
+---
+
 # Les équipes produits
 
 ## La Bonne Alternance
 
-**Produit :** 
+* Interlocuteurs Produit
+  * Marion Guillet, [marion.guillet01-ext@pole-emploi.fr](mailto:marion.guillet01-ext@pole-emploi.fr) 
+  * Anne-Camille Monet, [anne-camille.monet@pole-emploi.fr](mailto:anne-camille.monet@pole-emploi.fr) 
+* Interlocuteur technique
 
-Marion Guillet, [marion.guillet01-ext@pole-emploi.fr](mailto:marion.guillet01-ext@pole-emploi.fr) 
+  * Alan Le Ruyet, alan.leruyet@free.fr
 
-Anne-Camille Monet, [anne-camille.monet@pole-emploi.fr](mailto:anne-camille.monet@pole-emploi.fr)  
-
-
-**Tech :** 
-
-Alan Le Ruyet, alan.leruyet@free.fr  
-****
-
-**Support :** 
-
-[**labonnealternance@pole-emploi.fr**](mailto:labonnealternance@pole-emploi.fr)  
-
+* Support
+  * [labonnealternance@pole-emploi.fr](mailto:labonnealternance@pole-emploi.fr)
 
 ## Catalogue élargi des formations
 
-  
-****Produit : 
+* Interlocuteurs Produit
 
-Anne Becquet, anne.becquet@beta.gouv.fr 
+  * Anne Becquet, [anne.becquet@beta.gouv.fr ](mailto:anne.becquet@beta.gouv.fr%20)
+  * Christophe Bonraisin, [christophe.bonraisin@beta.gouv.fr ](mailto:christophe.bonraisin@beta.gouv.fr%20) 
 
-Christophe Bonraisin, christ.bonraisin@pole-emploi.fr   
+* Interlocuteurs techniques
 
+  * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
+  * Eric Plaquevent, [eric.plaquevent@beta.gouv.fr](mailto:eric.plaquevent@beta.gouv.fr)
 
-**Tech :** 
+* Support
+  * [catalogue@apprentissage.beta.gouv.fr](mailto:catalogue@apprentissage.beta.gouv.fr)
 
-Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
+## **Prise de Rendez-Vous**
 
-Eric Plaquevent, [eric.plaquevent@beta.gouv.fr](mailto:eric.plaquevent@beta.gouv.fr)  
-  
-****
-
-**Support :** 
-
-[**catalogue@apprentissage.beta.gouv.fr**](mailto:catalogue@apprentissage.beta.gouv.fr)  
-
-
-## **Prise de RDV**
-
-**Produit :  
-Carole Cuillier,** [**carole.cuillier@beta.gouv.fr**](mailto:carole.cuillier@beta.gouv.fr)
+* Interlocutrice Produit
+  * Carole Cuillier, [carole.cuillier@beta.gouv.fr](mailto:carole.cuillier@beta.gouv.fr)
 
 ## **Matcha**
 
-**Produit :   
-Charlotte Lecuit,** [**charlotte.lecuit@beta.gouv.fr**](mailto:charlotte.lecuit@beta.gouv.fr)
+* Interlocutrice Produit
+  * Charlotte Lecuit, [charlotte.lecuit@beta.gouv.fr](mailto:charlotte.lecuit@beta.gouv.fr) 
+* Interlocuteur technique :
+  * Kevin Barnoin, [kevin.barnoin@beta.gouv.fr](mailto:kevin.barnoin@beta.gouv.fr)
 
 ## **Tableau de bord Apprentissage**
 
-**Produit :** 
-
-**Violaine Asselin,** [**violaine.asselin@pole-emploi.fr**](mailto:violaine.asselin@pole-emploi.fr)  
-****
-
-**Tech :**
-
-**Samir Benfares, samir.benfares@beta.gouv.fr**
+* Interlocutrice Produit
+  * Violaine Asselin, [violaine.asselin@pole-emploi.fr](mailto:violaine.asselin@pole-emploi.fr) ****
+* Interlocuteur technique :
+  * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
 
 ## Sirius
 
-**Produit :**
-
-**Violaine Asselin,** [**violaine.asselin@pole-emploi.fr**](mailto:violaine.asselin@pole-emploi.fr)  
-****
-
-**Tech : Benoît Guérout,** [**bguerout@yonoma.co**](mailto:bguerout@yonoma.com)**m**
+* Interlocutrice Produit
+  * Violaine Asselin, [violaine.asselin@pole-emploi.fr](mailto:violaine.asselin@pole-emploi.fr) ****
+* Interlocuteur technique :
+  * Benoît Guérout, [bguerout@yonoma.com](mailto:bguerout@yonoma.com)
 
 \*\*\*\*
 
