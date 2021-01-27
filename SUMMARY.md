@@ -26,8 +26,7 @@
 ## La Mission Apprentissage
 
 * [La Présentation générale de la Mission Apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
-* [Vos contacts](la-mission-apprentissage/vos-contacts/README.md)
-  * [Les équipes produits](la-mission-apprentissage/vos-contacts/les-equipes-produits.md)
+* [Vos contacts](la-mission-apprentissage/vos-contacts.md)
 * [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
 * [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 * [Focus RGPD et traitement de données](la-mission-apprentissage/zoom-rgpd-et-traitement-des-donnees.md)

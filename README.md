@@ -21,7 +21,7 @@ Cet espace présente enfin une sélection d'études et de publications éclairan
 
 {% hint style="info" %}
 Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email  
-contact@beta.gouv.fr
+[contact@beta.gouv.fr](mailto:contact@beta.gouv.fr)
 {% endhint %}
 
 
