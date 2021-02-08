@@ -5,7 +5,7 @@ description: >-
   mettre en visibilité leur offre de formation.
 ---
 
-# Simplifier la transmission des données de l'apprentissage
+# Tableau de Bord Apprentissage - Simplifier la transmission des données
 
 ### Le \(premier\) problème à résoudre 
 
@@ -32,25 +32,71 @@ Les jeunes en apprentissage dans les CFA.
 
 ### Les Solutions
 
-_**Version 1 : Partager 4 champs disponibles   
-\[échéance mi octobre\]**_   
+_**Version 1 : Partager 4 champs disponibles**_   
+  
 Développer une solution qui permet l’interfaçage des données entre les CFA et la mission interministérielle pour faciliter les entrées en apprentissage afin de permettre l'alimentation des SI Parcoursup puis Affelnet sur 4 champs :  
 - signalement d’une première étape -&gt; RV, information collective,   
 - pré-inscription -&gt; vœux exploité, inscription comme stagiaire de la formation professionnelle \(voie scolaire\),   
 - déjà apprenti -&gt; avec contrat signé  
 - abandon &gt; information sur l’abandon du parcours.  
   
-L’opération est conduite en respectant scrupuleusement le RGPD : les données relatives aux jeunes qui sont l’objet du transfert sont les plus réduites possibles \(INE, NIR, vœux et souhaits de formation\).   
-Cette solution remplacera des boutons déclaratifs aujourd’hui proposés uniquement sur Parcoursup.
+  
+_**Version 2  : Exposer les données recueillies sur un Tableau de bord Apprentissage**_
 
-_**Version 1.1 : Outiller le pilotage sur la base des données extraites   
-\[planification en cours\]**_  
-Piloter l'évolution des effectifs par région administrative, par CFA, par certification afin d'estimer si :   
-- les effectifs sont estimés raisonnables notamment sur la capacité à trouver/ mobiliser des employeurs,    
-- les capacités d’accueil révisées au motif de l’épidémie s’avèrent respectées,   
-- il existe des places vacantes pouvant être mobilisées par des jeunes sans solution dans le cadre du plan de relance  '1 jeune 1 solution'
+* Pour savoir comment évolue le nombre d’apprentis dans un territoire ou un secteur économique
+* Pour dénombrer les jeunes en recherche de contrat ou en risque de décrochage
+* Pour simplifier certaines démarches administratives pour les CFA
 
-_**Version 2 : Automatiser la collecte de l’offre de formation pour les CFA sous Ymag**_   
+**Les données agrégées sont publiques jusqu’au niveau départemental, elles sont mises à disposition de tous les acteurs :**
+
+* Les CFA et leurs réseaux Les membres du SPE : Pole Emploi, Mission Locale, DRETS…
+* Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
+* La Plateforme de Suivi et d’Appui aux Décrocheurs
+* Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
+
+
+
+ **La valeur ajoutée attendue pour les CFA** 
+
+* Mettre en visibilité l’évolution des effectifs et des formations en apprentissage
+* Permettre une meilleure coordination des acteurs
+* Avoir une vision plus précise de l’offre et des tensions sur un territoire
+* Simplifier les démarches administratives
+* Réduire le nombre d’enquêtes administratives
+* Collecter  l’offre de formation via ce canal sans saisie dans les outils du RCO 
+
+**Les données utilisées**
+
+* Apprenant : Données d’identification  dont INE si disponible et état civil 
+* Statut :  Prospect, Inscrit, Apprenti et Abandon
+* Formation  : Certification, localisation, nombre de places disponibles 
+
+**Les solutions de transmission des données**
+
+* par l'éditeur de logiciel ERP utilisé par le CFA : Yparéo, Gesti, SC Form, \(FCA Manager et SG2i, Hyperplanning, Valorsoft à venir ...\)
+* par consommation d’une API 
+* via un formulaire en ligne
+
+{% hint style="info" %}
+**L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique.**
+{% endhint %}
+
+**Un traitement de données au motif de l’intérêt public**   
+  
+_La contribution licite, et nécessaire, des CFA_   
+Conformément à la loi sur la République numérique et au motif de leur mission de service public, les CFA sont tenus de partager avec les administrations publiques les données dont la circulation sert l’intérêt général.  
+  
+_Une opération conduite suivant les procédures sécurisées de l’État :_
+
+* Transmission sécurisée et cryptée des données. 
+* Minimisation des données circulant pour ne traiter que celles strictement utiles à la finalité de la mission. 
+* Minimisation et encadrement strict de l’accès aux données et du nombre d’intervenants.
+* Inscription de l’opération au registre des traitements de données.
+* Production d’une analyse d’impact et d’un plan de mise en sécurité informatique. 
+
+
+
+_**Version 3 : Automatiser la collecte de l’offre de formation pour les CFA sous Ymag**_    
 ****Collecter les données liées aux offres de formation en apprentissage proposées par les CFA via une interface.   
 Ceci afin tout d'abord d'éviter aux CFA des temps de collecte long, des erreurs dans les re-saisies multiples. Pour permettre ensuite de gérer la capacité et les places restant disponibles au plus près afin d’assurer une bonne adéquation entre demande et offre de formation.  
 Le périmètre de la collecte ainsi que les informations collectées mises à jour pour 2021 sont celles qui figurent dans le catalogue des offres de formation au 30 juin 2020.    

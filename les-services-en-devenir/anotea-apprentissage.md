@@ -5,7 +5,7 @@ description: >-
   anciens apprentis peut lever des appréhensions;
 ---
 
-# Sirius - avis et témoignages d'apprentis
+# Sirius - Avis et témoignages d'apprentis
 
 ### Le problème à résoudre
 
