@@ -62,8 +62,7 @@ _**Version 2  : Exposer les données recueillies sur un Tableau de bord Apprenti
 * Permettre une meilleure coordination des acteurs
 * Avoir une vision plus précise de l’offre et des tensions sur un territoire
 * Simplifier les démarches administratives
-* Réduire le nombre d’enquêtes administratives
-* Collecter  l’offre de formation via ce canal sans saisie dans les outils du RCO 
+* Réduire le nombre d’enquêtes administratives 
 
 **Les données utilisées**
 
