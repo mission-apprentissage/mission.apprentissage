@@ -96,12 +96,6 @@ _Une opération conduite suivant les procédures sécurisées de l’État :_
 
 
 
-_**Version 3 : Automatiser la collecte de l’offre de formation pour les CFA sous Ymag**_    
-****Collecter les données liées aux offres de formation en apprentissage proposées par les CFA via une interface.   
-Ceci afin tout d'abord d'éviter aux CFA des temps de collecte long, des erreurs dans les re-saisies multiples. Pour permettre ensuite de gérer la capacité et les places restant disponibles au plus près afin d’assurer une bonne adéquation entre demande et offre de formation.  
-Le périmètre de la collecte ainsi que les informations collectées mises à jour pour 2021 sont celles qui figurent dans le catalogue des offres de formation au 30 juin 2020.    
-Cette collecte sera réalisée a minima via un export, au mieux via une interface permettant le transfert automatique des données.
-
 {% hint style="success" %}
 **vous êtes CFA : accédez ici à**[ **'Démarches simplifiées'** ](https://www.demarches-simplifiees.fr/commencer/simplification-transmission-donnees)**pour remplir les informations concernant votre établissement** 
 {% endhint %}
