@@ -11,7 +11,7 @@ description: >-
 
 C'est ici que sont présentés l'objet et les finalités de la [Mission Apprentissage](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/une-mission-pour-faciliter-les-entrees-en-apprentissage), l'équipe qui la constitue et l'écosystème dans lequel elle intervient.   
    
-Vous y trouverez en outre des informations sur chacun des nouvaux services en cours de développement, dont le problème qu'ils ont vocation à résoudre, le public visé, le\(s\) bénéfice\(s\) attendu\(s\), les solutions testées et mises en oeuvre.  
+Vous y trouverez en outre des informations sur chacun des nouveaux services en cours de développement, dont le problème qu'ils ont vocation à résoudre, le public visé, le\(s\) bénéfice\(s\) attendu\(s\), les solutions testées et mises en oeuvre.  
   
 Cet espace présente enfin une sélection d'études et de publications éclairant les questions relatives à l'apprentissage, des cartographies construites par l'équipe permettant de visualiser l’écosystème Apprentissage, ainsi qu'un ensemble de données et de référentiels mobilisables par l'ensemble des partenaires.
 
