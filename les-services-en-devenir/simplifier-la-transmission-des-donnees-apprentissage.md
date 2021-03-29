@@ -27,34 +27,25 @@ Les jeunes en apprentissage dans les CFA.
 
 ### Le\(s\) Bénéfice\(s\) attendu\(s\)
 
-1. Permettre une amélioration sensible de la qualité de pilotage, en observant comment les vœux transmis par les sites d’orientation et de préadmission sont exploités par les CFA et si les jeunes mis en contact avec eux s’y inscrivent comme prévus.  En fonction des analyses réalisées pourra s’engager une boucle d’amélioration continue des systèmes d’orientation des jeunes vers l’apprentissage et plus largement.  
-2. Identifier mieux et plus tôt les jeunes en difficulté, non pris en charge par les CFA, pour que les conseillers spécialisés les aident à s’orienter. 
+1. Permettre une amélioration sensible de la qualité de pilotage
+2. Observer les positionnements de jeunes sur Affelnet et Parcoursup et leur transformation en entrée en apprentissage
+3. Identifier mieux et plus tôt les jeunes en difficulté qui sont en rupture de contact avec les CFA, pour que les conseillers spécialisés les aident à s’orienter. 
 
 ### Les Solutions
 
-_**Version 1 : Partager 4 champs disponibles**_   
   
-Développer une solution qui permet l’interfaçage des données entre les CFA et la mission interministérielle pour faciliter les entrées en apprentissage afin de permettre l'alimentation des SI Parcoursup puis Affelnet sur 4 champs :  
-- signalement d’une première étape -&gt; RV, information collective,   
-- pré-inscription -&gt; vœux exploité, inscription comme stagiaire de la formation professionnelle \(voie scolaire\),   
-- déjà apprenti -&gt; avec contrat signé  
-- abandon &gt; information sur l’abandon du parcours.  
-  
-  
-_**Version 2  : Exposer les données recueillies sur un Tableau de bord Apprentissage**_
+_**Version 1  : Exposer les données recueillies sur un Tableau de bord Apprentissage**_
 
 * Pour savoir comment évolue le nombre d’apprentis dans un territoire ou un secteur économique
 * Pour dénombrer les jeunes en recherche de contrat ou en risque de décrochage
 * Pour simplifier certaines démarches administratives pour les CFA
 
-**Les données agrégées sont publiques jusqu’au niveau départemental, elles sont mises à disposition de tous les acteurs :**
+**Les données agrégées sont publiques, elles sont mises à disposition de tous les acteurs :**
 
 * Les CFA et leurs réseaux Les membres du SPE : Pole Emploi, Mission Locale, DRETS…
 * Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
 * La Plateforme de Suivi et d’Appui aux Décrocheurs
 * Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
-
-
 
  **La valeur ajoutée attendue pour les CFA** 
 
@@ -62,19 +53,28 @@ _**Version 2  : Exposer les données recueillies sur un Tableau de bord Apprenti
 * Permettre une meilleure coordination des acteurs
 * Avoir une vision plus précise de l’offre et des tensions sur un territoire
 * Simplifier les démarches administratives
-* Réduire le nombre d’enquêtes administratives 
+* Réduire le nombre d’enquêtes administratives
 
 **Les données utilisées**
 
 * Apprenant : Données d’identification  dont INE si disponible et état civil 
-* Statut :  Prospect, Inscrit, Apprenti et Abandon
-* Formation  : Certification, localisation, nombre de places disponibles 
+* Statut :  Apprenant sans Contrat, Apprenti et Abandon
+* Formation  : Certification, localisation
 
 **Les solutions de transmission des données**
 
-* par l'éditeur de logiciel ERP utilisé par le CFA : Yparéo, Gesti, SC Form, \(FCA Manager et SG2i, Hyperplanning, Valorsoft à venir ...\)
-* par consommation d’une API 
-* via un formulaire en ligne
+* par l'éditeur de logiciel ERP utilisé par le CFA : Yparéo, Gesti, \(SC Form et FCA Manager à venir ...\)
+* par consommation d’une API ou par dépôt de fichier sur un serveur
+
+
+
+_**Version 2 : Partager 4 champs disponibles**_   
+  
+Développer une solution qui permet l’interfaçage des données entre les CFA et la mission interministérielle pour faciliter les entrées en apprentissage afin de permettre l'alimentation des SI Parcoursup puis Affelnet sur 4 champs :  
+- signalement d’une première étape -&gt; RV, information collective,   
+- pré-inscription -&gt; vœux exploité, inscription comme stagiaire de la formation professionnelle \(voie scolaire\),   
+- déjà apprenti -&gt; avec contrat signé  
+- abandon &gt; information sur l’abandon du parcours.
 
 {% hint style="info" %}
 **L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique.**
