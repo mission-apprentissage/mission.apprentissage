@@ -53,7 +53,7 @@ Non. Nous effectuons un dédoublonnement à partir des données personnelles des
 
 Les données exposées correspondent aux effectifs des CFA en temps réel. de ce fait, lorsqu'un établissement enregistre une information dans son Système d'Information \(Inscription, Nouveau Contrat...\) l'information est restituée le lendemain ou la semaine suivante au plus tard \(Gesti\) dans le Tableau de bord
 
-## 
+## Vous avez une autre question &gt; écrivez nous !
 
 
 
