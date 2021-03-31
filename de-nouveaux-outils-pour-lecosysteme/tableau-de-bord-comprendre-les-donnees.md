@@ -6,11 +6,15 @@ description: >-
 
 # Tableau de bord : comprendre les données
 
+## D'où viennent ces chiffres ?
+
+Nous collectons des données auprès des CFA en nous connectant à leur ERP.
+
+A ce jour 759 CFA utilisateurs de Gesti ou Yparéo transmettent leurs données.
+
 ## Quelles sont les données collectées ?
 
-Les données sont directement collectées auprès des CFA et sont collectées en continu à partir des systèmes d'information des CFA
-
-Les données sont directement collectées auprès des CFA et sont collectées en continu à partir des systèmes d'information des CFA
+Les données collectées sont : 
 
 * **Apprenant** : INE, Nom, Prénoms, Adresse mail
 * **Statut :**
@@ -31,8 +35,6 @@ A ce jour Yparéo nous transmet les données de manière quotidienne et Gesti ch
 
 Lorsque vous consultez le mois en cours, les données affichées sont celles du dernier jour disponible : 
 
-Lorsque vous consultez le mois en cours, les données affichées sont celles du dernier jour disponible : 
-
 _ex : si je sélectionne janvier 2021, je visualise les effectifs à la date du 31 janvier 2021 : nb Apprentis, Nb Apprenants sans contrat, Nb Abandon sur les formations en cours_
 
 _ex : si je sélectionne janvier 2021, je visualise les effectifs à la date du 31 janvier 2021 : nb Apprentis, Nb Apprenants sans contrat, Nb Abandon sur les formations en cours_
@@ -40,8 +42,6 @@ _ex : si je sélectionne janvier 2021, je visualise les effectifs à la date du 
 Lorsque vous sélectionnez un mois antérieur, les données affichées sont une photographie "fin de mois", c'est à dire au dernier jour du mois consulté _\(si vous sélectionnez décembre, les données affichées sont celle du 31 décembre\)_
 
 ## Il y a un écart entre mes chiffres et ceux du tableau de bord
-
-Si cet écart est faible, il peut s'expliquer par un dédoublonnement qui ne s'est pas fait correctement. En effet, nous importons les données chaque nuit et nous construisons un historique des statuts des jeunes afin de pouvoir vous restituer les données rétrospectivement. Afin de ne pas comptabiliser un apprenant 2 fois, nous procédons à un dédoublonnement basé sur : l'INE \(lorsqu'il est renseigné\) ou Nom-Prenoms-Mail. Il pourra arriver que cette opération ne suffise pas à identifier un apprenant : 
 
 Si cet écart est faible, il peut s'expliquer par un dédoublonnement qui ne s'est pas fait correctement. En effet, nous importons les données chaque nuit et nous construisons un historique des statuts des jeunes afin de pouvoir vous restituer les données rétrospectivement. Afin de ne pas comptabiliser un apprenant 2 fois, nous procédons à un dédoublonnement basé sur : l'INE \(lorsqu'il est renseigné\) ou Nom-Prenoms-Mail. Il pourra arriver que cette opération ne suffise pas à identifier un apprenant : 
 
