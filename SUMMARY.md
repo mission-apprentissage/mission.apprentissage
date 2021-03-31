@@ -20,8 +20,8 @@
 
 * [Les Etudes / Publications autour du sujet Apprentissage](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
 * [Les parcours croisés des Apprenants, des  Entreprises et des CFA](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
-* [Les Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source/README.md)
-  * [Tableau de bord : comprendre les données](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source/tableau-de-bord-comprendre-les-donnees.md)
+* [Les Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
+* [Tableau de bord : comprendre les données](de-nouveaux-outils-pour-lecosysteme/tableau-de-bord-comprendre-les-donnees.md)
 * [Les Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 
 ## La Mission Apprentissage
