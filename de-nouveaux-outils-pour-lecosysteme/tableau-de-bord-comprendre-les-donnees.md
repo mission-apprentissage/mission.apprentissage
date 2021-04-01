@@ -22,12 +22,8 @@ Les données collectées sont :
   * Apprenant sans Contrat : apprenant affecté à un groupe ou ayant démarré sa formation mais qui n'a pas encore signé de contrat avec une entreprise
   * Abandon : apprenant sans contrat ou apprenti ayant quitté définitivement la formation 
 * **Formation**  : Certification, date de début, date de fin, localisation
-* **Apprenant** : INE, Nom, Prénoms, Adresse mail
-* **Statut :**
-  * Apprenti : apprenant en formation et en contrat dans une entreprise
-  * Apprenant sans Contrat : apprenant affecté à un groupe ou ayant démarré sa formation mais qui n'a pas encore signé de contrat avec une entreprise
-  * Abandon : apprenant sans contrat ou apprenti ayant quitté définitivement la formation 
-* **Formation**  : Certification, date de début, date de fin, localisation
+
+\*\*\*\*
 
 ## A quelle date les données sont-elles arrêtées ?
 
