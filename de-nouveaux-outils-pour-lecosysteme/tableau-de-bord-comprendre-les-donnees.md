@@ -10,7 +10,7 @@ description: >-
 
 Nous collectons des données auprès des CFA en nous connectant à leur ERP.
 
-A ce jour 759 CFA utilisateurs de Gesti ou Yparéo transmettent leurs données.
+A ce jour 771 CFA utilisateurs de Gesti ou Yparéo transmettent leurs données.
 
 ## Quelles sont les données collectées ?
 
