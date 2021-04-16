@@ -10,7 +10,7 @@ description: >-
 
 Nous collectons des données auprès des CFA en nous connectant à leur ERP.
 
-A ce jour 771 CFA utilisateurs de Gesti ou Yparéo transmettent leurs données.
+A ce jour 796 CFA utilisateurs de Gesti ou Yparéo transmettent leurs données.
 
 ## Quelles sont les données collectées ?
 
@@ -22,6 +22,7 @@ Les données collectées sont :
   * Apprenant sans Contrat : apprenant affecté à un groupe ou ayant démarré sa formation mais qui n'a pas encore signé de contrat avec une entreprise
   * Abandon : apprenant sans contrat ou apprenti ayant quitté définitivement la formation 
 * **Formation**  : Certification, date de début, date de fin, localisation
+* **CFA** : UAI, SIRET, Nom
 
 \*\*\*\*
 
