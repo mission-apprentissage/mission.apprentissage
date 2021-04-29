@@ -24,9 +24,10 @@
 * [Tableau de bord : comprendre les données](de-nouveaux-outils-pour-lecosysteme/tableau-de-bord-comprendre-les-donnees.md)
 * [Les Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
 
-## La Mission Apprentissage
+## La Mission interministérielle pour l'apprentissage <a id="la-mission-apprentissage"></a>
 
 * [La feuille de route de la Mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
+* [La démarche mise en œuvre](la-mission-apprentissage/la-demarche-mise-en-oeuvre.md)
 * [L'équipe mobilisée](la-mission-apprentissage/vos-contacts.md)
 * [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
 * [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
