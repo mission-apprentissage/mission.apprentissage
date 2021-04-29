@@ -26,8 +26,8 @@
 
 ## La Mission Apprentissage
 
-* [La feuille de route de la Mission interministérielle pour l'apprentissage](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
-* [Vos contacts](la-mission-apprentissage/vos-contacts.md)
+* [La feuille de route de la Mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
+* [L'équipe mobilisée](la-mission-apprentissage/vos-contacts.md)
 * [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
 * [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 * [Focus RGPD et traitement de données](la-mission-apprentissage/zoom-rgpd-et-traitement-des-donnees.md)

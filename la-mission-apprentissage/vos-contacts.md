@@ -1,10 +1,6 @@
----
-description: >-
-  Chaque produit développé par la Mission fonctionne en équipe resserrée que
-  vous pouvez contacter
----
+# L'équipe mobilisée
 
-# Vos contacts
+Chaque produit développé par la Mission fonctionne en équipe resserrée que vous pouvez contacter
 
 ## La Bonne Alternance
 
