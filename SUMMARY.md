@@ -12,7 +12,6 @@
 
 * [Le catalogue des offres de formations en apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
 * [Tableau de Bord Apprentissage - Simplifier la transmission des données](les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage.md)
-* [L' apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a id="les-services-en-devenir"></a>
 
@@ -21,6 +20,12 @@
 * [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
 * [Prise de rendez-vous - Sécuriser et accélérer la mise en contact jeunes/cfa](les-services-en-devenir/prise-de-rendez-vous.md)
 * [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
+
+## LES SERVICES D'APPUI AUX PORTAILS D'ORIENTATION PARCOURSUP ET AFFELNET
+
+---
+
+* [L' apprentissage sur Parcoursup et Affelnet](lapprentissage-sur-parcoursup.md)
 
 ## LE TRAITEMENT DES DONNÉES EXPLOITÉES
 
