@@ -2,34 +2,40 @@
 
 * [Présentation générale](README.md)
 
-## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a id="les-nouveaux-services"></a>
-
-* [Le catalogue des offres de formations en apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-nouveaux-services/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
-* [L' apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
-
-## les services en devenir
-
-* [Sirius - Avis et témoignages d'apprentis](les-services-en-devenir/anotea-apprentissage.md)
-* [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
-* [Tableau de Bord Apprentissage - Simplifier la transmission des données](les-services-en-devenir/simplifier-la-transmission-des-donnees-apprentissage.md)
-* [Prise de rendez-vous - Sécuriser et accélérer la mise en contact jeunes/cfa](les-services-en-devenir/prise-de-rendez-vous.md)
-* [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
-
-## LA DOCUMENTATION <a id="de-nouveaux-outils-pour-lecosysteme"></a>
-
-* [Les Etudes / Publications autour du sujet Apprentissage](de-nouveaux-outils-pour-lecosysteme/des-ressources-documentaires-utiles.md)
-* [Les parcours croisés des Apprenants, des  Entreprises et des CFA](de-nouveaux-outils-pour-lecosysteme/cartographies-ecosytemes.md)
-* [Les Données brutes](de-nouveaux-outils-pour-lecosysteme/des-communs-open-source.md)
-* [Tableau de bord : comprendre les données](de-nouveaux-outils-pour-lecosysteme/tableau-de-bord-comprendre-les-donnees.md)
-* [Les Référentiels communs](de-nouveaux-outils-pour-lecosysteme/referentiels-communs.md)
-
 ## La Mission interministérielle pour l'apprentissage <a id="la-mission-apprentissage"></a>
 
 * [La feuille de route de la Mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [La démarche mise en œuvre](la-mission-apprentissage/la-demarche-mise-en-oeuvre.md)
 * [L'équipe mobilisée](la-mission-apprentissage/vos-contacts.md)
-* [Les acteurs de l'Apprentissage](la-mission-apprentissage/les-acteurs.md)
-* [Ce que change la loi et le Plan de relance](la-mission-apprentissage/ce-que-change-la-loi-en-matiere-dapprentissage.md)
-* [Focus RGPD et traitement de données](la-mission-apprentissage/zoom-rgpd-et-traitement-des-donnees.md)
+
+## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a id="les-nouveaux-services"></a>
+
+* [Le catalogue des offres de formations en apprentissage](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
+* [Tableau de Bord Apprentissage - Simplifier la transmission des données](les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage.md)
+* [L' apprentissage sur Parcoursup et Affelnet](les-nouveaux-services/lapprentissage-sur-parcoursup.md)
+
+## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a id="les-services-en-devenir"></a>
+
+* [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
+* [Sirius - Avis et témoignages d'apprentis](les-services-en-devenir/anotea-apprentissage.md)
+* [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
+* [Prise de rendez-vous - Sécuriser et accélérer la mise en contact jeunes/cfa](les-services-en-devenir/prise-de-rendez-vous.md)
+* [Accompagner les futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
+
+## LE TRAITEMENT DES DONNÉES EXPLOITÉES
+
+* [Focus RGPD et traitement de données](le-traitement-des-donnees-exploitees/zoom-rgpd-et-traitement-des-donnees.md)
+* [Les Référentiels communs](le-traitement-des-donnees-exploitees/referentiels-communs.md)
+* [Tableau de bord : comprendre les données](le-traitement-des-donnees-exploitees/tableau-de-bord-comprendre-les-donnees.md)
+
+---
+
+* [Les Données brutes](des-communs-open-source.md)
+
+## La documentation <a id="documentation"></a>
+
+* [Les acteurs de l'Apprentissage](documentation/les-acteurs.md)
+* [Les parcours croisés des Apprenants, des  Entreprises et des CFA](documentation/cartographies-ecosytemes.md)
+* [Ce que change la loi et le Plan de relance](documentation/ce-que-change-la-loi-en-matiere-dapprentissage.md)
+* [Les Etudes / Publications autour du sujet Apprentissage](documentation/des-ressources-documentaires-utiles.md)
 
