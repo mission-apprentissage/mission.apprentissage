@@ -15,7 +15,7 @@
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a id="les-services-en-devenir"></a>
 
-* [La recherche simultanée d'une formation et d'un emploi en Apprentissage](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
+* [La Bonne Alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Sirius - Avis et témoignages d'apprentis](les-services-en-devenir/anotea-apprentissage.md)
 * [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
 * [Prise de rendez-vous - Sécuriser et accélérer la mise en contact jeunes/cfa](les-services-en-devenir/prise-de-rendez-vous.md)

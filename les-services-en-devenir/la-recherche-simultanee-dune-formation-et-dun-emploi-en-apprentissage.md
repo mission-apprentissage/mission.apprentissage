@@ -1,45 +1,41 @@
 ---
 description: >-
-  La Bonne Alternance est un service (en construction) qui renseigne
-  simultanément sur les formations en apprentissage et le marché du travail.
+  D’abord développé par Pôle Emploi, la Bonne Alternance a été reprise en 2020
+  par la Mission Apprentissage pour consolider les données exposées et être
+  étoffée de nouvelles fonctionnalités.
 ---
 
-# La recherche simultanée d'une formation et d'un emploi en Apprentissage
+# La Bonne Alternance
 
 {% hint style="success" %}
-Accédez directement au service : [https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage](https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage)
+La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : [https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage](https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage)
 {% endhint %}
 
-### Le problème à résoudre 
+### Le constat
 
-Une entrée en apprentissage résulte d'un accord entre un jeune candidat, un employeur et un centre de formation. Jusqu'à présent, les informations sur l'emploi et la formation n'étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d'orientation, en particulier pour les plus fragiles et moins renseignés des jeunes. 
+Une entrée en apprentissage résulte d'un accord entre un candidat, un employeur et un centre de formation en apprentissage \(CFA\). Jusqu'à présent, les informations sur l'emploi et la formation n'étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d'orientation, en particulier pour les jeunes les plus fragiles et les moins renseignés.
 
-### L'ambition  
 
-Permettre aux jeunes de trouver plus facilement et plus rapidement et une formation et un contrat en apprentissage en offrant une information complète et centralisée.
-
-### Le public visé
-
-Toute personne, jeune, demandeur d'emploi, personne en reconversion, cherchant à la fois à se former, à acquérir une qualification professionnelle et à identifier des employeurs potentiels pour un contrat d'apprentissage.
-
-### Le\(s\) bénéfice\(s\) attendu\(s\)
-
-Un affichage des meilleures combinaisons formation+emploi permet à l'utilisateur de gagner du temps sur sa recherche d'information et de passer immédiatement à l'action.
 
 ### Les solutions
 
-Délivrer l’information la plus complète possible à la fois sur toute l'offre de formation disponible et tout le marché du travail, exposée sur une seule et même interface, qui soit :
+Pour permettre aux jeunes de trouver plus facilement et plus rapidement une formation et un contrat en alternance, il faut délivrer l’information la plus complète possible à la fois sur toute l'offre de formation disponible et tout le marché du travail, sur une seule et même interface, qui soit : 
 
-1 - la plus personnalisée possible \(critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs\)
+1. La plus personnalisée possible \(des critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs\) ; 
+2. La plus efficace possible \(une interface simple et guidée pour aider l'utilisateur à faire des choix et à engager les démarches nécessaires\).
 
-2 - la plus efficace possible \(affichage du minimum indispensable permettant à l'utilisateur de faire des choix et d'engager les démarches nécessaires\)
+Pour cela, la Bonne Alternance utilise à la fois : 
 
-Pour cela, l'outil utilise à la fois   
-- le catalogue des formations en apprentissage,   
-- l'API proposée par Pôle emploi exposant les offres d'emploi en alternance.   
-- les listes d''entreprises susceptibles d'embaucher, extraites de [deux algorithmes prédictifs](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/la-bonne-alternance-v1?id=5b9a1742243a5f3873a4d2e5) exploitant l'historique des embauches en alternance
+* [Le catalogue des formations en apprentissage](https://mission-apprentissage.gitbook.io/general/les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage) ; 
+* L'API “offres d’emploi” proposée par Pôle emploi exposant les offres d'emploi en alternance ; 
+* Un algorithme prédictif analysant les recrutements passés afin de prédire ceux à venir ; 
+* Les besoins exprimés par de très petites entreprises \(TPE\) ou des petites et moyennes entreprises \(PME\) auprès de leur opérateur de compétences \(OPCO\) dans le cadre de l’expérimentation du produit Matcha \(mettre lien\).
 
-Offrir ce service également sous forme d'API et de widget, pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'apprentissage.
+Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme l[e module "Prise de rendez-vous Apprentissage” ](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous)qui accélère la mise en contact entre jeunes et CFA.
 
-Documentation du widget disponible ici : [https://mission-apprentissage.gitbook.io/la-bonne-alternance/](https://mission-apprentissage.gitbook.io/la-bonne-alternance/)
+Le service La Bonne Alternance existe également sous forme d'API et de widget, pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'alternance. Le widget est disponible en marque blanche. La documentation sur les API et le widget est à retrouver ici : [https://api.gouv.fr/les-api/api-la-bonne-alternance](https://api.gouv.fr/les-api/api-la-bonne-alternance). Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcours Sup, le portail 1 Jeune 1 Solution, l’ONISEP, certains sites d’OPCO, de conseils régionaux,...
+
+### Les bénéfices attendus
+
+Un affichage des meilleures combinaisons formation + emploi permet à l'utilisateur de gagner du temps sur sa recherche d'information et de passer immédiatement à l'action pour concrétiser son souhait.
 

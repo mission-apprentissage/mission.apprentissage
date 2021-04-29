@@ -4,6 +4,12 @@
 
 Dans le cadre de la mobilisation nationale pour l’emploi et la transition écologique, engagée par le Premier Ministre, une mission interministérielle a été confiée à Guillaume Houzel, inspecteur général de l’éducation, du sport et de la recherche, pour faciliter les entrées en apprentissage. 
 
+{% hint style="success" %}
+Pour consulter la lettre de mission : 
+{% endhint %}
+
+
+
 Les priorités dégagées des premières investigations sont de : 
 
 1. Rendre visibles les offres de formation et de contrats d’apprentissage ; 
@@ -16,7 +22,7 @@ Les priorités dégagées des premières investigations sont de :
 
 ### Les travaux en cours
 
-Pour servir ces objectifs, les travaux menés s’appuient sur la mobilisation de l’ensemble des acteurs de l’apprentissage afin d’identifier et caractériser précisément les freins rencontrés et d’imaginer les services qui permettront de les lever. Plusieurs outils sont ainsi en cours de développement : 
+Pour servir les objectifs déterminés par la lettre de mission, les travaux menés s’appuient sur la mobilisation de l’ensemble des acteurs de l’apprentissage afin d’identifier et caractériser précisément les freins rencontrés et d’imaginer les services qui permettront de les lever. Plusieurs outils sont ainsi en cours de développement : 
 
 * Pour consolider l’infrastructure des données relatives à l’apprentissage et fluidifier les échanges entre les différentes parties-prenantes : 
   * Un catalogue élargi de formations en apprentissage a été créé pour alimenter tous les acteurs de l’apprentissage et de l’orientation des jeunes ; 
