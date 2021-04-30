@@ -6,7 +6,7 @@
 
 * [La feuille de route de la Mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [La démarche mise en œuvre](la-mission-apprentissage/la-demarche-mise-en-oeuvre.md)
-* [L'équipe mobilisée](la-mission-apprentissage/vos-contacts.md)
+* [L'équipe mobilisée](la-mission-apprentissage/l-equipe.md)
 
 ## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a id="les-nouveaux-services"></a>
 
