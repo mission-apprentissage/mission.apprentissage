@@ -6,7 +6,7 @@ description: >-
 
 # Le catalogue des formations en apprentissage - Renforcer la collecte et la visibilité des formations
 
-_Créé pour organiser la collecte des formations en apprentissage, le catalogue des offres de formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs._
+_Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs._
 
 ### Le constat
 
@@ -27,7 +27,7 @@ Un catalogue des offres de formation en apprentissage a été créé, pour être
 Retrouvez sur [catalogue.apprentissage.beta.gouv.fr](https://catalogue.apprentissage.beta.gouv.fr/) le catalogue des formations en apprentissage 
 {% endhint %}
 
-Vous pouvez également accédez [ici à la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission.
+Vous pouvez également accéder [ici à la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission.
 
 ### Les bénéfices attendus
 
