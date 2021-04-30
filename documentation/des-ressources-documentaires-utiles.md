@@ -5,13 +5,11 @@ description: >-
   inspirantes pour l'équipe.
 ---
 
-# Les Etudes / Publications autour du sujet Apprentissage
+# Études et publications autour de l’apprentissage
 
-## la lettre de mission et la Note aux ministres 
+## "Faciliter les entrées en apprentissage" - la note de Guillaume Houzel aux ministres 
 
-Retrouvez ci dessous la lettre de Mission et la Note aux ministres à l'origine des services construits par l'équipe 
-
-{% file src="../.gitbook/assets/lettre-de-mission.pdf" caption="Lettre de Mission " %}
+Retrouvez la note aux ministres à l'origine des services construits par l'équipe 
 
 {% file src="../.gitbook/assets/note-aux-ministres.docx.pdf" caption="Note aux ministres \"Faciliter les entrées en apprentissage – G Houzel – Novembre 2019" %}
 

@@ -1,21 +1,19 @@
 ---
 description: >-
   D’abord développé par Pôle Emploi, la Bonne Alternance a été reprise en 2020
-  par la Mission Apprentissage pour consolider les données exposées et être
+  par la Mission Apprentissage pour en consolider les données exposées et être
   étoffée de nouvelles fonctionnalités.
 ---
 
-# La Bonne Alternance
+# La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané
 
 {% hint style="success" %}
-La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. Vous pouvez y accéder directement sur : [https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage](https://labonnealternance.apprentissage.beta.gouv.fr/recherche-apprentissage)
+_La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants._ Vous pouvez y accéder directement sur : [https://labonnealternance.pole-emploi.fr/](https://labonnealternance.pole-emploi.fr/)
 {% endhint %}
 
 ### Le constat
 
 Une entrée en apprentissage résulte d'un accord entre un candidat, un employeur et un centre de formation en apprentissage \(CFA\). Jusqu'à présent, les informations sur l'emploi et la formation n'étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d'orientation, en particulier pour les jeunes les plus fragiles et les moins renseignés.
-
-
 
 ### Les solutions
 
@@ -33,7 +31,13 @@ Pour cela, la Bonne Alternance utilise à la fois :
 
 Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme l[e module "Prise de rendez-vous Apprentissage” ](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous)qui accélère la mise en contact entre jeunes et CFA.
 
-Le service La Bonne Alternance existe également sous forme d'API et de widget, pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'alternance. Le widget est disponible en marque blanche. La documentation sur les API et le widget est à retrouver ici : [https://api.gouv.fr/les-api/api-la-bonne-alternance](https://api.gouv.fr/les-api/api-la-bonne-alternance). Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcours Sup, le portail 1 Jeune 1 Solution, l’ONISEP, certains sites d’OPCO, de conseils régionaux,...
+Le service La Bonne Alternance existe également sous forme d'API et de widget, pour que tout ou partie des données exposées puisse être consommée par les plateformes existantes ayant vocation à renseigner sur l'alternance. Le widget est disponible en marque blanche. 
+
+{% hint style="success" %}
+La documentation sur les API et le widget est à retrouver ici : [https://api.gouv.fr/les-api/api-la-bonne-alternance](https://api.gouv.fr/les-api/api-la-bonne-alternance). 
+{% endhint %}
+
+Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcours Sup, le portail 1 Jeune 1 Solution, l’ONISEP, certains sites d’OPCO, de conseils régionaux,...
 
 ### Les bénéfices attendus
 

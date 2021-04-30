@@ -1,28 +1,31 @@
 ---
 description: >-
-  Proposer des profils de jeunes correspondant aux besoins des entreprises
-  susceptibles de les embaucher en apprentissage.
+  Ce service est en cours d’investigation, pour mieux cerner le problème
+  rencontré et confirmer la pertinence d’un investissement dans le développement
+  de ce service numérique.
 ---
 
 # Matcha - Susciter des recrutements en apprentissage
 
-### L' ambition
+_Matcha vise à faciliter l’expression de besoin de recrutements chez les TPE et PME qui peinent à recruter alors que des profils de  jeunes apprentis pourraient correspondre à leurs besoins._
 
-Si certaines entreprises ont l'habitude de recruter des apprentis, la majorité n'a jamais fait cette expérience ou alors à dose homéopathique. Faciliter les entrées en apprentissage et répondre à une demande croissante des jeunes, c'est aussi convaincre des employeurs supplémentaires de s'ouvrir à cette modalité de contrat pour donner leurs chances à de nouveaux apprentis. 
+### Le constat
 
-### Les publics visés
+En 2020, plus de 495 000 contrats d’apprentissage ont été signés. La loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel, qui inclut une réforme de l’apprentissage, a assoupli les règles de recrutement pour les entreprises et a permis de simplifier l’accès aux aides disponibles. Le plan France Relance, en 2020, a renforcé le montant de ces aides et les a étendu à un public plus large. 
 
-Les employeurs n'ayant pas l'habitude de recruter en apprentissage. 
-
-### Les bénéfices attendus
-
-1. Donner des chances supplémentaires aux jeunes candidats de trouver un emploi en apprentissage. 
-2. Résoudre certaines difficultés de recrutement ressenties par des employeurs. 
+Pourtant, malgré ce cadre facilitateur, une investigation auprès de plusieurs dizaines de très petites entreprises \(TPE\) et petites ou moyennes entreprises \(PME\) a montré qu’elles peinent à recruter des jeunes en apprentissage. Elles ont des besoins de main-d'œuvre qu’elles ne communiquent pas systématiquement en raison de contraintes de temps, de coûts, ou de méconnaissance des modalités de l’apprentissage.
 
 ### La solution
 
-Interpeller des employeurs pour leur présenter l'intérêt de recruter en apprentissage et faciliter l'expression par leur soin d'un besoin en compétence pouvant être traduit en une offre de contrat d'alternance.   
-Rapprocher cette expression de besoin du vivier des jeunes candidats pour apparier l'offre et la demande de contrat et faciliter les recrutements. 
+Au fil des itérations sur le service Matcha, la consultation de plusieurs dizaines de chefs de TPE et PME a entraîné le maquettage et la création de différents formulaires de recueil de besoins de recrutements en apprentissage. Plusieurs campagnes de diffusion avec différents partenaires ont alors été menées, notamment l’OPCO 2I, pour récolter des expressions de besoins de TPE. L’objectif a été de tester, premièrement, la mécanique d’envoi de mailings et, deuxièmement, la velléité des entreprises à exprimer leurs besoins.   
+
+
+Récemment, une nouvelle campagne a été lancée auprès de quelques centaines d’entreprises, auxquelles il a été proposé de remplir un formulaire rapide leur permettant d’afficher leurs besoins directement sur le site La bonne alternance, et, à travers cette plateforme et son système d’API et de widget, sur de nombreux portails promouvant l’apprentissage auprès des jeunes et de leur famille. Dans un même temps, le travail avec les OPCO se poursuit pour faire émerger ce nouveau service numérique à partir des retours et besoins des utilisateurs.
+
+### Les bénéfices attendus
+
+1. Donner des chances supplémentaires aux jeunes candidats de trouver un emploi en apprentissage ;
+2. Résoudre certaines difficultés de recrutement ressenties par des employeurs. 
 
 ### 
 

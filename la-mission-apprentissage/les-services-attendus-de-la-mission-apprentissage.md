@@ -8,7 +8,7 @@ Dans le cadre de la mobilisation nationale pour l’emploi et la transition éco
 Pour consulter la lettre de mission : 
 {% endhint %}
 
-
+{% file src="../.gitbook/assets/lettre-de-mission.pdf" caption="Lettre de mission" %}
 
 Les priorités dégagées des premières investigations sont de : 
 
@@ -17,8 +17,6 @@ Les priorités dégagées des premières investigations sont de :
 3. Aider les jeunes à s’orienter ; 
 4. Aider les jeunes et les entreprises à se comprendre ; 
 5. Diminuer les ruptures des contrats d’apprentissage.
-
-### 
 
 ### Les travaux en cours
 
