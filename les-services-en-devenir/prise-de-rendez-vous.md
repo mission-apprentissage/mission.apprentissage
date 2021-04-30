@@ -4,9 +4,9 @@ description: >-
   le tester auprès de premiers usagers.
 ---
 
-# Prise de rendez-vous Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA
+# RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA
 
-_« Prise de rendez-vous Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis \(CFA\)._
+_« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis \(CFA\)._
 
 ### Le constat 
 

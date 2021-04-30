@@ -18,7 +18,7 @@
 * [La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Sirius - Recueillir et partager des avis et témoignages d'apprentis](les-services-en-devenir/anotea-apprentissage.md)
 * [Matcha - Susciter des recrutements en apprentissage](les-services-en-devenir/untitled.md)
-* [Prise de rendez-vous Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous.md)
+* [RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous.md)
 * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
 
 ## LES SERVICES D'APPUI AUX PORTAILS D'ORIENTATION PARCOURSUP ET AFFELNET
