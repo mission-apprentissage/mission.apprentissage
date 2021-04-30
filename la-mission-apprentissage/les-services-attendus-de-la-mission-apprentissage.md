@@ -10,7 +10,7 @@ Pour consulter la lettre de mission :
 
 {% file src="../.gitbook/assets/lettre-de-mission.pdf" caption="Lettre de mission" %}
 
-Les priorités dégagées des premières investigations sont de : 
+Les priorités dégagées sont : 
 
 1. Rendre visibles les offres de formation et de contrats d’apprentissage ; 
 2. Sécuriser et fluidifier les inscriptions en apprentissage ; 
