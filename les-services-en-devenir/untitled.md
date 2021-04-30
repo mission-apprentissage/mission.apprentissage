@@ -7,7 +7,7 @@ description: >-
 
 # Matcha - Susciter des recrutements en apprentissage
 
-_Matcha vise à faciliter l’expression de besoin de recrutements chez les TPE et PME qui peinent à recruter alors que des profils de  jeunes apprentis pourraient correspondre à leurs besoins._
+_Matcha vise à faciliter l’expression de besoin de recrutements chez les TPE et PME qui peinent à recruter alors que des profils de jeunes apprentis pourraient correspondre à leurs besoins._
 
 ### Le constat
 
