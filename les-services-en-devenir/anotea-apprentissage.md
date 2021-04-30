@@ -14,7 +14,7 @@ Les avis en ligne sur les formations deviennent un standard mais il n’existe a
 
 Les avis sont non seulement un moyen de valoriser les meilleures formations, mais ils sont aussi un nouveau vecteur pour parler de l’apprentissage et valoriser les métiers, à condition de pouvoir s’assurer de la véracité du commentaire et de la réalisation effective de la formation en apprentissage par celui qui le dépose.
 
-### La  solution
+### La solution
 
 Une solution unique de recueil et de restitution d’avis auprès de toutes les parties prenantes est en cours de développement, inspirée par la démarche réussie d’Anotéa sur la formation professionnelle.
 

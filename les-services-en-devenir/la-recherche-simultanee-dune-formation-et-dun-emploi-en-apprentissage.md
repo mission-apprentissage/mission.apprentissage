@@ -15,7 +15,7 @@ _La Bonne Alternance est le premier service qui permet de rechercher simultaném
 
 Une entrée en apprentissage résulte d'un accord entre un candidat, un employeur et un centre de formation en apprentissage \(CFA\). Jusqu'à présent, les informations sur l'emploi et la formation n'étaient pas réunies, ce qui compliquait les démarches et provoquait des pertes de temps voire des échecs d'orientation, en particulier pour les jeunes les plus fragiles et les moins renseignés.
 
-### Les solutions
+### La solution
 
 Pour permettre aux jeunes de trouver plus facilement et plus rapidement une formation et un contrat en alternance, il faut délivrer l’information la plus complète possible à la fois sur toute l'offre de formation disponible et tout le marché du travail, sur une seule et même interface, qui soit : 
 

@@ -14,7 +14,7 @@ Il n’existe pas de processus assurant le recensement des formations en apprent
 
 Chaque partie-prenante \(région, OPCO, site d’orientation des jeunes\) peut interpeller les CFA dans le désordre, sans format homogène des données et en perturbant les CFA qui ne savent plus à qui répondre.
 
-### Les solutions
+### La solution
 
 Un catalogue des offres de formation en apprentissage a été créé, pour être un outil unique de recensement de l’ensemble des formations proposées. Il est accessible à tous et peut être utilisé par les acteurs de l’orientation et de l’insertion des jeunes, ainsi que consommé par les plateformes et portails qui exposent des informations relatives à l’apprentissage. Il permet d’assurer une pleine visibilité des offres de formation en apprentissage pour : 
 
