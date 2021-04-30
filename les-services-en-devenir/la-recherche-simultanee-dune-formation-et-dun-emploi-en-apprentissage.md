@@ -27,7 +27,7 @@ Pour cela, la Bonne Alternance utilise à la fois :
 * [Le catalogue des formations en apprentissage](https://mission-apprentissage.gitbook.io/general/les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage) ; 
 * L'API “offres d’emploi” proposée par Pôle emploi exposant les offres d'emploi en alternance ; 
 * Un algorithme prédictif analysant les recrutements passés afin de prédire ceux à venir ; 
-* Les besoins exprimés par de très petites entreprises \(TPE\) ou des petites et moyennes entreprises \(PME\) auprès de leur opérateur de compétences \(OPCO\) dans le cadre de l’expérimentation du produit Matcha \(mettre lien\).
+* Les besoins exprimés par de très petites entreprises \(TPE\) ou des petites et moyennes entreprises \(PME\) auprès de leur opérateur de compétences \(OPCO\) dans le cadre de l’expérimentation du produit [Matcha](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/untitled).
 
 Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme l[e module "Prise de rendez-vous Apprentissage” ](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous)qui accélère la mise en contact entre jeunes et CFA.
 
