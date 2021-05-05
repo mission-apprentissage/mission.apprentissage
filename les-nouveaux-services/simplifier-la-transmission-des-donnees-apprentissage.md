@@ -74,10 +74,6 @@ Le traitement des données se fait sur la base de l’intérêt public. Conform�
 * Inscription de l’opération au registre des traitements de données ;
 * Production d’une analyse d’impact et d’un plan de mise en sécurité informatique.
 
-{% hint style="success" %}
-**Si vous êtes un CFA, vous pouvez accéder ici à**[ **'Démarches simplifiées'** ](https://www.demarches-simplifiees.fr/commencer/simplification-transmission-donnees)**pour remplir les informations concernant votre établissement.**
-{% endhint %}
-
 ### Les bénéfices attendus
 
 1. Permettre une amélioration sensible de la qualité de pilotage ;
