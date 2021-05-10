@@ -19,7 +19,36 @@ Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion p
 
 ### La solutions
 
-#### 
+Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formations d’apprentis \(CFA\) - via leur éditeur de logiciel ERP \(Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt\), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
+
+* Pour l’apprenant → les données d’identification dont INE si disponible ;
+* Pour le statut des apprenants → apprenant sans contrat, apprenti et abandon ;
+* Pour l’établissement : nom, UAI, SIRET ;
+* Pour la formation → la certification et la localisation.
+
+Ces données sont agrégées et sont publiques. Elles sont mises à disposition des acteurs de l’apprentissage :
+
+* Les CFA et leurs réseaux ;
+* Les membres du service public de l’emploi \(SPE\) : Pôle Emploi, Mission Locale, DRETS… ;
+* Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
+* La Plateforme de Suivi et d’Appui aux Décrocheurs ;
+* Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
+
+Les objectifs sont de faciliter un pilotage opérationnel de l’apprentissage en temps réel pour :
+
+* Savoir comment évolue le nombre d’apprentis dans un territoire ou un secteur économique ;
+* Dénombrer les jeunes en recherche de contrat ou en risque de décrochage ;
+* Simplifier certaines démarches administratives pour les CFA.
+
+Pour les CFA, c’est une valeur ajoutée qui permet de :
+
+* Mettre en visibilité l’évolution des effectifs et des formations en apprentissage ;
+* Faciliter une meilleure coordination des acteurs ;
+* Avoir une vision plus précise de l’offre et des tensions sur un territoire ;
+* Simplifier les démarches administratives ;
+* Réduire le nombre d’enquêtes administratives.
+
+L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique.
 
 {% hint style="info" %}
 **L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique.**
