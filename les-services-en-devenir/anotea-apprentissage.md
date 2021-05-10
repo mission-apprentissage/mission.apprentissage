@@ -4,22 +4,22 @@ description: >-
   le tester auprès de premiers usagers.
 ---
 
-# Sirius - Recueillir et partager des avis et témoignages d'apprentis
+# Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage
 
-_L'apprentissage est une voie de formation très dynamique, mais encore assez mal connue et parfois victime de préjugés. En réponse, Sirius vise à mettre en avant l'expérience des anciens apprentis pour lever des appréhensions de candidats._
+_L'apprentissage est une voie de formation très dynamique, mais parfois mal connue  ou victime de préjugés. Sirius vise à mettre en avant l'expérience des anciens apprentis pour lever des appréhensions de candidats._
 
 ### Le constat
 
-Les avis en ligne sur les formations deviennent un standard mais il n’existe aucune solution pour recueillir et diffuser les avis sur les formations en apprentissage. Pourtant, ils sont un fort élément de réassurance pour les internautes, notamment les jeunes. Ils sont souvent jugés plus crédibles que les informations institutionnelles mises à leur disposition. 
+Les avis en ligne sur les formations deviennent un standard mais il n’existe aucune solution pour recueillir et diffuser les avis sur les formations en apprentissage. Pourtant, ils sont un fort élément de réassurance pour les internautes, notamment pour les jeunes et leurs parents. Ils sont un complément aux informations institutionnelles, un élément d'éclairage supplémentaire basé sur l'expérience vécue. 
 
-Les avis sont non seulement un moyen de valoriser les meilleures formations, mais ils sont aussi un nouveau vecteur pour parler de l’apprentissage et valoriser les métiers, à condition de pouvoir s’assurer de la véracité du commentaire et de la réalisation effective de la formation en apprentissage par celui qui le dépose.
+Les avis sont non seulement un moyen de valoriser les meilleures formations, mais ils sont aussi un nouveau vecteur pour parler de l’apprentissage et valoriser les métiers, à condition de pouvoir s’assurer de la réalisation effective de la formation en apprentissage par celui qui le dépose.
 
 ### La solution
 
 Une solution unique de recueil et de restitution d’avis auprès de toutes les parties prenantes est en cours de développement, inspirée par la démarche réussie d’Anotéa sur la formation professionnelle.
 
 {% hint style="info" %}
-Découvrez Anotea , le service de recueil et de restitution des avis des demandeurs d'emploi sur les formations qu'ils ont suivies  
+Découvrez Anotéa , le service de recueil et de restitution des avis des demandeurs d'emploi sur les formations qu'ils ont suivies  
 [https://anotea.pole-emploi.fr/](https://anotea.pole-emploi.fr/)
 {% endhint %}
 
