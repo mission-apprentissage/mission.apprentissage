@@ -17,7 +17,7 @@ Aucun indice ne permet non plus d’observer les étapes franchies ou non par le
 Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion pour simplifier les échanges, favoriser un pilotage plus fin et réactif, simplifier les démarches des CFA et améliorer l'accompagnement des jeunes et des employeurs.  
 
 
-### La solutions
+### La solution
 
 Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formations d’apprentis \(CFA\) - via leur éditeur de logiciel ERP \(Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt\), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
 
