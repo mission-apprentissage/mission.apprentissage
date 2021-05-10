@@ -48,8 +48,6 @@ Pour les CFA, c’est une valeur ajoutée qui permet de :
 * Simplifier les démarches administratives ;
 * Réduire le nombre d’enquêtes administratives.
 
-L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique.
-
 {% hint style="info" %}
 **L’opération est conduite conformément aux règlements généraux relatifs à la protection des données et à la sécurité informatique.**
 {% endhint %}
