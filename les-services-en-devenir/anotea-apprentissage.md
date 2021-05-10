@@ -6,7 +6,7 @@ description: >-
 
 # Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage
 
-_L'apprentissage est une voie de formation très dynamique, mais parfois mal connue  ou victime de préjugés. Sirius vise à mettre en avant l'expérience des anciens apprentis pour lever des appréhensions de candidats._
+_L'apprentissage est une voie de formation très dynamique, qui peut parfois être mal connue ou victime de préjugés. Sirius vise à mettre en avant l'expérience des anciens apprentis pour lever des appréhensions de candidats et de leurs parents._
 
 ### Le constat
 
