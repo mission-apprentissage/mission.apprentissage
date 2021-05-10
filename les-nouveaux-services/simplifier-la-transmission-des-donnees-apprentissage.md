@@ -19,7 +19,7 @@ Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion p
 
 ### La solution
 
-Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formations d’apprentis \(CFA\) - via leur éditeur de logiciel ERP \(Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt\), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
+Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis \(CFA\) - via leur éditeur de logiciel ERP \(Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt\), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
 
 * Pour l’apprenant → les données d’identification dont INE si disponible ;
 * Pour le statut des apprenants → apprenant sans contrat, apprenti et abandon ;
