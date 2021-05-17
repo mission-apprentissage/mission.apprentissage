@@ -15,10 +15,6 @@ Vous y trouverez en outre des informations sur chacun des nouveaux services en c
   
 Cet espace présente enfin une sélection d'études et de publications éclairant les questions relatives à l'apprentissage, des cartographies construites par l'équipe permettant de visualiser l’écosystème Apprentissage, ainsi qu'un ensemble de données et de référentiels mobilisables par l'ensemble des partenaires.
 
-
-
-
-
 {% hint style="info" %}
 Vous pouvez nous aider à améliorer cette documentation ainsi que les outils en construction en nous faisant part de vos remarques par email  
 [contact@beta.gouv.fr](mailto:contact@beta.gouv.fr)
