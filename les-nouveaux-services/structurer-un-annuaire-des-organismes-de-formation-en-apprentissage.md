@@ -4,7 +4,7 @@ description: >-
   des organismes de formation en apprentissage.
 ---
 
-# Structurer un annuaire des organismes de formation en apprentissage
+# Structurer un annuaire des établissements proposant des formations en apprentissage
 
 **Le constat**
 
