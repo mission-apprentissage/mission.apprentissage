@@ -31,7 +31,7 @@ Le candidat clique sur le bouton « prendre rendez-vous » sur une plateforme en
 Le CFA reçoit immédiatement cette demande par e-mail et rappelle le candidat, au numéro indiqué, dans les 48h.
 
 {% hint style="success" %}
-Le fonctionnement du service est expliqué dans un tutoriel accessible en cliquant [ici](https://drive.google.com/file/d/1sYgP8Jg2bhzwc-dwrn6EWjGmBsKNXyvn/view).
+Le fonctionnement du service est expliqué dans un tutoriel accessible [en cliquant ici](https://drive.google.com/file/d/1sYgP8Jg2bhzwc-dwrn6EWjGmBsKNXyvn/view).
 {% endhint %}
 
 **Les bénéfices pour les candidats :** 
