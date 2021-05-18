@@ -26,7 +26,7 @@ Le service est très simple :
 
 ![](../../.gitbook/assets/image1.png)
 
-Le candidat clique sur le bouton « prendre rendez-vous » sur une plateforme en ligne pour demander à être rappelé par le CFA qui l’intéresse, sur la formation qui l’intéresse.
+Le candidat clique sur le bouton « prendre rendez-vous » disponible une plateforme en ligne \([La Bonne Alternance ](https://labonnealternance.pole-emploi.fr/)et [Parcoursup ](https://www.parcoursup.fr/)actuellement\) pour demander à être rappelé par le CFA qui l’intéresse, sur la formation qui l’intéresse.
 
 Le CFA reçoit immédiatement cette demande par e-mail et rappelle le candidat, au numéro indiqué, dans les 48h.
 
