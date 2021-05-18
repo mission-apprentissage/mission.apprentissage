@@ -9,9 +9,9 @@ description: >-
 _« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis \(CFA\)._
 
 {% hint style="success" %}
-**Vous êtes un CFA et vous souhaitez utiliser ce service ?** 
+**Vous êtes un CFA et vous souhaitez utiliser "RDV Apprentissage" ?** 
 
-Vous pouvez retrouver toutes les informations qui vous permettront de l'activer [sur cette page.](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous/vous-etes-un-cfa-et-vous-souhaitez-activer-le-service-mode-demploi)
+Vous pouvez retrouver toutes les informations qui vous permettront d'activer le service [sur cette page.](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous/vous-etes-un-cfa-et-vous-souhaitez-activer-le-service-mode-demploi)
 {% endhint %}
 
 **Le constat** 
