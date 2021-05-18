@@ -14,7 +14,7 @@ _« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes
 Vous pouvez retrouver toutes les informations qui vous permettront d'activer le service [sur cette page.](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous/vous-etes-un-cfa-et-vous-souhaitez-activer-le-service-mode-demploi)
 {% endhint %}
 
-**Le constat** 
+### **Le constat** 
 
 Malgré l’engagement d’une profonde réforme de l’apprentissage qui a supprimé la plupart des freins à son développement et malgré les efforts déployés par les CFA, la mise en contact des candidats à l’apprentissage et des centres de formation n’est pas toujours fluide. 
 

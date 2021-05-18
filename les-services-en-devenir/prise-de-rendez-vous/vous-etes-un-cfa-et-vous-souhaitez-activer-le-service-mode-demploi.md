@@ -18,7 +18,7 @@ Pour activer le service, il faut remplir un formulaire accessible [en cliquant i
 
 \*\*\*\*
 
-**Pourquoi activer ce service ?**
+### **Pourquoi activer ce service ?**
 
 Il suffit parfois d’un échange de 5 minutes pour qu’un candidat valide son orientation et continue son parcours de formation en ayant eu toutes les informations utiles ! 
 
@@ -34,7 +34,7 @@ Le CFA reçoit immédiatement cette demande par e-mail et rappelle le candidat, 
 Le fonctionnement du service est expliqué dans un tutoriel accessible [en cliquant ici](https://drive.google.com/file/d/1sYgP8Jg2bhzwc-dwrn6EWjGmBsKNXyvn/view).
 {% endhint %}
 
-**Les bénéfices pour les candidats :** 
+### **Les bénéfices pour les candidats :** 
 
 * Accès direct à la prise de rendez-vous sur les plateformes en ligne connues et fréquentées \(La Bonne Alternance initialement, puis Parcoursup et bientôt beaucoup d’autres\) ;
 * 30 secondes sont nécessaires pour que le candidat utilise le service « RDV Apprentissage » ;
@@ -45,7 +45,7 @@ Le fonctionnement du service est expliqué dans un tutoriel accessible [en cliqu
 
 ![](../../.gitbook/assets/verbatim-jeunes.png)
 
-**Les bénéfices pour les CFA :** 
+### **Les bénéfices pour les CFA :** 
 
 * Publication du service et présence du bouton sur des plateformes connues et fréquentées par les candidats : 
   * [La Bonne Alternance](https://labonnealternance.pole-emploi.fr/) \(mars 2021\),
