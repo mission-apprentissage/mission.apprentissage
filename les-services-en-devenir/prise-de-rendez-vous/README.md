@@ -14,7 +14,7 @@ Vous êtes un CFA et vous souhaitez utiliser RDV Apprentissage pour faciliter vo
 Toutes les informations pour activer le service sont à retrouver dans le document ci-dessous :
 {% endhint %}
 
-{% file src="../.gitbook/assets/activez-le-service-rdv-apprentissage.pdf" caption="Activez le service !" %}
+{% file src="../../.gitbook/assets/activez-le-service-rdv-apprentissage.pdf" caption="Activez le service !" %}
 
 ### Le constat 
 
