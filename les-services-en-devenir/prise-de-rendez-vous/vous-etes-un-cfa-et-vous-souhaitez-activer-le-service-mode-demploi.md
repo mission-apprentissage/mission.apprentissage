@@ -8,7 +8,7 @@ description: >-
 # Vous êtes un CFA et vous souhaitez activer le service : mode d'emploi
 
 {% hint style="success" %}
-**Vous êtes CFA et vous souhaitez utiliser ce service ?**
+**Vous êtes CFA et vous souhaitez utiliser RDV Apprentissage ?**
 
 * Il suffit de 3 minutes pour vous inscrire. 
 * Le service RDV Apprentissage sera actif en 24h pour toutes les formations de votre CFA sur les plateformes La Bonne Alternance et Parcoursup.
