@@ -1,8 +1,7 @@
 ---
 description: >-
-  Le service «RDV Apprentissage» est un service numérique créé pour faciliter la
-  mise en relation entre les candidats et les Centres de Formation des
-  Apprentis.
+  «RDV Apprentissage» est un service numérique créé pour faciliter la mise en
+  relation entre les candidats et les Centres de Formation des Apprentis (CFA).
 ---
 
 # Vous êtes un CFA et vous souhaitez activer le service : mode d'emploi
