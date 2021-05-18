@@ -8,15 +8,7 @@ description: >-
 
 _« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis \(CFA\)._
 
-{% hint style="success" %}
-Vous êtes un CFA et vous souhaitez utiliser RDV Apprentissage pour faciliter votre mise en contact avec les jeunes candidats s'intéressant à vos formations ?
-
-Toutes les informations pour activer le service sont à retrouver dans le document ci-dessous :
-{% endhint %}
-
-{% file src="../../.gitbook/assets/activez-le-service-rdv-apprentissage.pdf" caption="Activez le service !" %}
-
-### Le constat 
+**Le constat** 
 
 Malgré l’engagement d’une profonde réforme de l’apprentissage qui a supprimé la plupart des freins à son développement et malgré les efforts déployés par les CFA, la mise en contact des candidats à l’apprentissage et des centres de formation n’est pas toujours fluide. 
 
