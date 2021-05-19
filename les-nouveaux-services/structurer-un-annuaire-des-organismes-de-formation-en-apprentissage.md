@@ -28,5 +28,5 @@ Pour cela, plusieurs chantiers sont en cours afin de :
 **Les bénéfices attendus**
 
 * La mise en visibilité des établissements proposant des formations en apprentissage auprès des candidats et des entreprises ;
-* La possibilité pour les acteurs de : construire une carte de l’apprentissage, identifier des zones blanches,, des liens en acteurs, des Établissements à mobiliser, identifier des lieux d'implantation possibles, nouer un partenariat sur une certification, administrer enquêtes statistiques ou contrôles, ...
+* La possibilité pour les acteurs de : construire une carte de l’apprentissage, identifier des zones blanches, des liens en acteurs, des établissements à mobiliser, identifier des lieux d'implantation possibles, nouer un partenariat sur une certification, administrer enquêtes statistiques ou contrôles, ...
 
