@@ -15,7 +15,7 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
   * Anne Becquet, anne.becquet@beta.gouv.fr 
   * Christophe Bonraisin, christ.bonraisin@pole-emploi.fr 
 * Interlocuteurs chargés de l'UX Design : 
-  * Sophia Boularaab, sofia.boulaarab@beta.gouv.fr 
+  * Sofia Boularaab, sofia.boulaarab@beta.gouv.fr 
   * Damien Boyer, damien.boyer@beta.gouv.fr 
 * Interlocuteurs chargés du développement technique des produits :
   * Samir Benfares, samir.benfares@beta.gouv.fr 
