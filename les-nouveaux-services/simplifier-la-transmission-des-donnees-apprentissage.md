@@ -8,6 +8,10 @@ description: >-
 
 _Le tableau de bord Apprentissage vise à mettre à disposition de toutes les parties prenantes de la formation en apprentissage les données clés de manière dynamique, afin de permettre un pilotage opérationnel réactif dans les territoires._
 
+{% hint style="success" %}
+Les données exposées par le tableau de bord Apprentissage sont accessibles [ici](https://cfas.apprentissage.beta.gouv.fr/tableau-de-bord).
+{% endhint %}
+
 ### Le constat 
 
 Au total, en 2020, environ 250 000 candidats ont souhaité une mise en relation avec un CFA par l’un des deux portails Affelnet ou Parcoursup. Or, une fois le vœu exprimé et transmis au centre de formation, aucun suivi global n'est assuré : aucun système ne permet de savoir combien de vœux se sont traduits en entrée en apprentissage, dans la spécialité et le centre visés ou dans une autre formation avec le même statut. 
