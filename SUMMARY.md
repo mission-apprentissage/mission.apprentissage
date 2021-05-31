@@ -32,7 +32,7 @@
 ## LE TRAITEMENT DES DONNÉES EXPLOITÉES
 
 * [Focus RGPD et traitement de données](le-traitement-des-donnees-exploitees/zoom-rgpd-et-traitement-des-donnees.md)
-* [Les données accessibles en Open data utilisées par la Mission](le-traitement-des-donnees-exploitees/referentiels-communs.md)
+* [Les données accessibles en open data utilisées par la Mission](le-traitement-des-donnees-exploitees/referentiels-communs.md)
 * [Tableau de bord - Comprendre les données](le-traitement-des-donnees-exploitees/tableau-de-bord-comprendre-les-donnees.md)
 * [Sirius - Le processus de recueil des données nécessaires au déploiement du service](le-traitement-des-donnees-exploitees/sirius-le-processus-de-recueil-des-donnees-necessaires-au-deploiement-du-service.md)
 * [Open source et contributions](le-traitement-des-donnees-exploitees/des-communs-open-source.md)
