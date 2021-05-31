@@ -43,4 +43,9 @@
 * [Les parcours croisés des apprenants, des entreprises et des CFA](documentation/cartographies-ecosytemes.md)
 * [Ce que changent la loi pour la liberté de choisir son avenir professionnel et le plan France Relance](documentation/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 * [Études et publications autour de l’apprentissage](documentation/des-ressources-documentaires-utiles.md)
+* [Autres services numériques référencés](documentation/autres-services-numeriques-references/README.md)
+  * [Diagoriente](https://diagoriente.beta.gouv.fr/)
+  * [Onyxp](https://onyxp.io/)
+  * [Walt](https://walt.community/home-candidat)
+  * [Hello Elton](https://www.helloelton.com/)
 
