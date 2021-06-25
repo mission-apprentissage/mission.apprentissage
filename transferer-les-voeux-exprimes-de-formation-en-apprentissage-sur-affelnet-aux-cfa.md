@@ -4,7 +4,7 @@ description: >-
   2021.
 ---
 
-# Transférer les vœux exprimés de formation en apprentissage sur Affelnet aux CFA
+# Transférer les vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA
 
 ### Le constat
 

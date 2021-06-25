@@ -28,7 +28,7 @@
 ---
 
 * [Améliorer l'accès aux informations concernant l'apprentissage sur Parcoursup et Affelnet](lapprentissage-sur-parcoursup.md)
-* [Transférer les vœux exprimés de formation en apprentissage sur Affelnet aux CFA](transferer-les-voeux-exprimes-de-formation-en-apprentissage-sur-affelnet-aux-cfa.md)
+* [Transférer les vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA](transferer-les-voeux-exprimes-de-formation-en-apprentissage-sur-affelnet-aux-cfa.md)
 
 ## LE TRAITEMENT DES DONNÉES EXPLOITÉES
 
