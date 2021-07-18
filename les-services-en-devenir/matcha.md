@@ -4,11 +4,11 @@ description: >-
   teste auprès de premiers usagers.
 ---
 
-# Matcha - Faciliter le dépôt, la gestion et la diffusion des offres d'emploi en alternance
+# Matcha - Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance
 
-_Matcha propose un formulaire qui facilite à la fois le dépôt, la gestion, la mise en visibilité et la diffusion d’une offre en alternance._ 
+_Matcha propose un formulaire qui facilite à la fois le dépôt, la gestion, la mise en visibilité et la diffusion d’un besoin de recrutement en alternance._
 
-_Ce service peut être utilisé par un employeur, par un opérateur de compétences en tant qu'outil de collecte, par les chambres consulaires et bientôt par des CFA qui seraient mandatés par des entreprises._
+_Ce service peut être utilisé par un employeur, par les opérateurs de compétences ou les chambres consulaires lors des collectes d'offres et bientôt par des CFA qui seraient mandatés par des entreprises._
 
 {% hint style="success" %}
 **Vous souhaitez bénéficier du service ?** 
