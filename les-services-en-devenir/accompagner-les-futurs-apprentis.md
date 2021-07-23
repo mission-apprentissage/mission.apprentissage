@@ -13,7 +13,9 @@ _Une nouvelle version, issue des enseignements tirés de l'expérimentation en 2
 
 ### Le constat
 
-En 2020, environ 20 000 jeunes ont émis, depuis ParcourSup, exclusivement des vœux de mise en relation avec des CFA pour entrer en apprentissage, sans assurer une inscription étudiante en parallèle. La très grande majorité est inscrite en terminale dans un lycée professionnel.   
+En 2020, environ 20 000 jeunes ont émis, depuis ParcourSup, exclusivement des vœux de mise en relation avec des CFA pour entrer en apprentissage, sans assurer une inscription étudiante en parallèle. La très grande majorité est inscrite en terminale dans un lycée professionnel. 
+
+  
 Ces jeunes ne bénéficient pas tous des savoir-faire et outils pour concrétiser leur souhait d'apprentissage en autonomie.
 
 ### Les Solutions
@@ -24,6 +26,14 @@ En 2020, des campagnes de mailing et de sms, aux jeunes, ou leurs parents, ont �
 * Démarcher des entreprises en les outillant pour les identifier \(cf [la Bonne Alternance](https://labonnealternance.pole-emploi.fr/)\)  ;
 * Effectuer des candidatures spontanées ;
 * ...
+
+Au printemps 2021, avec l'appui de Didask et en partenariat avec l'ensemble des acteurs de l'apprentissage concernés, des modules pédagogiques de mises en situation ont été construits, autour de 3 points de passage vers l'apprentissage :
+
+1. [Prendre contact avec un CFA ](https://dinum-beta.didask.com/courses/demonstration/60abc18c075edf000065c987);
+2. [Chercher un employeur](https://dinum-beta.didask.com/courses/demonstration/60d21bf5be76560000ae916e) ;
+3. [Préparer un entretien avec un employeur](https://dinum-beta.didask.com/courses/demonstration/60d1adbb877dae00003f0eac).
+
+Ils vont être testés tout l'été sur La Bonne Alternance, avant d'être évalué pour faire évoluer le contenu fin septembre. Un autre module va être élaboré dans l'été, il concerne l'intégration des apprentis dans l'entreprise.
 
 ### Les bénéfices attendus
 
