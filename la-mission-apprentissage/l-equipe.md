@@ -17,6 +17,7 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Interlocuteurs chargés de l'UX Design : 
   * Sofia Boularaab,  [sofia.boulaarab@beta.gouv.fr](mailto:sofia.boulaarab@beta.gouv.fr)
   * Damien Boyer, [damien.boyer@beta.gouv.fr](mailto:damien.boyer@beta.gouv.fr)
+  * Nathalie Dupasquier, nathalie.dupasquier@beta.gouv.fr  
 * Interlocuteurs chargés du développement technique des produits :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)

@@ -11,7 +11,6 @@
 ## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a id="les-nouveaux-services"></a>
 
 * [Le catalogue des formations en apprentissage - Renforcer la collecte et la visibilité des formations](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [Structurer un annuaire des établissements dispensant ou gérant des formations en apprentissage](les-nouveaux-services/structurer-un-annuaire-des-organismes-de-formation-en-apprentissage.md)
 * [Tableau de bord apprentissage - Permettre l’accès aux données clés de l’apprentissage en temps réel](les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage.md)
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a id="les-services-en-devenir"></a>

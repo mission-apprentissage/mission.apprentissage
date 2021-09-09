@@ -10,7 +10,7 @@ Pour consulter la lettre de mission :
 
 {% file src="../.gitbook/assets/lettre-de-mission.pdf" caption="Lettre de mission" %}
 
-Les priorités dégagées sont : 
+Les priorités dégagées sont de : 
 
 1. Rendre visibles les offres de formation et de contrats d’apprentissage ; 
 2. Sécuriser et fluidifier les inscriptions en apprentissage ; 
@@ -24,7 +24,6 @@ Pour servir les objectifs déterminés par la lettre de mission, les travaux men
 
 * Pour consolider l’infrastructure des données relatives à l’apprentissage et fluidifier les échanges entre les différentes parties-prenantes : 
   * Un catalogue élargi de formations en apprentissage a été créé pour alimenter tous les acteurs de l’apprentissage et de l’orientation des jeunes ; 
-  * Un annuaire des établissements de formation est en cours d’élaboration ; 
   * Un tableau de bord Apprentissage est en construction pour organiser la remontée d’informations clés depuis les systèmes de gestion des Centres de Formation d’Apprentis \(CFA\) afin d’observer en temps réel les trajectoires des apprentis, y compris ceux sans contrat ou en rupture ; 
 * Pour simplifier la mise en relation des jeunes, entreprises et CFA : 
   * Sur la Bonne Alternance, il est possible de rechercher - par secteur d’activité, territoire et niveau de diplôme - l’ensemble des formations en apprentissage proposées ainsi qu’en simultané les entreprises qui recrutent en apprentissage et les entreprises susceptibles de recruter en apprentissage, à qui envoyer une candidature spontanée ; 
