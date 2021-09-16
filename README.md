@@ -1,10 +1,3 @@
----
-description: >-
-  Les ministres chargés de l’Éducation nationale, de l’Enseignement supérieur,
-  du Travail et de la Transformation Publique ont créé une Mission pour
-  faciliter les entrées en apprentissage.
----
-
 # Présentation générale
 
 ### **Bienvenue sur l'espace de documentation de la Mission interministérielle pour l'apprentissage.** 
