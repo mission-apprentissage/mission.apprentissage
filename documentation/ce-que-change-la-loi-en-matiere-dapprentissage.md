@@ -14,13 +14,13 @@ description: >-
 {% hint style="success" %}
 Pour les jeunes entrant en formation entre le 1er août et le 31 décembre 2020, un délai de 6 mois leur est accordé pour trouver une entreprise avec laquelle signer un contrat d’apprentissage.
 
-Ils peuvent ainsi rester en centre de formation des apprentis \(CFA\), sans contrat, pendant 6 mois \(contre 3 mois avant\). Durant cette période, le CFA est financé pour assurer son accueil.
+Ils peuvent ainsi rester en centre de formation des apprentis (CFA), sans contrat, pendant 6 mois (contre 3 mois avant). Durant cette période, le CFA est financé pour assurer son accueil.
 {% endhint %}
 
 #### Egalement :
 
 * Depuis le 1er janvier 2019, il est possible de signer un [contrat d’apprentissage](https://travail-emploi.gouv.fr/formation-professionnelle/formation-en-alternance-10751/apprentissage/contrat-apprentissage) jusqu’à la veille de ses 30 ans ;
-* Une [augmentation de 30 €](https://travail-emploi.gouv.fr/formation-professionnelle/formation-en-alternance-10751/) nets par mois pour les apprentis de moins de 21 ans en CAP ou en Bac pro \(pour les contrats signés à compter du 1er janvier 2019\),
+* Une [augmentation de 30 €](https://travail-emploi.gouv.fr/formation-professionnelle/formation-en-alternance-10751/) nets par mois pour les apprentis de moins de 21 ans en CAP ou en Bac pro (pour les contrats signés à compter du 1er janvier 2019),
 * Une [aide financière de 500 € pour les apprentis majeurs qui souhaitent passer le permis de conduire B](https://travail-emploi.gouv.fr/formation-professionnelle/formation-en-alternance-10751/apprentissage/apprentis-aide-permis) ;
 * Une [entrée en formation tout au long de l’année](https://travail-emploi.gouv.fr/formation-professionnelle/formation-en-alternance-10751/apprentissage/contrat-apprentissage) et une durée de formation adaptée au niveau de l’apprenti.
 
@@ -29,16 +29,17 @@ Ils peuvent ainsi rester en centre de formation des apprentis \(CFA\), sans cont
 #### Création d’une aide exceptionnelle au recrutement des apprentis, jusqu’au niveau master et pour toutes les entreprises
 
 {% hint style="success" %}
-**Aide financière de**  :
+**Aide financière de ** :
 
 * 5 000 euros pour un apprenti de moins de 18 ans ;
-* 8 000 euros pour un apprenti majeur ; par contrat préparant à un diplôme jusqu’au master
+* 8 000 euros pour un apprenti majeur ;\
+  par contrat préparant à un diplôme jusqu’au master
 {% endhint %}
 
 **Pour les contrats signés à compter du 1er juillet 2020 et jusqu’au 28 février 2021**, cette aide sera versée :
 
 * Aux entreprises de moins de 250 salariés **sans condition** ;
-* Et aux entreprises de plus 250 salariés à la condition qu’elles s’engagent à atteindre le seuil de contrats d’apprentissage ou de contrats de professionnalisation dans leur effectif en 2021, selon des modalités définies pas décret \(faute de quoi il faudra rembourser les sommes perçues.\)
+* Et aux entreprises de plus 250 salariés à la condition qu’elles s’engagent à atteindre le seuil de contrats d’apprentissage ou de contrats de professionnalisation dans leur effectif en 2021, selon des modalités définies pas décret (faute de quoi il faudra rembourser les sommes perçues.)
 
 {% hint style="success" %}
 **À noter** : à l’issue de la première année d’exécution du contrat, les entreprises éligibles à l’[aide unique](https://travail-emploi.gouv.fr/formation-professionnelle/entreprise-et-alternance/aide-unique) pourront bénéficier de cette aide jusqu’à la fin du contrat.
@@ -60,4 +61,3 @@ Ils peuvent ainsi rester en centre de formation des apprentis \(CFA\), sans cont
 
 * La publication du taux d’insertion dans l’emploi et de réussite aux diplômes de tous les CFA et lycées professionnels, à venir ;
 * La découverte des métiers, pour les collégiens et les lycéens organisée par les Régions.
-

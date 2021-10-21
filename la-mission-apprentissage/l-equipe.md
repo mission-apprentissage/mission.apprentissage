@@ -11,13 +11,13 @@ description: >-
 
 Guillaume Houzel, inspecteur général de l’éducation, des sports et de la recherche, pilote l’ensemble des travaux menés par la mission. Il s’appuie sur une équipe transversale qui participe à coordonner le développement des projets.
 
-* ‌Interlocuteurs responsables du développement et du suivi des produits : 
+* ‌Interlocuteurs responsables du développement et du suivi des produits :&#x20;
   * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
   * Christophe Bonraisin, [christ.bonraisin@pole-emploi.fr](mailto:christ.bonraisin@pole-emploi.fr)
-* Interlocuteurs chargés de l'UX Design : 
+* Interlocuteurs chargés de l'UX Design :&#x20;
   * Sofia Boularaab,  [sofia.boulaarab@beta.gouv.fr](mailto:sofia.boulaarab@beta.gouv.fr)
   * Damien Boyer, [damien.boyer@beta.gouv.fr](mailto:damien.boyer@beta.gouv.fr)
-  * Nathalie Dupasquier, nathalie.dupasquier@beta.gouv.fr  
+  * Nathalie Dupasquier, nathalie.dupasquier@beta.gouv.fr &#x20;
 * Interlocuteurs chargés du développement technique des produits :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
@@ -36,17 +36,17 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
   * Anne-Camille Monet, [anne-camille.monet@beta.gouv.fr](mailto:anne-camille.monet@beta.gouv.fr)
 * Interlocuteurs techniques :
   * David Boureau, [david.boureau@beta.gouv.fr](mailto:david.boureau@beta.gouv.fr)
-  * Alan Le Ruyet, [alan.leruyet@beta.gouv.fr](mailto:alan.leruyet@beta.gouv.fr) 
+  * Alan Le Ruyet, [alan.leruyet@beta.gouv.fr](mailto:alan.leruyet@beta.gouv.fr)&#x20;
 * Support :
   * [labonnealternance@pole-emploi.fr](mailto:labonnealternance@pole-emploi.fr)
 
 #### ‌Le catalogue des formations en apprentissage
 
 * Interlocutrice Produit :
-  * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr) 
+  * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)&#x20;
 * Interlocuteurs techniques :
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
-  * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr) 
+  * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)&#x20;
   * Eric Plaquevent, [eric.plaquevent@beta.gouv.fr](mailto:eric.plaquevent@beta.gouv.fr)
 * Support :
   * [catalogue@apprentissage.beta.gouv.fr](mailto:catalogue@apprentissage.beta.gouv.fr)
@@ -64,9 +64,9 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Interlocutrice Produit :
   * Carole Cuillier, [carole.cuillier@beta.gouv.fr](mailto:carole.cuillier@beta.gouv.fr)
 * Interlocuteur technique :
-  * Dimitri Do Bairro, [dimitri.do\_bairro@beta.gouv.fr](mailto:dimitri.do_bairro@beta.gouv.fr)
+  * Dimitri Do Bairro, [dimitri.do\_bairro@beta.gouv.fr](mailto:dimitri.do\_bairro@beta.gouv.fr)
 * Support :
-  * [rdv\_apprentissage@apprentissage.beta.gouv.fr](mailto:rdv_apprentissage@apprentissage.beta.gouv.fr)
+  * [rdv\_apprentissage@apprentissage.beta.gouv.fr](mailto:rdv\_apprentissage@apprentissage.beta.gouv.fr)
 
 #### ‌Matcha‌
 
@@ -83,16 +83,15 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
   * Violaine Asselin, [violaine.asselin@pole-emploi.fr](mailto:violaine.asselin@pole-emploi.fr)
 * Interlocuteurs techniques :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
-  * Stéphane Rhulmann, [stephane.ruhlmann@beta.gouv.fr](mailto:stephane.ruhlmann@beta.gouv.fr) 
+  * Stéphane Rhulmann, [stephane.ruhlmann@beta.gouv.fr](mailto:stephane.ruhlmann@beta.gouv.fr)&#x20;
 * Support :
-  *  [tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr)
+  * &#x20;[tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr)
 
 #### ‌Sirius‌
 
 * Interlocutrice Produit :
   * Violaine Asselin, [violaine.asselin@pole-emploi.fr](mailto:violaine.asselin@pole-emploi.fr)
 * Interlocuteur technique :
-  * Benoît Guérout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr) 
+  * Benoît Guérout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)&#x20;
 * Support :
   * [sirius@apprentissage.beta.gouv.fr](mailto:sirius@apprentissage.beta.gouv.fr)
-
