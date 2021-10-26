@@ -11,7 +11,9 @@ _« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes
 {% hint style="success" %}
 **Vous êtes un CFA et vous souhaitez utiliser "RDV Apprentissage" ?**&#x20;
 
-Vous pouvez retrouver toutes les informations qui vous permettront d'activer le service [sur cette page.](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous/vous-etes-un-cfa-et-vous-souhaitez-activer-le-service-mode-demploi)
+Suite à une expérimentation réussie de "RDV Apprentissage",  le service sera activé automatiquement, à partir de novembre 2021, sur toutes les formations que vous avez déclarées auprès de votre Carif-Oref.&#x20;
+
+Vous serez informés de ce déploiement et pourrez, si vous le souhaitez, vous désinscrire pour ne pas bénéficier de ce service.
 {% endhint %}
 
 ### **Le constat **
@@ -32,13 +34,13 @@ Un outil numérique est en cours de construction pour permettre aux candidats à
 
 Il a vocation à être publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
 
-Il est, tout au long du 1er semestre, développé, testé sur les sites de La Bonne Alternance et de Parcoursup et adapté aux besoins de leurs utilisateurs et d'un panel de CFA, avec le séquencement suivant :&#x20;
 
-* Version 1 : prise de rendez-vous par rappel du CFA ;
-* Version 2 : prise de rendez-vous par formulaire e-mail ;&#x20;
-* Version 3 : prise de rendez-vous par agenda.
 
-À l’issue de cette phase, si l’outil fait la preuve de sa valeur tant auprès des candidats que des CFA, alors il fera l’objet d’un déploiement général.
+{% hint style="info" %}
+Le fonctionnement actuel du service est expliqué dans un tutoriel accessible [en cliquant ici](https://drive.google.com/file/d/1sYgP8Jg2bhzwc-dwrn6EWjGmBsKNXyvn/view).
+{% endhint %}
+
+
 
 ### Les bénéfices attendus
 
