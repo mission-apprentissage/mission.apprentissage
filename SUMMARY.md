@@ -11,7 +11,7 @@
 ## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a href="les-nouveaux-services" id="les-nouveaux-services"></a>
 
 * [Le catalogue des formations en apprentissage - Renforcer la collecte et la visibilité des formations](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
-* [Le référentiel UAI-SIRET  - Faciliter l’identification des organismes de formation en apprentissage](les-nouveaux-services/le-referentiel-uai-siret-faciliter-lidentification-des-organismes-de-formation-en-apprentissage.md)
+* [Le référentiel UAI-SIRET - Faciliter l’identification des organismes de formation en apprentissage](les-nouveaux-services/le-referentiel-uai-siret-faciliter-lidentification-des-organismes-de-formation-en-apprentissage.md)
 * [Tableau de bord apprentissage - Permettre l’accès aux données clés de l’apprentissage en temps réel](les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage.md)
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a href="les-services-en-devenir" id="les-services-en-devenir"></a>
@@ -19,13 +19,10 @@
 * [La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage](les-services-en-devenir/sirius\_apprentissage.md)
 * [Matcha - Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/matcha.md)
-* [RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous/README.md)
-  * [Vous êtes un CFA et vous souhaitez activer le service : mode d'emploi](les-services-en-devenir/prise-de-rendez-vous/vous-etes-un-cfa-et-vous-souhaitez-activer-le-service-mode-demploi.md)
+* [RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous.md)
 * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
 
 ## LES SERVICES D'APPUI AUX PORTAILS D'ORIENTATION PARCOURSUP ET AFFELNET
-
-***
 
 * [Améliorer l'accès aux informations concernant l'apprentissage sur Parcoursup et Affelnet](lapprentissage-sur-parcoursup.md)
 * [Transférer les vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA](transferer-les-voeux-exprimes-de-formation-en-apprentissage-sur-affelnet-aux-cfa.md)
