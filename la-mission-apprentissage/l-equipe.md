@@ -42,8 +42,9 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 
 #### ‌Le catalogue des formations en apprentissage
 
-* Interlocutrice Produit :
-  * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)&#x20;
+* Interlocuteurs Produit :
+  * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
+  * Marc André, [marc.andre@beta.gouv.fr](https://app.gitbook.com/u/KSIjGQ69FIZVcKi1hzLm9E9Iu2A2) &#x20;
 * Interlocuteurs techniques :
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
   * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)&#x20;
@@ -51,11 +52,10 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Support :
   * [catalogue@apprentissage.beta.gouv.fr](mailto:catalogue@apprentissage.beta.gouv.fr)
 
-#### L’annuaire des formations en apprentissage
+#### Le référentiel SIRET-UAI
 
-* Interlocuteurs Produit :
+* Interlocuteur Produit :
   * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
-  * Christophe Bonraisin, [christ.bonraisin@pole-emploi.fr](mailto:christ.bonraisin@pole-emploi.fr)
 * Interlocuteur technique :
   * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)
 
@@ -70,8 +70,9 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 
 #### ‌Matcha‌
 
-* Interlocutrice Produit :
+* Interlocuteurs Produit :
   * Charlotte Lecuit, [charlotte.lecuit@beta.gouv.fr](mailto:charlotte.lecuit@beta.gouv.fr)
+  * François Metayer, francois.metayer@beta.gouv.fr
 * Interlocuteur technique :
   * Kevin Barnoin, [kevin.barnoin@beta.gouv.fr](mailto:kevin.barnoin@beta.gouv.fr)
 * Support :
