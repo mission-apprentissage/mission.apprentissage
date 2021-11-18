@@ -32,7 +32,7 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 #### ‌La Bonne Alternance
 
 * Interlocutrices Produit :
-  * Marion Guillet, [marion.guillet01-ext@pole-emploi.fr](mailto:marion.guillet01-ext@pole-emploi.fr)
+  * Marion Guillet, marion.guillet@beta.gouv.fr&#x20;
   * Anne-Camille Monet, [anne-camille.monet@beta.gouv.fr](mailto:anne-camille.monet@beta.gouv.fr)
 * Interlocuteurs techniques :
   * David Boureau, [david.boureau@beta.gouv.fr](mailto:david.boureau@beta.gouv.fr)
