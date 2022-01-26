@@ -2,25 +2,29 @@
 
 * [Présentation générale](README.md)
 
-## La Mission interministérielle pour l'apprentissage <a href="la-mission-apprentissage" id="la-mission-apprentissage"></a>
+## La Mission interministérielle pour l'apprentissage <a href="#la-mission-apprentissage" id="la-mission-apprentissage"></a>
 
 * [La feuille de route de la Mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [La démarche mise en œuvre](la-mission-apprentissage/la-demarche-mise-en-oeuvre.md)
 * [L'équipe mobilisée](la-mission-apprentissage/l-equipe.md)
 
-## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a href="les-nouveaux-services" id="les-nouveaux-services"></a>
+## LES SERVICES CONSOLIDANT L’INFRASTRUCTURE DES DONNÉES RELATIVES À L’APPRENTISSAGE <a href="#les-nouveaux-services" id="les-nouveaux-services"></a>
 
 * [Le catalogue des formations en apprentissage - Renforcer la collecte et la visibilité des formations](les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage.md)
 * [Le référentiel UAI-SIRET - Faciliter l’identification des organismes de formation en apprentissage](les-nouveaux-services/le-referentiel-uai-siret-faciliter-lidentification-des-organismes-de-formation-en-apprentissage.md)
 * [Tableau de bord apprentissage - Permettre l’accès aux données clés de l’apprentissage en temps réel](les-nouveaux-services/simplifier-la-transmission-des-donnees-apprentissage.md)
 
-## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a href="les-services-en-devenir" id="les-services-en-devenir"></a>
+## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a href="#les-services-en-devenir" id="les-services-en-devenir"></a>
 
 * [La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage](les-services-en-devenir/sirius\_apprentissage.md)
 * [Matcha - Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/matcha.md)
 * [RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous.md)
 * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
+
+## Le service facilitant le processus administratif
+
+* [Le contrat d'apprentissage dématérialisé pour les employeurs publics](le-service-facilitant-le-processus-administratif/le-contrat-dapprentissage-dematerialise-pour-les-employeurs-publics.md)
 
 ## LES SERVICES D'APPUI AUX PORTAILS D'ORIENTATION PARCOURSUP ET AFFELNET
 
@@ -35,7 +39,7 @@
 * [Sirius - Le processus de recueil des données nécessaires au déploiement du service](le-traitement-des-donnees-exploitees/sirius-le-processus-de-recueil-des-donnees-necessaires-au-deploiement-du-service.md)
 * [Open source et contributions](le-traitement-des-donnees-exploitees/des-communs-open-source.md)
 
-## La documentation <a href="documentation" id="documentation"></a>
+## La documentation <a href="#documentation" id="documentation"></a>
 
 * [Les acteurs de l'Apprentissage](documentation/les-acteurs.md)
 * [Les parcours croisés des apprenants, des entreprises et des CFA](documentation/cartographies-ecosytemes.md)
