@@ -17,7 +17,8 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Interlocuteurs chargés de l'UX Design :&#x20;
   * Sofia Boularaab,  [sofia.boulaarab@beta.gouv.fr](mailto:sofia.boulaarab@beta.gouv.fr)
   * Damien Boyer, [damien.boyer@beta.gouv.fr](mailto:damien.boyer@beta.gouv.fr)
-  * Nathalie Dupasquier, nathalie.dupasquier@beta.gouv.fr &#x20;
+  * Clémence Lanctuit, clemence.lanctuit@beta.gouv.fr
+  * Nathalie Rosenberg, nathalie.rosenberg@beta.gouv.fr
 * Interlocuteurs chargés du développement technique des produits :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
@@ -33,7 +34,6 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 
 * Interlocutrices Produit :
   * Marion Guillet, marion.guillet@beta.gouv.fr&#x20;
-  * Anne-Camille Monet, [anne-camille.monet@beta.gouv.fr](mailto:anne-camille.monet@beta.gouv.fr)
 * Interlocuteurs techniques :
   * David Boureau, [david.boureau@beta.gouv.fr](mailto:david.boureau@beta.gouv.fr)
   * Alan Le Ruyet, [alan.leruyet@beta.gouv.fr](mailto:alan.leruyet@beta.gouv.fr)&#x20;
@@ -59,10 +59,19 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Interlocuteur technique :
   * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)
 
+Le contrat d'apprentissage dématérialisé pour les employeurs publics
+
+* Interlocutrice Produit :&#x20;
+  * Anne-Camille Monet, [anne-camille.monet@beta.gouv.fr](mailto:anne-camille.monet@beta.gouv.fr)
+* Interlocuteur technique :&#x20;
+  * Antoine Bigard, antoine.bigard@beta.gouv.fr
+* Support :&#x20;
+  * support-contrat@apprentissage.beta.gouv.fr
+
 #### ‌RDV Apprentissage‌
 
-* Interlocutrice Produit :
-  * Carole Cuillier, [carole.cuillier@beta.gouv.fr](mailto:carole.cuillier@beta.gouv.fr)
+* Interlocuteur Produit :
+  * François Metayer, francois.metayer@beta.gouv.fr&#x20;
 * Interlocuteur technique :
   * Dimitri Do Bairro, [dimitri.do\_bairro@beta.gouv.fr](mailto:dimitri.do\_bairro@beta.gouv.fr)
 * Support :
@@ -70,8 +79,7 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 
 #### ‌Matcha‌
 
-* Interlocuteurs Produit :
-  * Charlotte Lecuit, [charlotte.lecuit@beta.gouv.fr](mailto:charlotte.lecuit@beta.gouv.fr)
+* Interlocuteur Produit :
   * François Metayer, francois.metayer@beta.gouv.fr
 * Interlocuteur technique :
   * Kevin Barnoin, [kevin.barnoin@beta.gouv.fr](mailto:kevin.barnoin@beta.gouv.fr)
@@ -82,6 +90,8 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 
 * Interlocutrice Produit :
   * Violaine Asselin, [violaine.asselin@pole-emploi.fr](mailto:violaine.asselin@pole-emploi.fr)
+* Interlocutrice en charge du déploiement :
+  * Mélanie Raphaël, melanie.raphael@beta.gouv.fr
 * Interlocuteurs techniques :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Stéphane Rhulmann, [stephane.ruhlmann@beta.gouv.fr](mailto:stephane.ruhlmann@beta.gouv.fr)&#x20;
