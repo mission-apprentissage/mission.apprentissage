@@ -2,7 +2,7 @@
 
 ### Les o**bjectifs**
 
-Dans le cadre de la mobilisation nationale pour l’emploi et la transition écologique, engagée par le Premier Ministre, une mission interministérielle a été confiée à Guillaume Houzel, inspecteur général de l’éducation, du sport et de la recherche, pour faciliter les entrées en apprentissage.&#x20;
+Une mission interministérielle a été confiée à Guillaume Houzel, inspecteur général de l’éducation, du sport et de la recherche, pour faciliter les entrées en apprentissage.&#x20;
 
 {% hint style="success" %}
 Pour consulter la lettre de mission :&#x20;
