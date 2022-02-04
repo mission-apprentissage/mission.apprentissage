@@ -37,8 +37,7 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Interlocuteurs techniques :
   * David Boureau, [david.boureau@beta.gouv.fr](mailto:david.boureau@beta.gouv.fr)
   * Alan Le Ruyet, [alan.leruyet@beta.gouv.fr](mailto:alan.leruyet@beta.gouv.fr)&#x20;
-* Support :
-  * [labonnealternance@pole-emploi.fr](mailto:labonnealternance@pole-emploi.fr)
+* Support : [labonnealternance@pole-emploi.fr](mailto:labonnealternance@pole-emploi.fr)
 
 #### ‌Le catalogue des formations en apprentissage
 
@@ -46,11 +45,10 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
   * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
   * Marc André, [marc.andre@beta.gouv.fr](https://app.gitbook.com/u/KSIjGQ69FIZVcKi1hzLm9E9Iu2A2) &#x20;
 * Interlocuteurs techniques :
-  * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
-  * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)&#x20;
   * Eric Plaquevent, [eric.plaquevent@beta.gouv.fr](mailto:eric.plaquevent@beta.gouv.fr)
-* Support :
-  * [catalogue@apprentissage.beta.gouv.fr](mailto:catalogue@apprentissage.beta.gouv.fr)
+  * Quentin Petel, [quentin.petel@beta.gouv.fr](https://app.gitbook.com/u/Db3XxpbCVtTHtXx3hrdiIJ6QtLr1)
+  * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
+* Support : [catalogue@apprentissage.beta.gouv.fr](mailto:catalogue@apprentissage.beta.gouv.fr)
 
 #### Le référentiel SIRET-UAI
 
@@ -59,32 +57,33 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * Interlocuteur technique :
   * Benoit Guerout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)
 
-Le contrat d'apprentissage dématérialisé pour les employeurs publics
+#### Le contrat d'apprentissage dématérialisé pour les employeurs publics
 
 * Interlocutrice Produit :&#x20;
   * Anne-Camille Monet, [anne-camille.monet@beta.gouv.fr](mailto:anne-camille.monet@beta.gouv.fr)
 * Interlocuteur technique :&#x20;
   * Antoine Bigard, antoine.bigard@beta.gouv.fr
-* Support :&#x20;
-  * support-contrat@apprentissage.beta.gouv.fr
+* Support : support-contrat@apprentissage.beta.gouv.fr
 
 #### ‌RDV Apprentissage‌
 
 * Interlocuteur Produit :
-  * François Metayer, francois.metayer@beta.gouv.fr&#x20;
+  * François Metayer, francois.metayer@beta.gouv.fr
+* Interlocuteur en charge du déploiement :
+  * Abdellah Bouhend, abdellah.bouhend@beta.gouv.fr
 * Interlocuteur technique :
   * Dimitri Do Bairro, [dimitri.do\_bairro@beta.gouv.fr](mailto:dimitri.do\_bairro@beta.gouv.fr)
-* Support :
-  * [rdv\_apprentissage@apprentissage.beta.gouv.fr](mailto:rdv\_apprentissage@apprentissage.beta.gouv.fr)
+* Support : [rdv\_apprentissage@apprentissage.beta.gouv.fr](mailto:rdv\_apprentissage@apprentissage.beta.gouv.fr)
 
 #### ‌Matcha‌
 
 * Interlocuteur Produit :
   * François Metayer, francois.metayer@beta.gouv.fr
+* Interlocuteur en charge du déploiement :&#x20;
+  * Abdellah Bouhend, abdellah.bouhend@beta.gouv.fr
 * Interlocuteur technique :
   * Kevin Barnoin, [kevin.barnoin@beta.gouv.fr](mailto:kevin.barnoin@beta.gouv.fr)
-* Support :
-  * [matcha@apprentissage.beta.gouv.fr](mailto:matcha@apprentissage.beta.gouv.fr)
+* Support : [matcha@apprentissage.beta.gouv.fr](mailto:matcha@apprentissage.beta.gouv.fr)
 
 #### ‌Tableau de bord Apprentissage‌
 
@@ -95,8 +94,7 @@ Le contrat d'apprentissage dématérialisé pour les employeurs publics
 * Interlocuteurs techniques :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Stéphane Rhulmann, [stephane.ruhlmann@beta.gouv.fr](mailto:stephane.ruhlmann@beta.gouv.fr)&#x20;
-* Support :
-  * &#x20;[tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr)
+* Support : [tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr)
 
 #### ‌Sirius‌
 
@@ -104,5 +102,4 @@ Le contrat d'apprentissage dématérialisé pour les employeurs publics
   * Violaine Asselin, [violaine.asselin@pole-emploi.fr](mailto:violaine.asselin@pole-emploi.fr)
 * Interlocuteur technique :
   * Benoît Guérout, [benoit.guerout@beta.gouv.fr](mailto:benoit.guerout@beta.gouv.fr)&#x20;
-* Support :
-  * [sirius@apprentissage.beta.gouv.fr](mailto:sirius@apprentissage.beta.gouv.fr)
+* Support : [sirius@apprentissage.beta.gouv.fr](mailto:sirius@apprentissage.beta.gouv.fr)
