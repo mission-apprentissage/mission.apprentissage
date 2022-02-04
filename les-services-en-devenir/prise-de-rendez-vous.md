@@ -16,7 +16,7 @@ Suite à une expérimentation réussie de "RDV Apprentissage",  le service sera 
 Vous serez informés de ce déploiement et pourrez, si vous le souhaitez, vous désinscrire pour ne pas bénéficier de ce service.
 {% endhint %}
 
-### **Le constat **
+### **Le constat**&#x20;
 
 Malgré l’engagement d’une profonde réforme de l’apprentissage qui a supprimé la plupart des freins à son développement et malgré les efforts déployés par les CFA, la mise en contact des candidats à l’apprentissage et des centres de formation n’est pas toujours fluide.&#x20;
 
@@ -47,5 +47,5 @@ Le fonctionnement actuel du service est expliqué dans un tutoriel accessible [e
 Simplifier, accélérer et sécuriser la mise en relation entre un candidat à une formation en apprentissage et un CFA.
 
 {% hint style="info" %}
-&#x20;Pour les centres de formations en apprentissage ou les partenaires institutionnels qui souhaiteraient en savoir plus, merci de contacter : [carole.cuillier@beta.gouv.fr](mailto:carole.cuillier@beta.gouv.fr)
+&#x20;Pour les centres de formations en apprentissage ou les partenaires institutionnels qui souhaiteraient en savoir plus, merci de contacter : francois.metayer@beta.gouv.fr
 {% endhint %}
