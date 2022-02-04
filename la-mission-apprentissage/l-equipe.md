@@ -27,7 +27,7 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 
 ### ‌LES ÉQUIPES PAR SERVICE
 
-‌Chaque service développé par la Mission fonctionne en équipe resserrée, responsable du développement de son produit numérique.
+‌Chaque service développé par la mission fonctionne en équipe resserrée, responsable du développement de son produit numérique.
 
 #### ‌La Bonne Alternance
 
