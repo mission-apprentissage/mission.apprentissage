@@ -4,7 +4,7 @@
 
 ## La Mission interministérielle pour l'apprentissage <a href="#la-mission-apprentissage" id="la-mission-apprentissage"></a>
 
-* [La feuille de route de la Mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
+* [La feuille de route de la mission](la-mission-apprentissage/les-services-attendus-de-la-mission-apprentissage.md)
 * [La démarche mise en œuvre](la-mission-apprentissage/la-demarche-mise-en-oeuvre.md)
 * [L'équipe mobilisée](la-mission-apprentissage/l-equipe.md)
 
