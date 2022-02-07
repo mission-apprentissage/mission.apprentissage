@@ -32,6 +32,7 @@ Pour servir les objectifs déterminés par la lettre de mission, les travaux men
   * Matcha donne la possibilité à des TPE et PME d’exprimer des besoins en recrutement afin de les mettre en visibilité sur La Bonne Alternance et sur Parcoursup, pour se placer sur le chemin des potentiels candidats et aider la rencontre entre l’offre et la demande ;
   * Sirius est une plateforme pensée pour recueillir les avis et témoignages d’apprentis sur leur CFA afin d’éclairer les choix de futurs apprentis ;&#x20;
   * RDV Apprentissage est un service numérique en ligne pour que les candidats à l’apprentissage qui le souhaitent puissent prendre rendez-vous avec les CFA qui les intéressent. À terme, il devrait être publiable sur toutes les plateformes et les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres ;&#x20;
+* Pour faciliter le processus administratif, le contrat d'apprentissage est en cours de dématérialisation pour les employeurs publics ;
 * Pour renforcer l’efficacité de l’orientation des jeunes vers l’apprentissage sur Parcoursup et Affelnet :&#x20;
   * Les informations sur l’apprentissage accessibles aux jeunes et leur famille ont été améliorées sur les plateformes d’orientation Parcoursup et Affelnet ;&#x20;
   * Les vœux exprimés d’entrée en apprentissage sur Affelnet vont être transférés directement aux CFA pour qu’ils puissent accompagner les candidats dans leurs choix.
