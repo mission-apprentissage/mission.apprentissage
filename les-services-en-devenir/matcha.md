@@ -8,7 +8,7 @@ description: >-
 
 _Matcha propose un formulaire qui facilite à la fois le dépôt, la gestion, la mise en visibilité et la diffusion d’un besoin de recrutement en alternance._
 
-_Ce service peut être utilisé par un employeur, par les opérateurs de compétences ou les chambres consulaires lors des collectes d'offres et bientôt par des CFA qui seraient mandatés par des entreprises._
+_Ce service peut être utilisé par un employeur, par les opérateurs de compétences ou les chambres consulaires lors des collectes d'offres et par des CFA qui seraient mandatés par des entreprises._
 
 {% hint style="success" %}
 **Vous souhaitez bénéficier du service ?**&#x20;
@@ -43,7 +43,7 @@ Son fonctionnement est simple :&#x20;
 
 ![](https://lh3.googleusercontent.com/\_5ZRrReLEMGIHddsmmwjpKb2VyvBs6baf3WxJpSKB3XD2QYCTAbKiBADYEjOb\_X63Qo1Bym7kVR5NJJC\_SdwMcxFKkvNkGRjixmM-PQyE9eT2jI1bULou9v-uY6eDxCe5q2fl3Cs)
 
-L’employeur_ _ou la personne en charge de collecter l'offre accède à un formulaire, sur lequel il lui faut remplir le SIRET, le nom de l'enseigne, son adresse et ses informations de contact. \
+L’employeur __ ou la personne en charge de collecter l'offre accède à un formulaire, sur lequel il lui faut remplir le SIRET, le nom de l'enseigne, son adresse et ses informations de contact. \
 ****
 
 * **Étape 2 : l’ajout d’une offre**
