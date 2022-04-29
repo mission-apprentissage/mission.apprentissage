@@ -14,10 +14,10 @@ Guillaume Houzel, inspecteur général de l’éducation, des sports et de la re
 * ‌Interlocuteurs responsables du développement et du suivi des produits :&#x20;
   * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
   * Christophe Bonraisin, [christ.bonraisin@pole-emploi.fr](mailto:christ.bonraisin@pole-emploi.fr)
-* Interlocutrice chargée des relations publiques, de la communication et du déploiement des produits : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)
 * Interlocuteurs chargés du développement technique des produits :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
+* Interlocutrice chargée des relations publiques et de la communication  : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)
 
 ### ‌LES ÉQUIPES PAR SERVICE
 
