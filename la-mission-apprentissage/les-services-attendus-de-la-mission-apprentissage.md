@@ -1,16 +1,10 @@
-# La feuille de route de la Mission
+# La feuille de route de la mission
 
 ### Les o**bjectifs**
 
-Une mission interministérielle a été confiée à Guillaume Houzel, inspecteur général de l’éducation, du sport et de la recherche, pour faciliter les entrées en apprentissage.&#x20;
+Une mission interministérielle a été confiée fin 2019 à Guillaume Houzel, inspecteur général de l’éducation, du sport et de la recherche, pour faciliter les entrées en apprentissage.&#x20;
 
-{% hint style="success" %}
-Pour consulter la lettre de mission :&#x20;
-{% endhint %}
-
-{% file src="../.gitbook/assets/Lettre de Mission.pdf" %}
-Lettre de mission
-{% endfile %}
+{% file src="../.gitbook/assets/2019-09-10 Lettre de Mission M HOUZEL.pdf" %}
 
 Les priorités dégagées sont de :&#x20;
 
@@ -20,20 +14,20 @@ Les priorités dégagées sont de :&#x20;
 4. Aider les jeunes et les entreprises à se comprendre ;&#x20;
 5. Diminuer les ruptures des contrats d’apprentissage.
 
+Un élargissement à cette mission a été acté en mars 2022 pour systématiser l’information des jeunes, des familles, des employeurs et des acteurs éducatifs sur le lien entre les formations et les trajectoires professionnelles, ceci avec le double objectif de mieux éclairer les orientations et d’améliorer le pilotage de l’offre de formation.
+
+{% file src="../.gitbook/assets/2022-03-23 Lettre de mission M HOUZEL.pdf" %}
+
 ### Les travaux en cours
 
-Pour servir les objectifs déterminés par la lettre de mission, les travaux menés s’appuient sur la mobilisation de l’ensemble des acteurs de l’apprentissage afin d’identifier et caractériser précisément les freins rencontrés et d’imaginer les services qui permettront de les lever. Plusieurs outils sont ainsi en cours de développement :&#x20;
+Pour servir les objectifs déterminés par la lettre de mission, les travaux menés s’appuient sur la mobilisation de l’ensemble des acteurs de l’apprentissage et de l'orientation, afin d’identifier et caractériser précisément les freins rencontrés et d’imaginer les services qui permettront de les lever. Sont ainsi en cours de construction ou de déploiement :
 
-* Pour consolider l’infrastructure des données relatives à l’apprentissage et fluidifier les échanges entre les différentes parties-prenantes :&#x20;
-  * Un catalogue élargi de formations en apprentissage a été créé pour alimenter tous les acteurs de l’apprentissage et de l’orientation des jeunes ;&#x20;
-  * Un tableau de bord Apprentissage est en construction pour organiser la remontée d’informations clés depuis les systèmes de gestion des Centres de Formation d’Apprentis (CFA) afin d’observer en temps réel les trajectoires des apprentis, y compris ceux sans contrat ou en rupture ;&#x20;
-* Pour simplifier la mise en relation des jeunes, entreprises et CFA :&#x20;
-  * Sur la Bonne Alternance, il est possible de rechercher - par secteur d’activité, territoire et niveau de diplôme - l’ensemble des formations en apprentissage proposées ainsi qu’en simultané les entreprises qui recrutent en apprentissage et les entreprises susceptibles de recruter en apprentissage, à qui envoyer une candidature spontanée ;&#x20;
-  * Matcha donne la possibilité à des TPE et PME d’exprimer des besoins en recrutement afin de les mettre en visibilité sur La Bonne Alternance et sur Parcoursup, pour se placer sur le chemin des potentiels candidats et aider la rencontre entre l’offre et la demande ;
-  * Sirius est une plateforme pensée pour recueillir les avis et témoignages d’apprentis sur leur CFA afin d’éclairer les choix de futurs apprentis ;&#x20;
-  * RDV Apprentissage est un service numérique en ligne pour que les candidats à l’apprentissage qui le souhaitent puissent prendre rendez-vous avec les CFA qui les intéressent. À terme, il devrait être publiable sur toutes les plateformes et les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres ;&#x20;
-* Pour faciliter le processus administratif, le contrat d'apprentissage est en cours de dématérialisation pour les employeurs publics ;
-* Pour renforcer l’efficacité de l’orientation des jeunes vers l’apprentissage sur Parcoursup et Affelnet :&#x20;
-  * Les informations sur l’apprentissage accessibles aux jeunes et leur famille ont été améliorées sur les plateformes d’orientation Parcoursup et Affelnet ;&#x20;
-  * Les vœux exprimés d’entrée en apprentissage sur Affelnet vont être transférés directement aux CFA pour qu’ils puissent accompagner les candidats dans leurs choix.
+* Un catalogue élargi de formations en apprentissage pour alimenter tous les acteurs de l’apprentissage et de l’orientation des jeunes ;
+* Un tableau de bord de l’apprentissage pour organiser la remontée d’informations clés depuis les systèmes de gestion des CFA afin d’observer et accompagner en temps réel les trajectoires des apprentis ;
+* La Bonne Alternance, grâce à laquelle les candidats recherchent simultanément un emploi et une formation en apprentissage. Ce service est enrichi avec un dispositif permettant à des TPE, PME et CFA d’exprimer simplement des besoins en recrutement afin de les mettre en visibilité sur différentes plateformes consultées par les jeunes ; et par un outil permettant aux candidats à l’apprentissage qui le souhaitent de prendre rendez-vous avec les CFA qui les intéressent ;
+* La dématérialisation du contrat public d’apprentissage pour simplifier les démarches de recrutements d’apprentis dans la fonction publique ;
+* Sirius pour recueillir les avis et témoignages d’apprentis sur leur CFA afin d’éclairer les choix de futurs apprentis ;
+* InserJeunes qui a pour objectif de permettre des choix éclairés d'orientation et fournir des outils de pilotage aux acteurs de la voie professionnelle.
+
+
 

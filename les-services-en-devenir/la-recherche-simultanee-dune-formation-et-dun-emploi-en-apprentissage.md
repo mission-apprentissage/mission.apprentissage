@@ -8,7 +8,7 @@ description: >-
 # La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané
 
 {% hint style="success" %}
-_La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants. _Vous pouvez y accéder directement sur : [https://labonnealternance.pole-emploi.fr/](https://labonnealternance.pole-emploi.fr)
+_La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants._ Vous pouvez y accéder directement sur : [https://labonnealternance.pole-emploi.fr/](https://labonnealternance.pole-emploi.fr)
 {% endhint %}
 
 ### Le constat

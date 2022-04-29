@@ -49,7 +49,7 @@ Pour les CFA, c’est une valeur ajoutée qui permet de :
 * Réduire le nombre d’enquêtes administratives.
 
 {% hint style="info" %}
-**L’opération est conduite conformément aux **[**règlements généraux relatifs à la protection des données **](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)_et de _[_sa transcription_](https://www.cnil.fr/fr/la-loi-informatique-et-libertes)_ en droit français en 2019 ainsi que du _[_Référentiel général de sécurité_](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/)_._
+**L’opération est conduite conformément aux** [**règlements généraux relatifs à la protection des données** ](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)_et de_ [_sa transcription_](https://www.cnil.fr/fr/la-loi-informatique-et-libertes) _en droit français en 2019 ainsi que du_ [_Référentiel général de sécurité_](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/)_._
 {% endhint %}
 
 Ainsi, le traitement des données se fait sur la base de l’intérêt public. Conformément à la loi sur la République numérique et au motif de leur mission de service public, les CFA se trouvent inscrits dans le périmètre d'application du [premier article de la loi sur une république numérique](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000033202940?r=ShhQoYB3eV) et de [l'article L300-2 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000033218936/) . Ils sont donc tenus de partager avec les administrations publiques les données dont l’utilisation sert l’intérêt général. \

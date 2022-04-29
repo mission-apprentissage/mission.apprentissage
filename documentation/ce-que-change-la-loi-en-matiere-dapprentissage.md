@@ -29,7 +29,7 @@ Ils peuvent ainsi rester en centre de formation des apprentis (CFA), sans contra
 #### Création d’une aide exceptionnelle au recrutement des apprentis, jusqu’au niveau master et pour toutes les entreprises
 
 {% hint style="success" %}
-**Aide financière de ** :
+**Aide financière de** :
 
 * 5 000 euros pour un apprenti de moins de 18 ans ;
 * 8 000 euros pour un apprenti majeur ;\
