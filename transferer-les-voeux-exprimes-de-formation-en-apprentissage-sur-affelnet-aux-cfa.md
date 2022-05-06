@@ -1,10 +1,12 @@
 ---
 description: >-
-  Ce service est en construction, pour être déployé au deuxième trimestre de
-  2021.
+  Permettre un accompagnement accéléré des jeunes sortants de 3ème grâce à un
+  transfert des vœux exprimés en apprentissage aux directeurs de CFA.
 ---
 
 # Transférer les vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA
+
+**Ce produit est actuellement transféré à la direction du numérique de l'éducation, qui se chargera ensuite de son animation et ses développements.**
 
 ### Le constat
 
