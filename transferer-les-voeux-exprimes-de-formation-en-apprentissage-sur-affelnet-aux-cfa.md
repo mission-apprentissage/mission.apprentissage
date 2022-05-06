@@ -17,8 +17,6 @@ Jusqu’à maintenant, les Centres de Formation des Apprentis (CFA) ne recevaien
 
 En 2021, les souhaits d’orientation en CFA exprimés par les jeunes sur Affelnet sont transmis directement aux CFA après la date de clôture des vœux. Chaque directeur de CFA a accès à une plateforme sécurisée, sur laquelle il lui est possible de télécharger la liste des vœux. L'ensemble des CFA peut ainsi avoir rapidement accès aux données leur permettant de contacter les candidats et de commencer à leur proposer un accompagnement pour leur faire découvrir la formation et la recherche d’une entreprise susceptible de les accueillir en alternance.
 
-![](https://lh3.googleusercontent.com/wWhpJMWmZcuAjPIF2O5oulsw8gNQnGz6IvPnxLrAwmVaJOKUYKpJ3rc4J25wvYAupYFrnVrl6b4LDmJKL7SXpS63jtdiZiU8bLt6\_avVmPEpv3y\_hubH3E4Lqyhl\_g)
-
 ###
 
 ### Les bénéfices attendus
