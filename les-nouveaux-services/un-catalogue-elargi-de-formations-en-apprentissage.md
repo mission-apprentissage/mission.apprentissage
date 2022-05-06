@@ -1,12 +1,15 @@
 ---
 description: >-
-  Ce produit est actuellement en cours d’accélération, l’équipe le déploie sans
-  cesser de l’améliorer, pour en accroître son impact.
+  Créé pour organiser la collecte des formations en apprentissage, le catalogue
+  des formations en apprentissage permet de rendre plus visibles les offres
+  auprès des jeunes et des employeurs.
 ---
 
 # Le catalogue des formations en apprentissage - Renforcer la collecte et la visibilité des formations
 
-_Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs._
+**Ce produit est en cours de transfert au réseau des Carif-Oref pour la partie affichage des offres de formation, mise à disposition d'une API ouverte et support aux organismes de formation. Le réseau des Carif-Oref, portera ensuite son animation et ses développements.**&#x20;
+
+**La partie servant à référencer les formations au sein d'Affelnet et de Parcoursup est transférée vers la direction du numérique de l'éducation**.&#x20;
 
 ### Le constat
 
