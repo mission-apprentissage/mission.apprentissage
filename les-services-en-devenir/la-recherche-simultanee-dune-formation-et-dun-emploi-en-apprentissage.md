@@ -1,14 +1,14 @@
 ---
 description: >-
-  D’abord développé par Pôle emploi, la Bonne Alternance a été reprise en 2020
+  D’abord développé par Pôle emploi, La bonne alternance a été reprise en 2020
   par la Mission Apprentissage pour en consolider les données exposées et être
   étoffée de nouvelles fonctionnalités.
 ---
 
-# La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané
+# La bonne alternance - Rechercher formation et contrat d'alternance en simultané
 
 {% hint style="success" %}
-_La Bonne Alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants._ Vous pouvez y accéder directement sur : [https://labonnealternance.pole-emploi.fr/](https://labonnealternance.pole-emploi.fr)
+_La bonne alternance est le premier service qui permet de rechercher simultanément une formation en apprentissage et une entreprise recrutant des alternants._ Vous pouvez y accéder directement sur : [https://labonnealternance.pole-emploi.fr/](https://labonnealternance.pole-emploi.fr/)
 {% endhint %}
 
 ### Le constat
@@ -22,7 +22,7 @@ Pour permettre aux jeunes de trouver plus facilement et plus rapidement une form
 1. La plus personnalisée possible (des critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs) ;&#x20;
 2. La plus efficace possible (une interface simple et guidée pour aider l'utilisateur à faire des choix et à engager les démarches nécessaires).
 
-Pour cela, la Bonne Alternance utilise à la fois :&#x20;
+Pour cela, La bonne alternance utilise à la fois :&#x20;
 
 * [Le catalogue des formations en apprentissage](https://mission-apprentissage.gitbook.io/general/les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage) ;&#x20;
 * L'API “offres d’emploi” proposée par Pôle emploi exposant les offres d'emploi en alternance ;&#x20;
@@ -31,7 +31,7 @@ Pour cela, la Bonne Alternance utilise à la fois :&#x20;
 
 Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme [le module "RDV Apprentissage”](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous) qui accélère la mise en contact entre jeunes et CFA.
 
-Le service La Bonne Alternance existe également sous forme d'API et de widget. Les plateformes existantes ayant vocation à renseigner les données peuvent ainsi exposer tout ou partie des données. Le widget est disponible en marque blanche. Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcours Sup et Affelnet.\
+Le service La bonne alternance existe également sous forme d'API et de widget. Les plateformes existantes ayant vocation à renseigner les données peuvent ainsi exposer tout ou partie des données. Le widget est disponible en marque blanche. Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcoursup et Affelnet.\
 
 
 {% hint style="success" %}

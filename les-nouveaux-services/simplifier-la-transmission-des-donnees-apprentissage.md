@@ -6,7 +6,7 @@ description: >-
 
 # Tableau de bord apprentissage - Permettre l’accès aux données clés de l’apprentissage en temps réel
 
-_Le tableau de bord Apprentissage vise à mettre à disposition de toutes les parties prenantes de la formation en apprentissage des données clés de manière dynamique, afin de permettre un pilotage opérationnel réactif dans les territoires._
+_Le tableau de bord Apprentissage vise à mettre à disposition de toutes les parties prenantes de la formation en apprentissage les données clés de manière dynamique, afin de permettre un pilotage opérationnel réactif dans les territoires._
 
 ### Le constat&#x20;
 
@@ -19,19 +19,19 @@ Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion p
 
 ### La solution
 
-Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis (CFA) - via leur éditeur de logiciel ERP, par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
+Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis (CFA) - via leur éditeur de logiciel ERP (Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
 
 * Pour l’apprenant → les données d’identification dont INE si disponible ;
 * Pour le statut des apprenants → apprenant sans contrat, apprenti et abandon ;
 * Pour l’établissement : nom, UAI, SIRET ;
 * Pour la formation → la certification et la localisation.
 
-Ces données sont agrégées et sont mises à disposition des acteurs de l’apprentissage :
+Ces données sont agrégées et sont publiques. Elles sont mises à disposition des acteurs de l’apprentissage :
 
 * Les CFA et leurs réseaux ;
-* Les membres du service public de l’emploi (SPE) : Pôle Emploi, Mission Locale, DREETS… ;
+* Les membres du service public de l’emploi (SPE) : Pôle Emploi, Mission Locale, DRETS… ;
 * Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
-* La Plateforme de Suivi et d'Appui aux Décrocheurs ;
+* La Plateforme de Suivi et d’Appui aux Décrocheurs ;
 * Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
 
 Les objectifs sont de faciliter un pilotage opérationnel de l’apprentissage en temps réel pour :

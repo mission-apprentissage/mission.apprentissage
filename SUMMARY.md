@@ -16,7 +16,7 @@
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a href="#les-services-en-devenir" id="les-services-en-devenir"></a>
 
-* [La Bonne Alternance - Rechercher formation et contrat d'alternance en simultané](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
+* [La bonne alternance - Rechercher formation et contrat d'alternance en simultané](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
 * [Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage](les-services-en-devenir/sirius\_apprentissage.md)
 * [Matcha - Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/matcha.md)
 * [RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous.md)
