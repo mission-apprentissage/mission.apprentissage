@@ -1,7 +1,7 @@
 ---
 description: >-
-  Ce service est en construction, une équipe a été constituée pour le lancer et
-  le tester auprès de premiers usagers.
+  Ce service est en cours d'investigation. Une équipe doit se constituer
+  prochainement pour assurer sa construction.
 ---
 
 # Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage
@@ -20,7 +20,7 @@ Une solution unique de recueil et de restitution d’avis auprès de toutes les 
 
 {% hint style="info" %}
 Découvrez Anotéa , le service de recueil et de restitution des avis des demandeurs d'emploi sur les formations qu'ils ont suivies\
-[https://anotea.pole-emploi.fr/](https://anotea.pole-emploi.fr)
+[https://anotea.pole-emploi.fr/](https://anotea.pole-emploi.fr/)
 {% endhint %}
 
 Ce service s'appuiera sur la base de données des anciens apprentis, et cherchera à construire, avec les répondants, un questionnaire simple et rapide pour une restitution claire des notes et avis sur tous les catalogues de formation en apprentissage.
