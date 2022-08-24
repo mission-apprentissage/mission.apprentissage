@@ -1,15 +1,12 @@
 ---
 description: >-
-  Créé pour organiser la collecte des formations en apprentissage, le catalogue
-  des formations en apprentissage permet de rendre plus visibles les offres
-  auprès des jeunes et des employeurs.
+  Ce produit est actuellement en cours d’accélération, l’équipe le déploie sans
+  cesser de l’améliorer, pour en accroître son impact.
 ---
 
 # Le catalogue des formations en apprentissage - Renforcer la collecte et la visibilité des formations
 
-**Ce produit a été transféré au réseau des Carif-Oref pour la partie affichage des offres de formation, mise à disposition d'une API ouverte et support aux organismes de formation. Le réseau des Carif-Oref porte donc maintenant son animation et ses développements.**&#x20;
-
-**La partie servant à référencer les formations au sein d'Affelnet et de Parcoursup est transférée vers la direction du numérique de l'éducation**.&#x20;
+_Créé pour organiser la collecte des formations en apprentissage, le catalogue des formations en apprentissage permet de rendre plus visibles les offres auprès des jeunes et des employeurs._
 
 ### Le constat
 
@@ -27,7 +24,7 @@ Un catalogue des offres de formation en apprentissage a été créé, pour être
 4. Simplifier les démarches pour tous les acteurs et notamment pour les personnels des CFA, en automatisant une partie du recensement et en publiant un catalogue ouvert, accessible à toutes les institutions concourant à l'orientation des jeunes.
 
 {% hint style="success" %}
-Retrouvez sur [catalogue.apprentissage.beta.gouv.fr](https://catalogue.apprentissage.beta.gouv.fr/) le catalogue des formations en apprentissage&#x20;
+Retrouvez sur [catalogue.apprentissage.beta.gouv.fr](https://catalogue.apprentissage.beta.gouv.fr) le catalogue des formations en apprentissage&#x20;
 {% endhint %}
 
 Vous pouvez également accéder [ici à la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en Apprentissage réalisée par la Mission.

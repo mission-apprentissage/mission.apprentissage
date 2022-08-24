@@ -1,5 +1,7 @@
 # Le contrat d'apprentissage dématérialisé pour les employeurs publics
 
+**Ce produit a été transféré à la DGEFP qui porte maintenant son animation et ses développements.**&#x20;
+
 ### Le constat
 
 Il n’existe qu’une version papier du CERFA Contrat d’apprentissage que les employeurs publics des trois fonctions publiques :&#x20;
