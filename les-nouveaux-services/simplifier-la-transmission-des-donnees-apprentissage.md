@@ -6,7 +6,7 @@ description: >-
 
 # Tableau de bord apprentissage - Permettre l’accès aux données clés de l’apprentissage en temps réel
 
-_Le tableau de bord Apprentissage vise à mettre à disposition de toutes les parties prenantes de la formation en apprentissage les données clés de manière dynamique, afin de permettre un pilotage opérationnel réactif dans les territoires._
+_Le tableau de bord Apprentissage vise à mettre à disposition de toutes les parties prenantes de la formation en apprentissage des données clés de manière dynamique, afin de permettre un pilotage opérationnel réactif dans les territoires._
 
 ### Le constat&#x20;
 
@@ -19,19 +19,19 @@ Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion p
 
 ### La solution
 
-Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis (CFA) - via leur éditeur de logiciel ERP (Yparéo et Gesti pour l’instant, SC Form et FCA Manager bientôt), par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
+Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis (CFA) - via leur éditeur de logiciel ERP, par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
 
 * Pour l’apprenant → les données d’identification dont INE si disponible ;
 * Pour le statut des apprenants → apprenant sans contrat, apprenti et abandon ;
 * Pour l’établissement : nom, UAI, SIRET ;
 * Pour la formation → la certification et la localisation.
 
-Ces données sont agrégées et sont publiques. Elles sont mises à disposition des acteurs de l’apprentissage :
+Ces données sont agrégées et sont mises à disposition des acteurs de l’apprentissage :
 
 * Les CFA et leurs réseaux ;
-* Les membres du service public de l’emploi (SPE) : Pôle Emploi, Mission Locale, DRETS… ;
-* Les comités de pilotage régionaux : Conseil régionaux, Plan 1 jeune 1 solution…
-* La Plateforme de Suivi et d’Appui aux Décrocheurs ;
+* Les membres du service public de l’emploi (SPE) : Pôle Emploi, Mission Locale, DREETS… ;
+* Les comités de pilotage régionaux : Cellule apprentissage, CREFOP, Plan 1 jeune 1 solution… et conseils régionaux ;
+* La Plateforme de Suivi et d'Appui aux Décrocheurs ;
 * Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
 
 Les objectifs sont de faciliter un pilotage opérationnel de l’apprentissage en temps réel pour :
@@ -44,15 +44,13 @@ Pour les CFA, c’est une valeur ajoutée qui permet de :
 
 * Mettre en visibilité l’évolution des effectifs et des formations en apprentissage ;
 * Faciliter une meilleure coordination des acteurs ;
-* Avoir une vision plus précise de l’offre et des tensions sur un territoire ;
-* Simplifier les démarches administratives ;
-* Réduire le nombre d’enquêtes administratives.
+* Simplifier les démarches administratives et réduire le nombre d’enquêtes administratives.
 
 {% hint style="info" %}
 **L’opération est conduite conformément aux** [**règlements généraux relatifs à la protection des données** ](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)_et de_ [_sa transcription_](https://www.cnil.fr/fr/la-loi-informatique-et-libertes) _en droit français en 2019 ainsi que du_ [_Référentiel général de sécurité_](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/)_._
 {% endhint %}
 
-Ainsi, le traitement des données se fait sur la base de l’intérêt public. Conformément à la loi sur la République numérique et au motif de leur mission de service public, les CFA se trouvent inscrits dans le périmètre d'application du [premier article de la loi sur une république numérique](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000033202940?r=ShhQoYB3eV) et de [l'article L300-2 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000033218936/) . Ils sont donc tenus de partager avec les administrations publiques les données dont l’utilisation sert l’intérêt général. \
+Le traitement des données se fait sur la base de l’intérêt public. Conformément à la loi sur la République numérique et au motif de leur mission de service public, les CFA se trouvent inscrits dans le périmètre d'application du [premier article de la loi sur une république numérique](https://www.legifrance.gouv.fr/jorf/article\_jo/JORFARTI000033202940?r=ShhQoYB3eV) et de [l'article L300-2 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article\_lc/LEGIARTI000033218936/) . Ils sont donc tenus de partager avec les administrations publiques les données dont l’utilisation sert l’intérêt général. \
 Cette opération est conduite suivant les procédures sécurisées de l’État :
 
 * Transmission sécurisée et cryptée des données ;
@@ -63,6 +61,6 @@ Cette opération est conduite suivant les procédures sécurisées de l’État 
 
 ### Les bénéfices attendus
 
-1. Permettre une amélioration sensible de la qualité de pilotage ;
+1. Permettre une amélioration sensible de la qualité de pilotage en facilitant la remontée de données ;
 2. Observer les positionnements de jeunes sur Affelnet et Parcoursup et leur transformation en entrée en apprentissage ;
 3. Identifier mieux et plus tôt les jeunes en difficulté qui sont en rupture de contact avec les CFA, pour que les conseillers spécialisés les aident à s’orienter.

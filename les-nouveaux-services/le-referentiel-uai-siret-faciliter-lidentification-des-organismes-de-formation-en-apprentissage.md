@@ -4,7 +4,7 @@ description: >-
   rapidement et le tester auprès de premiers usagers.
 ---
 
-# Le référentiel UAI-SIRET  - Faciliter l’identification des organismes de formation en apprentissage
+# Le référentiel UAI-SIRET - Faciliter l’identification des organismes de formation en apprentissage
 
 ### Le constat&#x20;
 
@@ -19,7 +19,7 @@ Un référentiel UAI-SIRET est en cours de construction, en croisant les bases D
 Pour cela :&#x20;
 
 * Des investigations ont été menées pour identifier les couples SIRET-UAI valides, avec la direction de l’animation et de la recherche, des études et des statistiques (DARES), qui dépend du ministère du Travail, et la direction de l'évaluation, de la prospective et de la performance (DEPP), qui dépend du ministère de l’Education Nationale et en association après consultation avec l’ensemble des directions ministérielles et opérateurs concernés (DGESCO, DGESIP, DGEFP, France compétence, Onisep, RCO).&#x20;
-* Des travaux s’engagent actuellement avec les services déconcentrés en AURA, Occitanie et Grand-Est pour vérifier localement cette analyse et la compléter manuellement pour l’ensemble des établissements.
+* Des travaux sont engagés avec les services déconcentrés pour vérifier localement cette analyse et la compléter manuellement pour l’ensemble des établissements.
 
 {% hint style="info" %}
 Les premières statistiques sur ces croisements de bases sont disponibles ici : [https://referentiel.apprentissage.beta.gouv.fr/stats](https://referentiel.apprentissage.beta.gouv.fr/stats)

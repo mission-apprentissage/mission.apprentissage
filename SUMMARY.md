@@ -45,7 +45,7 @@
 
 ## La documentation <a href="#documentation" id="documentation"></a>
 
-* [Les acteurs de l'Apprentissage](documentation/les-acteurs.md)
+* [Les acteurs de l'apprentissage](documentation/les-acteurs.md)
 * [Les parcours croisés des apprenants, des entreprises et des CFA](documentation/cartographies-ecosytemes.md)
 * [Ce que changent la loi pour la liberté de choisir son avenir professionnel et le plan France Relance](documentation/ce-que-change-la-loi-en-matiere-dapprentissage.md)
 * [Études et publications autour de l’apprentissage](documentation/des-ressources-documentaires-utiles.md)

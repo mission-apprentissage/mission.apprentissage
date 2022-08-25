@@ -1,10 +1,3 @@
----
-description: >-
-  Ce service est en cours d’investigation, pour mieux cerner le problème
-  rencontré et confirmer la pertinence d’un investissement dans le développement
-  de ce service numérique.
----
-
 # De nouvelles modalités d'accompagnement des futurs apprentis
 
 _Une première version de ce service a été déclinée en 2020 pour accompagner une cohorte de jeunes ayant émis des vœux de formation en apprentissage via Parcoursup vers leur centre de formation et à la recherche d'un contrat d'apprentissage._
@@ -23,7 +16,7 @@ Ces jeunes ne bénéficient pas tous des savoir-faire et outils pour concrétise
 En 2020, des campagnes de mailing et de sms, aux jeunes, ou leurs parents, ont été entreprises pour les inciter à :
 
 * Contacter le Cfa pour lequel il vise une de leur formations en apprentissage ;
-* Démarcher des entreprises en les outillant pour les identifier (cf [la Bonne Alternance](https://labonnealternance.pole-emploi.fr))  ;
+* Démarcher des entreprises en les outillant pour les identifier (cf [la Bonne Alternance](https://labonnealternance.pole-emploi.fr/))  ;
 * Effectuer des candidatures spontanées ;
 * ...
 
