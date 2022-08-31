@@ -4,16 +4,16 @@ description: >-
   le tester auprès de premiers usagers.
 ---
 
-# RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA
+# Sécuriser et accélérer la mise en relation entre jeunes et CFA
 
 _« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis (CFA)._
 
 {% hint style="success" %}
 **Vous êtes un CFA et vous souhaitez utiliser "RDV Apprentissage" ?**&#x20;
 
-Suite à une expérimentation réussie de "RDV Apprentissage",  le service sera activé automatiquement, à partir de novembre 2021, sur toutes les formations que vous avez déclarées auprès de votre Carif-Oref.&#x20;
+Suite à une expérimentation réussie de "RDV Apprentissage",  le service est activé automatiquement sur toutes les formations que vous avez déclarées auprès de votre Carif-Oref.&#x20;
 
-Vous serez informés de ce déploiement et pourrez, si vous le souhaitez, vous désinscrire pour ne pas bénéficier de ce service.
+Vous pouvez, si vous le souhaitez, vous désinscrire pour ne pas en bénéficier.
 {% endhint %}
 
 ### **Le constat**&#x20;
@@ -24,8 +24,6 @@ Une partie des candidats qui souhaitent entrer en apprentissage ne rencontrent p
 
 ### La Solution
 
-{% embed url="https://drive.google.com/file/d/1yA0uIijdMOpSCKXcPu94LnNbTAGPr-E2/view" %}
-
 Un outil numérique est en cours de construction pour permettre aux candidats à l’apprentissage de prendre rendez-vous avec les CFA qui les intéressent via trois modes :&#x20;
 
 * Une demande à être rappelé par le CFA ;
@@ -33,14 +31,6 @@ Un outil numérique est en cours de construction pour permettre aux candidats à
 * Une inscription sur un créneau de réunion individuelle ou collective dans un agenda proposé par le CFA.
 
 Il a vocation à être publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
-
-
-
-{% hint style="info" %}
-Le fonctionnement actuel du service est expliqué dans un tutoriel accessible [en cliquant ici](https://drive.google.com/file/d/1sYgP8Jg2bhzwc-dwrn6EWjGmBsKNXyvn/view).
-{% endhint %}
-
-
 
 ### Les bénéfices attendus
 

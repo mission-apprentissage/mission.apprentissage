@@ -4,16 +4,16 @@ description: >-
   teste auprès de premiers usagers.
 ---
 
-# Matcha - Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance
+# Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance
 
-_Matcha propose un formulaire qui facilite à la fois le dépôt, la gestion, la mise en visibilité et la diffusion d’un besoin de recrutement en alternance._
+_Le service de dépôt d'offres de La bonne alternance propose un formulaire qui facilite à la fois l'expression, la gestion, la mise en visibilité et la diffusion d’un besoin de recrutement en alternance._
 
 _Ce service peut être utilisé par des employeurs, par les opérateurs de compétences ou les chambres consulaires lors des collectes d'offres et par des CFA qui seraient mandatés par des entreprises._
 
 {% hint style="success" %}
 **Vous souhaitez bénéficier du service ?**&#x20;
 
-C'est possible sur [https://matcha.apprentissage.beta.gouv.fr/](https://matcha.apprentissage.beta.gouv.fr)
+C'est possible sur [https://matcha.apprentissage.beta.gouv.fr/](https://matcha.apprentissage.beta.gouv.fr/)
 {% endhint %}
 
 ### Le constat
@@ -31,7 +31,7 @@ En outre, ils nous font part de deux autres freins :&#x20;
 
 ### La solution
 
-[Matcha](https://matcha.apprentissage.beta.gouv.fr) vise à :
+Le service de dépôt d'offres de La bonne alternance vise à :
 
 * Faire émerger le marché caché de l’emploi, tant du côté des entreprises qui se contentent de bouche à oreille, que des CFA qui ne rendent pas visibles leurs partenariats avec des entreprises ;&#x20;
 * Simplifier drastiquement l’expression d’un besoin en recrutement en apprentissage, en premier lieu pour les TPE/PME ;&#x20;
@@ -50,7 +50,7 @@ L’employeur ou la personne en charge de collecter l’offre doit compléter le
 
 #### Étape 3 - la multi-diffusion instantanée de l’offre : <a href="#etape-3-la-multi-diffusion-instantanee-de-loffre" id="etape-3-la-multi-diffusion-instantanee-de-loffre"></a>
 
-L’offre est immédiatement visible par des viviers de candidats, sur 1jeune 1solution, La Bonne Alternance, Parcoursup et d’autres plateformes.
+L’offre est immédiatement visible par des viviers de candidats, sur 1jeune 1solution, La bonne alternance, Parcoursup et d’autres plateformes.
 
 #### Étape 4 - la gestion de l’offre : <a href="#etape-4-la-gestion-de-loffre" id="etape-4-la-gestion-de-loffre"></a>
 

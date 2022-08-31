@@ -16,11 +16,12 @@
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a href="#les-services-en-devenir" id="les-services-en-devenir"></a>
 
-* [La bonne alternance - Rechercher formation et contrat d'alternance en simultané](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage.md)
+* [La bonne alternance - Faciliter la mise en relation jeunes/CFA/entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/README.md)
+  * [Rendre visibles l'offre de formation et le marché du travail en apprentissage](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/rendre-visibles-loffre-de-formation-et-le-marche-du-travail-en-apprentissage.md)
+  * [Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/matcha.md)
+  * [Sécuriser et accélérer la mise en relation entre jeunes et CFA](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/prise-de-rendez-vous.md)
+  * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis.md)
 * [Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage](les-services-en-devenir/sirius\_apprentissage.md)
-* [Matcha - Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/matcha.md)
-* [RDV Apprentissage - Sécuriser et accélérer la mise en contact entre jeunes et CFA](les-services-en-devenir/prise-de-rendez-vous.md)
-* [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/accompagner-les-futurs-apprentis.md)
 
 ## Le service facilitant le processus administratif
 

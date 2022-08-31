@@ -16,7 +16,7 @@ Le deux plateformes de formulation de vœux pour l’affectation des élèves en
 
 Ont été mis en place :&#x20;
 
-* La redirection via l'espace candidat de Parcoursup vers le service [“La Bonne Alternance”](https://labonnealternance.pole-emploi.fr) permettant aux jeunes d’identifier (par métier et par territoire) les entreprises susceptibles de les recruter comme apprentis ;
+* La redirection via l'espace candidat de Parcoursup vers le service [“La Bonne Alternance”](https://labonnealternance.pole-emploi.fr/) permettant aux jeunes d’identifier (par métier et par territoire) les entreprises susceptibles de les recruter comme apprentis ;
 * La redirection via l'espace candidat de Parcoursup vers les [13 000 offres d’emploi en apprentissage collectées par Pôle emploi](https://candidat.pole-emploi.fr/offres/recherche?natureOffre=E2\&offresPartenaires=true\&range=0-9\&rayon=10\&tri=0) ;
 * L’enrichissement de [la page de Parcoursup dédiée aux formations en apprentissage :](https://www.parcoursup.fr/index.php?desc=formations\_apprentissage) présentation, simulateur de rémunération, visibilité sur le marché de l'emploi de l'alternance, dispositifs d'accompagnements et taux d'insertions professionnels ;
 * L’enrichissement sur Parcoursup de la [Foire aux Questions dédiée à l'apprentissage ](https://www.parcoursup.fr/index.php?desc=questions#RUB-QT\_APR);

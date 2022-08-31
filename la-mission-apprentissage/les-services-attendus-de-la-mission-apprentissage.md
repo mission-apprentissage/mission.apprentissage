@@ -20,7 +20,7 @@ Un élargissement à cette mission a été acté en mars 2022 pour systématiser
 
 ### Les travaux en cours
 
-Pour servir les objectifs déterminés par la lettre de mission, les travaux menés s’appuient sur la mobilisation de l’ensemble des acteurs de l’apprentissage et de l'orientation, afin d’identifier et caractériser précisément les freins rencontrés et d’imaginer les services qui permettront de les lever. Sont ainsi en cours de construction ou de déploiement :
+Pour servir les objectifs déterminés par la lettre de mission, les travaux menés s’appuient sur la mobilisation de l’ensemble des acteurs de l’apprentissage et de l'orientation, afin d’identifier et caractériser précisément les freins rencontrés et d’imaginer les services qui permettront de les lever. Ont ainsi été déployés ou sont en cours de construction :&#x20;
 
 * Un catalogue élargi de formations en apprentissage pour alimenter tous les acteurs de l’apprentissage et de l’orientation des jeunes ;
 * Un tableau de bord de l’apprentissage pour organiser la remontée d’informations clés depuis les systèmes de gestion des CFA afin d’observer et accompagner en temps réel les trajectoires des apprentis ;

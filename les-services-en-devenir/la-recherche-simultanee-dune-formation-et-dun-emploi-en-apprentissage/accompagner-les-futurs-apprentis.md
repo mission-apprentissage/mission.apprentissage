@@ -16,20 +16,18 @@ Ces jeunes ne bénéficient pas tous des savoir-faire et outils pour concrétise
 En 2020, des campagnes de mailing et de sms, aux jeunes, ou leurs parents, ont été entreprises pour les inciter à :
 
 * Contacter le Cfa pour lequel il vise une de leur formations en apprentissage ;
-* Démarcher des entreprises en les outillant pour les identifier (cf [la Bonne Alternance](https://labonnealternance.pole-emploi.fr/))  ;
+* Démarcher des entreprises en les outillant pour les identifier ;
 * Effectuer des candidatures spontanées ;
 * ...
 
-Au printemps 2021, avec l'appui de Didask et en partenariat avec l'ensemble des acteurs de l'apprentissage concernés, des modules pédagogiques de mises en situation ont été construits, autour de 3 points de passage vers l'apprentissage :
+Au printemps 2021, avec l'appui de [Didask](https://www.didask.com/) et en partenariat avec l'ensemble des acteurs de l'apprentissage concernés, des modules pédagogiques de mises en situation ont été construits, autour de 4 points de passage vers l'apprentissage :
 
 1. [Prendre contact avec un CFA ](https://dinum-beta.didask.com/courses/demonstration/60abc18c075edf000065c987);
 2. [Chercher un employeur](https://dinum-beta.didask.com/courses/demonstration/60d21bf5be76560000ae916e) ;
-3. [Préparer un entretien avec un employeur](https://dinum-beta.didask.com/courses/demonstration/60d1adbb877dae00003f0eac).
-
-Ils vont être testés tout l'été sur La Bonne Alternance, avant d'être évalué pour faire évoluer le contenu fin septembre. Un autre module va être élaboré dans l'été, il concerne l'intégration des apprentis dans l'entreprise.
+3. [Préparer un entretien avec un employeur](https://dinum-beta.didask.com/courses/demonstration/60d1adbb877dae00003f0eac) ;
+4. [S'intégrer dans l'entreprise](https://dinum-beta.didask.com/courses/demonstration/6283bd5ad9c7ae00003ede91).
 
 ### Les bénéfices attendus
 
-* Affiner et compléter les conseils donnés aux jeunes à l'heure de leur entrée en apprentissage ;
-* Suivre le parcours de cette cohorte dans le temps afin de mesurer l’impact des actions mises en œuvre et constituer  des données d’analyse détaillées permettant de renforcer la pertinence des efforts engagés.
+Affiner et compléter les conseils donnés aux jeunes à l'heure de leur entrée en apprentissage.
 
