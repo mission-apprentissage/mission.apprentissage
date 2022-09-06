@@ -1,17 +1,11 @@
----
-description: >-
-  Le produit est en construction : une équipe a été constituée pour le lancer et
-  le tester auprès de premiers usagers.
----
-
 # Sécuriser et accélérer la mise en relation entre jeunes et CFA
 
-_« RDV Apprentissage » est un module destiné à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les Centres de Formation des Apprentis (CFA)._
+_« RDV Apprentissage » est une fonctionnalité destinée à s’intégrer aux plateformes et portails exposant les formations en apprentissage pour faciliter le premier contact entre les candidats à l’apprentissage et les centres de formation d'apprentis (CFA)._
 
 {% hint style="success" %}
 **Vous êtes un CFA et vous souhaitez utiliser "RDV Apprentissage" ?**&#x20;
 
-Suite à une expérimentation réussie de "RDV Apprentissage",  le service est activé automatiquement sur toutes les formations que vous avez déclarées auprès de votre Carif-Oref.&#x20;
+Suite à une expérimentation réussie de "RDV Apprentissage",  la fonctionnalité est activéd automatiquement sur toutes les formations que vous avez déclarées auprès de votre Carif-Oref.&#x20;
 
 Vous pouvez, si vous le souhaitez, vous désinscrire pour ne pas en bénéficier.
 {% endhint %}
@@ -24,11 +18,7 @@ Une partie des candidats qui souhaitent entrer en apprentissage ne rencontrent p
 
 ### La Solution
 
-Un outil numérique est en cours de construction pour permettre aux candidats à l’apprentissage de prendre rendez-vous avec les CFA qui les intéressent via trois modes :&#x20;
-
-* Une demande à être rappelé par le CFA ;
-* Le remplissage d’un formulaire e-mail, ensuite envoyé au CFA ;
-* Une inscription sur un créneau de réunion individuelle ou collective dans un agenda proposé par le CFA.
+Un outil numérique est en cours de construction pour permettre aux candidats à l’apprentissage de prendre rendez-vous avec les CFA qui les intéressent via le remplissage d’un formulaire e-mail, ensuite envoyé au CFA permettant de sélectionner le motif du rdv et d’être recontacté par l’établissement.
 
 Il a vocation à être publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
 
