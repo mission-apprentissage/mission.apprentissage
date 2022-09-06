@@ -20,6 +20,7 @@
   * [Rendre visibles l'offre de formation et le marché du travail en apprentissage](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/rendre-visibles-loffre-de-formation-et-le-marche-du-travail-en-apprentissage.md)
   * [Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/matcha.md)
   * [Sécuriser et accélérer la mise en relation entre jeunes et CFA](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/prise-de-rendez-vous.md)
+  * [Faciliter et simplifier la mise en relation entre candidats et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/faciliter-et-simplifier-la-mise-en-relation-entre-candidats-et-entreprises.md)
   * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis.md)
 * [Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage](les-services-en-devenir/sirius\_apprentissage.md)
 
