@@ -15,7 +15,7 @@ Ces jeunes ne bénéficient pas tous des savoir-faire et outils pour concrétise
 
 En 2020, des campagnes de mailing et de sms, aux jeunes, ou leurs parents, ont été entreprises pour les inciter à :
 
-* Contacter le Cfa pour lequel il vise une de leur formations en apprentissage ;
+* Contacter le CFA pour lequel il vise une de leur formations en apprentissage ;
 * Démarcher des entreprises en les outillant pour les identifier ;
 * Effectuer des candidatures spontanées ;
 * ...
