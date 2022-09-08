@@ -25,4 +25,4 @@ Vous pouvez adopter cette fonctionnalité de candidature simplifiée sur votre s
 ### Les bénéfices attendus
 
 * Simplifier, accélérer et sécuriser la mise en relation entre un candidat et une entreprise.
-* Monitorer les réponses des entreprises aux candidats.
+
