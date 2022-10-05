@@ -11,13 +11,11 @@ description: >-
 
 Guillaume Houzel, inspecteur général de l’éducation, des sports et de la recherche, pilote l’ensemble des travaux menés par la mission. Il s’appuie sur une équipe transversale qui participe à coordonner le développement des projets.
 
-* ‌Interlocuteurs responsables opérationnels :&#x20;
-  * Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
-  * Christophe Bonraisin, [christ.bonraisin@pole-emploi.fr](mailto:christ.bonraisin@pole-emploi.fr)
+* ‌Interlocutrice responsable opérationnelle : Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
+* Interlocutrice responsable des relations publiques et de la communication  : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)
 * Interlocuteurs responsables du développement technique des produits :
   * Samir Benfares, [samir.benfares@beta.gouv.fr](mailto:samir.benfares@beta.gouv.fr)
   * Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
-* Interlocutrice responsable des relations publiques et de la communication  : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)
 
 ### ‌LES ÉQUIPES PAR SERVICE
 
