@@ -1,10 +1,6 @@
----
-description: >-
-  Le produit est en construction, une équipe a été constituée pour le lancer
-  rapidement et le tester auprès de premiers usagers.
----
-
 # Le référentiel UAI-SIRET - Faciliter l’identification des organismes de formation en apprentissage
+
+Ce produit a été transféré à l'ONISEP, qui se charge maintenant de son animation et ses développements.
 
 ### Le constat&#x20;
 
