@@ -18,7 +18,7 @@ Pour cela :&#x20;
 * Des travaux sont engagés avec les services déconcentrés pour vérifier localement cette analyse et la compléter manuellement pour l’ensemble des établissements.
 
 {% hint style="info" %}
-Les premières statistiques sur ces croisements de bases sont disponibles ici : [https://referentiel.apprentissage.beta.gouv.fr/stats](https://referentiel.apprentissage.beta.gouv.fr/stats)
+Les statistiques sur ces croisements de bases sont disponibles ici : [https://referentiel.apprentissage.beta.gouv.fr/stats](https://referentiel.apprentissage.beta.gouv.fr/stats)
 {% endhint %}
 
 ### Les bénéfices attendus&#x20;
