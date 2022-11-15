@@ -53,7 +53,7 @@ Contacter :&#x20;
 
 #### ‌Sirius‌
 
-* Interlocutrice produit : Benjamin Vanderlyden, benjamin.vanderlynden@beta.gouv.fr
+* Interlocuteur produit : Benjamin Vanderlyden, benjamin.vanderlynden@beta.gouv.fr
 
 #### Formations et trajectoires professionnelles
 
