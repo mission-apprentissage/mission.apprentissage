@@ -47,7 +47,7 @@ Contacter :&#x20;
 * Interlocutrice chargée du déploiement : Mélanie Raphaël, melanie.raphael@beta.gouv.fr
 * Interlocuteurs techniques :
   * Samir Benfares, samir.benfares@beta.gouv.fr
-  * Stéphane Rhulmann, stephane.ruhlmann@beta.gouv.fr&#x20;
+  * Stéphane Ruhlmann, stephane.ruhlmann@beta.gouv.fr&#x20;
   * Pablo Hanry, pablo.hanry@beta.gouv.fr
 * Support : tableau-de-bord@apprentissage.beta.gouv.fr
 
