@@ -3,7 +3,7 @@
 
 
 {% hint style="success" %}
-Vous pouvez accéder au service sur : [https://labonnealternance.pole-emploi.fr/](https://labonnealternance.pole-emploi.fr/)
+Vous pouvez accéder au service sur : [https://labonnealternance.apprentissage.beta.gouv.fr/](https://labonnealternance.apprentissage.beta.gouv.fr/)
 {% endhint %}
 
 ### Le constat
@@ -12,21 +12,21 @@ Une entrée en alternance résulte d'un accord entre un candidat, un employeur e
 
 ### La solution
 
-Pour permettre aux jeunes de trouver plus facilement et plus rapidement une formation et un contrat en alternance, il faut délivrer l’information la plus complète possible à la fois sur toute l'offre de formation disponible et tout le marché du travail, sur une seule et même interface, qui soit :&#x20;
+Pour accompagner au mieux les jeunes dans leurs démarches d'accès à l'alternance, La bonne alternance offre une interface unique centralisant l'ensemble de l'offre de formation en apprentissage et d'emploi en alternance. Cette interface personnalisable et guidée centralise les données suivantes :&#x20;
 
 1. La plus personnalisée possible (des critères de filtres et de tri adaptés aux besoins et contraintes des utilisateurs) ;&#x20;
 2. La plus efficace possible (une interface simple et guidée pour aider l'utilisateur à faire des choix et à engager les démarches nécessaires).
 
-Pour cela, La bonne alternance utilise à la fois :&#x20;
+Pour cela, La bonne alternance expose :&#x20;
 
 * [Le catalogue des formations en apprentissage](https://mission-apprentissage.gitbook.io/general/les-nouveaux-services/un-catalogue-elargi-de-formations-en-apprentissage) ;&#x20;
-* L'API “offres d’emploi” proposée par Pôle emploi exposant les offres d'emploi en alternance ;&#x20;
-* Un algorithme prédictif analysant les recrutements passés afin de prédire ceux à venir ;&#x20;
-* Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) dans le cadre de l’expérimentation du produit [Matcha](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/untitled).
+* Les offres d'emploi en alternance recueillies par Pôle emploi, grâce à [l'API "Offres d'emploi"](https://pole-emploi.io/data/api/offres-emploi) ;
+* Les entreprises susceptibles de recruter en alternance grâce à un algorithme prédictif analysant les recrutements passés afin de prédire ceux à venir ;&#x20;
+* Les besoins exprimés par de très petites entreprises (TPE) ou des petites et moyennes entreprises (PME) auprès de leur opérateur de compétences (OPCO) ou dans le cadre de campagnes dédiées.
 
-Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme [le module "RDV Apprentissage”](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous) qui accélère la mise en contact entre jeunes et CFA.
+Au fur et à mesure de l’avancée des travaux de la Mission interministérielle pour l’Apprentissage, de nouvelles fonctionnalités sont ajoutées à ce service pour être testées, comme ["RDV Apprentissage”](https://mission-apprentissage.gitbook.io/general/les-services-en-devenir/prise-de-rendez-vous) qui accélère la mise en contact entre jeunes et CFA ou "Je candidate" qui permet aux jeunes de candidater simplement et rapidement auprès des entreprises.
 
-Le service La bonne alternance existe également sous forme d'API et de widget. Les plateformes existantes ayant vocation à renseigner les données peuvent ainsi exposer tout ou partie des données. Le widget est disponible en marque blanche. Cette possibilité maximise la portée du produit : l’accès à ces données est déjà possible depuis Parcoursup et Affelnet.\
+Le service La bonne alternance existe également sous forme d'API et de widget. Ces formats soutiennent la diffusion des données agrégées par le service. Les plateformes existantes (Parcoursup, Affelnet, 1jeune 1solution, ...) ayant vocation à renseigner les jeunes peuvent ainsi exposer tout ou partie des données. Le widget est disponible en marque blanche.\
 
 
 {% hint style="success" %}
