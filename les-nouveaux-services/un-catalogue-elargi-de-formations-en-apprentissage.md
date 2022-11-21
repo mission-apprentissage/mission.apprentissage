@@ -27,12 +27,10 @@ Un catalogue des offres de formation en apprentissage a été créé, pour être
 4. Simplifier les démarches pour tous les acteurs et notamment pour les personnels des CFA, en automatisant une partie du recensement et en publiant un catalogue ouvert, accessible à toutes les institutions concourant à l'orientation des jeunes.
 
 {% hint style="success" %}
-Retrouvez sur [catalogue.apprentissage.beta.gouv.fr](https://catalogue.apprentissage.beta.gouv.fr/) le catalogue des formations en apprentissage&#x20;
+Retrouvez sur [ ](https://catalogue-apprentissage.intercariforef.org/)[https://catalogue-apprentissage.intercariforef.org/ ](https://catalogue-apprentissage.intercariforef.org/)le catalogue des formations en apprentissage.
 {% endhint %}
 
-Vous pouvez également accéder [ici à la documentation détaillée](https://mission-apprentissage.gitbook.io/catalogue/) concernant la collecte de l'offre de formation en apprentissage.
-
-### Les bénéfices attendus
+### Les bénéfices
 
 * La mise en visibilité d’une offre de formation en apprentissage complète et interconnectée permet d'augmenter le nombre (et le bon enregistrement) des vœux en apprentissage ;&#x20;
 * Un processus partagé de collecte et un format homogène facilitent la mise en contact avec les CFA ;&#x20;
