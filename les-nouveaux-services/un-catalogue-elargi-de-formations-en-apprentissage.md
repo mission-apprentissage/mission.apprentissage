@@ -9,7 +9,7 @@ description: >-
 
 **Ce produit a été transféré au réseau des Carif-Oref pour la partie affichage des offres de formation, mise à disposition d'une API ouverte et support aux organismes de formation. Le réseau des Carif-Oref porte donc maintenant son animation et ses développements.**&#x20;
 
-**La partie servant à référencer les formations au sein d'Affelnet et de Parcoursup a été transférée à la direction du numérique de l'éducation**.&#x20;
+**La partie servant à référencer les formations au sein d'Affelnet et de Parcoursup a été transférée à la direction du numérique pour l'éducation**.&#x20;
 
 ### Le constat
 

@@ -8,7 +8,7 @@ description: >-
 
 ### L'ÉQUIPE TRANSVERSALE
 
-Pour contacter :&#x20;
+Contacter :&#x20;
 
 * La directrice de la mission : Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
 * La responsable des relations publiques et de la communication  : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)

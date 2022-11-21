@@ -1,7 +1,7 @@
 ---
 description: >-
-  Ce service est en cours d'investigation. Une équipe doit se constituer
-  prochainement pour assurer sa construction.
+  Ce service est en cours d'investigation. Une équipe se constitue au sein de
+  l'ONISEP pour assurer sa construction.
 ---
 
 # Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage

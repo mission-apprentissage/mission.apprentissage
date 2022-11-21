@@ -6,7 +6,7 @@ description: >-
 
 # Transférer les vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA
 
-**Ce produit a été transféré à la direction du numérique de l'éducation, qui se charge maintenant de son animation et ses développements.**
+**Ce produit a été transféré à la direction du numérique pour l'éducation, qui se charge maintenant de son animation et ses développements.**
 
 ### Le constat
 
