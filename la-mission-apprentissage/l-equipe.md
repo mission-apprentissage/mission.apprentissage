@@ -8,7 +8,7 @@ description: >-
 
 ### L'ÉQUIPE TRANSVERSALE
 
-Contacter :&#x20;
+Pour contacter :&#x20;
 
 * La directrice de la mission : Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
 * La responsable des relations publiques et de la communication  : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)
@@ -50,15 +50,6 @@ Contacter :&#x20;
   * Stéphane Ruhlmann, stephane.ruhlmann@beta.gouv.fr&#x20;
   * Pablo Hanry, pablo.hanry@beta.gouv.fr
 * Support : tableau-de-bord@apprentissage.beta.gouv.fr
-
-#### ‌Sirius‌
-
-* Interlocuteur produit : Benjamin Vanderlyden, benjamin.vanderlynden@beta.gouv.fr
-
-#### Formations et trajectoires professionnelles
-
-* Interlocuteur produit : Benjamin Barralon, benjamin.barralon@beta.gouv.fr
-*   Interlocutrice chargée de l'expérience utilisateur/de l'UX design : Nathalie Rosenberg, nathalie.rosenberg@beta.gouv.fr
 
 
 

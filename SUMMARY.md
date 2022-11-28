@@ -22,7 +22,6 @@
   * [Sécuriser et accélérer la mise en relation entre jeunes et CFA](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/prise-de-rendez-vous.md)
   * [Faciliter et simplifier la mise en relation entre candidats et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/faciliter-et-simplifier-la-mise-en-relation-entre-candidats-et-entreprises.md)
   * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis.md)
-* [Sirius - Éclairer les jeunes et leurs parents sur l'apprentissage](les-services-en-devenir/sirius\_apprentissage.md)
 
 ## Le service facilitant le processus administratif
 
@@ -32,10 +31,6 @@
 
 * [Améliorer l'accès aux informations concernant l'apprentissage sur Parcoursup et Affelnet](lapprentissage-sur-parcoursup.md)
 * [Transférer les vœux exprimés sur Affelnet par les jeunes sortants de 3ème aux CFA](transferer-les-voeux-exprimes-de-formation-en-apprentissage-sur-affelnet-aux-cfa.md)
-
-## Formations et trajectoires professionnelles
-
-* [Faciliter l’orientation et l’insertion professionnelle des jeunes](formations-et-trajectoires-professionnelles/faciliter-lorientation-et-linsertion-professionnelle-des-jeunes.md)
 
 ## LE TRAITEMENT DES DONNÉES EXPLOITÉES
 
