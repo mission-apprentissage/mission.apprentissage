@@ -20,7 +20,7 @@ Une partie des candidats qui souhaitent entrer en apprentissage ne rencontre pas
 
 Un outil numérique est en cours de construction pour permettre aux candidats à l’apprentissage de prendre rendez-vous avec les CFA qui les intéressent via le remplissage d’un formulaire e-mail, ensuite envoyé au CFA permettant de sélectionner le motif du rdv et d’être recontacté par l’établissement.
 
-Il a vocation à être publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La Bonne Alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
+Il a vocation à être publiable sur toutes les plateformes internet et pourra donc être présent sur tous les points de passage naturels des candidats : La bonne alternance, Parcoursup, Affelnet, les sites des CFA et bien d’autres.
 
 ### Les bénéfices attendus
 
