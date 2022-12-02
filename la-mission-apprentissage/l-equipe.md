@@ -44,7 +44,6 @@ Pour contacter :&#x20;
 * Interlocutrices chargées de l'expérience utilisateur et de l'UX design :&#x20;
   * Catherine Bourreau, catherine.bourreau@beta.gouv.fr
   * Clémence Lanctuit, clemence.lanctuit@beta.gouv.fr
-* Interlocutrice chargée du déploiement : Mélanie Raphaël, melanie.raphael@beta.gouv.fr
 * Interlocuteurs techniques :
   * Samir Benfares, samir.benfares@beta.gouv.fr
   * Stéphane Ruhlmann, stephane.ruhlmann@beta.gouv.fr&#x20;
