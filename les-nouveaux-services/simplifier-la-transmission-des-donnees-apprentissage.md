@@ -19,32 +19,25 @@ Plus généralement, l'écosystème de l'apprentissage manque d'interconnexion p
 
 ### La solution
 
-Le tableau de bord Apprentissage propose de se brancher sur les systèmes de gestion des centres de formation d’apprentis (CFA) - via leur éditeur de logiciel ERP, par consommation d’une API ou par dépôt de fichier sur un serveur - pour recueillir certaines données :
+Le tableau de bord de l'apprentissage permet de visualiser en temps réel les effectifs d’apprentis dans les centres de formation et les organismes de formation. Comment ? En se branchant sur les systèmes de gestion des centres de formation d'apprentis (CFA) - via leur éditeur de logiciel ERP (cf. https://cfas.apprentissage.beta.gouv.fr/), par consommation d'une API ou par dépôt de fichier sur un serveur :  ttps://cfas.apprentissage.beta.gouv.fr/comprendre-les-donnees
 
-* Pour l’apprenant → les données d’identification dont INE si disponible ;
-* Pour le statut des apprenants → apprenant sans contrat, apprenti et abandon ;
-* Pour l’établissement : nom, UAI, SIRET ;
-* Pour la formation → la certification et la localisation.
+&#x20;
 
-Ces données sont agrégées et sont mises à disposition des acteurs de l’apprentissage :
+Différentes institutions (DREETS, Académies, DRAAF, Carif Oref, Conseil Régionaux, etc.) consultent le tableau de bord de l'apprentissage régulièrement pour suivre l’évolution des effectifs. Ces données les éclairent notamment dans la mise en place des plans d’actions d’accompagnement des jeunes sans contrat ou pour définir les politiques publiques liées à l’apprentissage.
 
-* Les CFA et leurs réseaux ;
-* Les membres du service public de l’emploi (SPE) : Pôle Emploi, Mission Locale, DREETS… ;
-* Les comités de pilotage régionaux : Cellule apprentissage, CREFOP, Plan 1 jeune 1 solution… et conseils régionaux ;
-* La Plateforme de Suivi et d'Appui aux Décrocheurs ;
-* Les administrations compétentes des Ministères du Travail, de l’Education Nationale, de l’Enseignement Supérieur, de l’Agriculture….
+Le Tableau de bord sert 3 finalités :
 
-Les objectifs sont de faciliter un pilotage opérationnel de l’apprentissage en temps réel pour :
-
-* Savoir comment évolue le nombre d’apprentis dans un territoire ou un secteur économique ;
-* Dénombrer les jeunes en recherche de contrat ou en risque de décrochage ;
-* Simplifier certaines démarches administratives pour les CFA.
+* Piloter : permettre aux pouvoirs publics de piloter au mieux la politique de l’apprentissage nationalement et localement ;
+* Accompagner : utiliser la donnée pour aider ceux qui peuvent agir à accompagner les apprentis en situation de rupture ;
+* Simplifier : exposer la donnée pour simplifier la délivrance ou la consommation d’informations (enquêtes, communications, …).
 
 Pour les CFA, c’est une valeur ajoutée qui permet de :
 
 * Mettre en visibilité l’évolution des effectifs et des formations en apprentissage ;
-* Faciliter une meilleure coordination des acteurs ;
-* Simplifier les démarches administratives et réduire le nombre d’enquêtes administratives.
+* Simplifier les démarches administratives ;
+* Réduire le nombre d’enquêtes administratives.
+
+
 
 {% hint style="info" %}
 **L’opération est conduite conformément aux** [**règlements généraux relatifs à la protection des données** ](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)_et de_ [_sa transcription_](https://www.cnil.fr/fr/la-loi-informatique-et-libertes) _en droit français en 2019 ainsi que du_ [_Référentiel général de sécurité_](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/)_._
