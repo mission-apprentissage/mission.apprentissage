@@ -27,5 +27,5 @@ Il a vocation à être publiable sur toutes les plateformes internet et pourra d
 Simplifier, accélérer et sécuriser la mise en relation entre un candidat à une formation en apprentissage et un CFA.
 
 {% hint style="info" %}
-&#x20;Pour les centres de formations d'apprentis ou les partenaires institutionnels qui souhaiteraient en savoir plus, merci de contacter : francois.metayer@beta.gouv.fr
+&#x20;Pour les centres de formations d'apprentis ou les partenaires institutionnels qui souhaiteraient en savoir plus, merci de contacter : abdellah.bouhend@beta.gouv.fr
 {% endhint %}
