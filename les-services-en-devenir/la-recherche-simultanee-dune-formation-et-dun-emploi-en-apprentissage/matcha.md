@@ -1,4 +1,4 @@
-# Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance
+# Faire émerger les besoins en recrutements
 
 _Le service de dépôt d'offres de La bonne alternance propose un formulaire qui facilite à la fois l'expression, la gestion et la diffusion d’un besoin de recrutement en alternance._
 
@@ -30,7 +30,7 @@ Le service de dépôt d'offres de La bonne alternance vise à :
 * Faire émerger le marché caché de l’emploi, tant du côté des entreprises qui se contentent de bouche à oreille, que des CFA qui ne rendent pas visibles leurs partenariats avec des entreprises ;&#x20;
 * Simplifier drastiquement l’expression d’un besoin en recrutement en apprentissage, en premier lieu pour les TPE/PME ;&#x20;
 * Diffuser les besoins au plus près des candidats à l’apprentissage.\
-  ****
+
 
 Son fonctionnement est simple :
 

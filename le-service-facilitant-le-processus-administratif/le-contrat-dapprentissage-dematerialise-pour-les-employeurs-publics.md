@@ -3,7 +3,7 @@
 **Ce produit a été transféré à la DGEFP qui porte maintenant son animation et ses développements.**&#x20;
 
 {% hint style="info" %}
-Retrouvez le service sur [**https://celia.emploi.gouv.fr/**](https://celia.emploi.gouv.fr/)****
+Retrouvez le service sur [**https://celia.emploi.gouv.fr/**](https://celia.emploi.gouv.fr/)
 {% endhint %}
 
 ### Le constat

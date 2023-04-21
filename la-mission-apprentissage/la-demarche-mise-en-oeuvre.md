@@ -1,6 +1,6 @@
 # La démarche mise en œuvre
 
-****[**La Mission interministérielle pour l’apprentissage et les trajectoires professionnelles**](https://beta.gouv.fr/startups/?incubateur=mission-apprentissage) **est membre de la communauté de beta.gouv.fr et suit à ce titre une démarche spécifique de conception de services numériques.**&#x20;
+[**La Mission interministérielle pour l’apprentissage et les trajectoires professionnelles**](https://beta.gouv.fr/startups/?incubateur=mission-apprentissage) **est membre de la communauté de beta.gouv.fr et suit à ce titre une démarche spécifique de conception de services numériques.**&#x20;
 
 {% hint style="success" %}
 L’approche beta.gouv.fr est exposée sur son site internet : [https://beta.gouv.fr/](https://beta.gouv.fr/)

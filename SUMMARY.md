@@ -16,9 +16,9 @@
 
 ## LES SERVICES SIMPLIFIANT LA MISE EN RELATION ENTRE JEUNES, CFA ET ENTREPRISES <a href="#les-services-en-devenir" id="les-services-en-devenir"></a>
 
-* [La bonne alternance - Faciliter la mise en relation jeunes/CFA/entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/README.md)
-  * [Rendre visibles l'offre de formation et le marché du travail en apprentissage](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/rendre-visibles-loffre-de-formation-et-le-marche-du-travail-en-apprentissage.md)
-  * [Faciliter le dépôt, la gestion et la diffusion de besoins de recrutement en alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/matcha.md)
+* [La bonne alternance - Faciliter la mise en relation entre candidats, CFA et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/README.md)
+  * [Centraliser et diffuser l'offre de formation et d'emploi en alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/centraliser-et-diffuser-loffre-de-formation-et-demploi-en-alternance.md)
+  * [Faire émerger les besoins en recrutements](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/matcha.md)
   * [Sécuriser et accélérer la mise en relation entre jeunes et CFA](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/prise-de-rendez-vous.md)
   * [Faciliter et simplifier la mise en relation entre candidats et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/faciliter-et-simplifier-la-mise-en-relation-entre-candidats-et-entreprises.md)
   * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis.md)
