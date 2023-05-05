@@ -11,7 +11,6 @@ description: >-
 Pour contacter :&#x20;
 
 * La directrice de la mission : Anne Becquet, [anne.becquet@beta.gouv.fr](mailto:anne.becquet@beta.gouv.fr)
-* La responsable des relations publiques et de la communication  : Julianne Lagadec, [julianne.lagadec@beta.gouv.fr](mailto:julianne.lagadec@beta.gouv.fr)
 * Le responsable du développement technique des produits : Antoine Bigard, [antoine.bigard@beta.gouv.fr](mailto:antoine.bigard@beta.gouv.fr)
 
 ### ‌LES ÉQUIPES PAR SERVICE
