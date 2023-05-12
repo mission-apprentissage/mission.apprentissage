@@ -1,20 +1,23 @@
 # Faire émerger les besoins en recrutements
 
-_Le service de dépôt d'offres de La bonne alternance propose un formulaire qui facilite à la fois l'expression, la gestion et la diffusion d’un besoin de recrutement en alternance._
-
-_Ce service peut être utilisé par des employeurs, des opérateurs de compétences (OPCO) ou des chambres consulaires lors des collectes d'offres et par des centres de formation d'apprentis (CFA) qui souhaitent publier les offres de leurs entreprises partenaires pour gagner en visibilité et attirer des nouveaux profils vers leurs formations._
-
 {% hint style="success" %}
-**Vous souhaitez bénéficier du service ?**&#x20;
-
-C'est possible sur [https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur)
+Vous pouvez accéder au service sur : [https://labonnealternance.apprentissage.beta.gouv.fr/](https://labonnealternance.apprentissage.beta.gouv.fr/)
 {% endhint %}
 
 ### Le constat
 
+Le plus difficile dans l'accès à une alternance est généralement la signature d'un contrat avec un employeur.\
+Cette difficulté a plusieurs origines, dont le manque de visibilité des opportunités d'emploi en alternance pour des personnes n'ayant pas ou peu de réseau.
+
+### Les solutions
+
+Afin de mettre en lumière le marché de l'emploi en alternance, le service La bonne alternance propose 2 solutions.
+
+1. **Un service de dépôt d'offres simplifié**
+
 Pour les TPE, PME et CFA interrogés, déposer une offre sur un jobboard représente :&#x20;
 
-* Un coût en temps (offres longues à compléter, à suivre) ;&#x20;
+* Un coût en temps (formulaires longs à compléter, à suivre) ;&#x20;
 * Un coût financier (jobboards payants) ;&#x20;
 * Un coût de synchronisation (multiplicité des jobboards à solliciter).&#x20;
 
@@ -23,45 +26,59 @@ En outre, ils nous font part de deux autres freins :&#x20;
 * Leur méconnaissance des endroits où déposer des offres ;&#x20;
 * Leur crainte que les jeunes en recherche d’une alternance ne soient pas sur les sites généraux.
 
-### La solution
-
 Le service de dépôt d'offres de La bonne alternance vise à :
 
-* Faire émerger le marché caché de l’emploi, tant du côté des entreprises qui se contentent de bouche à oreille, que des CFA qui ne rendent pas visibles leurs partenariats avec des entreprises ;&#x20;
+* Faire émerger le marché caché de l’emploi. Tant du côté des entreprises qui se contentent de bouche à oreille, que des CFA qui ne rendent pas visibles leurs partenariats avec des entreprises ;&#x20;
 * Simplifier drastiquement l’expression d’un besoin en recrutement en apprentissage, en premier lieu pour les TPE/PME ;&#x20;
-* Diffuser les besoins au plus près des candidats à l’apprentissage.\
+* Diffuser les offres recueillies au plus près des candidats à l’apprentissage.
+
+Ce service peut être utilisé par des employeurs, des opérateurs de compétences (OPCO) ou des chambres consulaires lors des collectes d'offres ainsi que par des centres de formation en apprentissage (CFA) qui souhaitent publier les offres de leurs entreprises partenaires, pour gagner en visibilité et attirer des nouveaux profils vers leurs formations.\
 
 
-Son fonctionnement est simple :
+{% hint style="success" %}
+**Vous souhaitez bénéficier du service ?**&#x20;
 
-#### Étape 1 - la création d’un nouveau formulaire : <a href="#etape-1-la-creation-dun-nouveau-formulaire" id="etape-1-la-creation-dun-nouveau-formulaire"></a>
+Entreprises, rendez-vous sur :  [https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur)
 
-L’employeur ou la personne en charge de collecter l’offre accède à un formulaire, sur lequel il lui faut remplir le SIRET, le nom de l’enseigne, son adresse et ses informations de contact.
+Centres de formation, rendez-vous sur : [https://labonnealternance.apprentissage.beta.gouv.fr/organisme-de-formation](https://labonnealternance.apprentissage.beta.gouv.fr/organisme-de-formation)
+{% endhint %}
 
-Un mécanisme de vérification permet d’informer l’opérateur de compétences concerné (OPCO) qu’une entreprise de son giron a émis un besoin de recrutement. L’OPCO est invité à prendre contact avec l’entreprise pour l’accompagner dans ses démarches.
+{% hint style="info" %}
+**Comment fonctionne le dépôt d'offres simplifié de La bonne alternance ?**
 
-#### Étape 2 - l’ajout d’une offre : <a href="#etape-2-lajout-dune-offre" id="etape-2-lajout-dune-offre"></a>
+#### Étape 1 - la création d’un nouveau formulaire <a href="#etape-1-la-creation-dun-nouveau-formulaire" id="etape-1-la-creation-dun-nouveau-formulaire"></a>
 
-L’employeur ou la personne en charge de collecter l’offre doit compléter le champ d’activité du recrutement. Une offre est ainsi automatiquement générée. La personne peut ajouter, mais ce n’est pas obligatoire, la date de début de la mission proposée et le niveau d’étude attendu.&#x20;
+La personne en charge du recrutement accède à un formulaire où remplir son SIRET ainsi que ses informations de contact.
 
-**Etape 3 (facultative) - mettre en relation l’entreprise avec des centres de formation à proximité :**
+Un mécanisme de vérification permet d’informer l’opérateur de compétences concerné (OPCO) qu’une entreprise de son périmètre a émis un besoin de recrutement. L’OPCO est invité à prendre contact avec l’entreprise pour l’accompagner dans ses démarches.
 
-L’entreprise peut, de manière facultative, faire connaître son besoin de recrutement auprès des CFA compétents de son territoire afin qu’on lui présente des candidats plus rapidement.
+#### Étape 2 - l’ajout d’une offre <a href="#etape-2-lajout-dune-offre" id="etape-2-lajout-dune-offre"></a>
 
-#### Étape 4 - la multi-diffusion instantanée de l’offre : <a href="#etape-3-la-multi-diffusion-instantanee-de-loffre" id="etape-3-la-multi-diffusion-instantanee-de-loffre"></a>
+La personne en charge du recrutement renseigne l'intitulé du poste recherché ainsi que la date de début du contrat. Le descriptif de l'offre est généré automatiquement avec le [référentiel ROME](https://www.pole-emploi.fr/employeur/vos-recrutements/le-rome-et-les-fiches-metiers.html) de Pôle emploi.&#x20;
 
-L’offre est immédiatement visible par des viviers de candidats, sur 1jeune 1solution, La bonne alternance, Parcoursup et d’autres plateformes.
+**Etape 3 (facultative) - la mise en relation avec des centres de formation à proximité**
 
-#### Étape 5 - la gestion de l’offre : <a href="#etape-4-la-gestion-de-loffre" id="etape-4-la-gestion-de-loffre"></a>
+L’entreprise peut, de manière facultative, faire connaître son besoin de recrutement auprès des CFA compétents de son territoire afin que le CFA lui présente des candidats plus rapidement.
 
-La gestion de l’offre ne demande pas de temps à l’employeur ou à la personne en charge de collecter l’offre. Elle reste active pendant 4 semaines, sans qu’aucune action de sa part ne soit attendue. Un mail de rappel est envoyé une semaine avant la désactivation.
+#### Étape 4 - la multidiffusion instantanée de l’offre <a href="#etape-3-la-multi-diffusion-instantanee-de-loffre" id="etape-3-la-multi-diffusion-instantanee-de-loffre"></a>
 
-L’employeur ou la personne en charge de collecter l’offre peut ajouter de nouvelles offres, modifier ou clôturer les offres déjà déposées à tout moment, en suivant le lien envoyé dans le mail de confirmation.
+L’offre est immédiatement visible sur La bonne alternance, 1jeune 1solution, Parcoursup et les autres plateformes partenaires de La bonne alternance.
 
-### Les bénéfices attendus
+#### Étape 5 - la gestion de l’offre <a href="#etape-4-la-gestion-de-loffre" id="etape-4-la-gestion-de-loffre"></a>
 
-1. Optimiser le recueil des besoins de recrutement : l’objectif est d’intégrer le dépôt d'offres simplifié aux process des acteurs de l’apprentissage (entreprises, opérateurs de compétences, chambres consulaires, CFA, etc.) pour rendre l’expression des besoins en recrutement plus simple, plus opérationnel, plus efficace ;&#x20;
-2. Faire s’exprimer des besoins non visibles ou inexistants jusqu’à maintenant : l’objectif est de participer au développement du recours à l’apprentissage en offrant un standard simplifié et centralisant le dépôt d’offres et en mettant en lumière le marché caché (offres traitées par les CFA, offres diffusées uniquement par le bouche à oreille ou selon opportunités de recrutement direct,...) ;&#x20;
-3. Faciliter l’accompagnement des entreprises en les mettant en relation avec les CFA à proximité pour faciliter l’identification des candidats. Informer l’OPCO qui jouera aussi un rôle de facilitateur.
+Par défaut, et afin d'assurer la fraîcheur des offres, chaque offre est active 30 jours.
 
-###
+L'offre peut être modifiée à tout moment par le recruteur.
+
+7 jours avant l'expiration de l'offre, le recruteur est notifié par email et peut alors la prolonger.
+{% endhint %}
+
+2. **Un algorithme identifiant les entreprises susceptibles de recruter en alternance**
+
+[2 recrutement sur 5 se font sans qu'aucune offre n'ai été déposée](https://www.storizborn.com/actualites/etudes/etude-randstad-smartdata-25-recrutements-realises-le-marche-invisible.html). Pour cette raison, en plus de simplifier le dépôt d'offres, La bonne alternance dispose d'un algorithme prédictif qui analyse différentes données sur les entreprises (recrutements passés, données financières, ...) et cherche à prédire leurs recrutements en alternance à venir.
+
+L'objectif est de faciliter le ciblage des entreprises par les personnes en recherche d’une alternance. Car seules les entreprises ayant un potentiel de recrutement en alternance élevé sont exposées sur La bonne alternance.&#x20;
+
+Cet algorithme, en amélioration continue, peut bien entendu se tromper. Pour cette raison, à tout moment, chaque entreprise identifiée par l’algorithme et mise en avant sur La bonne alternance peut être déréférencée, en formulant une demande via [ce formulaire](https://labonnealternance.apprentissage.beta.gouv.fr/desinscription) ou en contactant le [support de La bonne alternance](mailto:labonnealternance@apprentissage.beta.gouv.fr?subject=Entreprise%20algorithme%20-%20Déréférencement%20-%20Gitbook).\
+Et vice versa, une entreprise non identifiée par l’algorithme mais intéressée pour recevoir des candidatures spontanées peut également nous demander à être référencée sur La bonne alternance.\
+Puis bien sûr, toute entreprise ayant des besoins spécifiques en alternance peut utiliser le dépôt d’offres simplifié présenté précédemment.
