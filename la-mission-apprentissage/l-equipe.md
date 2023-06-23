@@ -26,9 +26,9 @@ Pour contacter :&#x20;
 * Interlocutrice chargée de l'expérience utilisateur/ de l'UX design : Claire Arnaud, claire.arnaud@beta.gouv.fr
 * Interlocuteurs techniques :
   * Kevin Barnoin, kevin.barnoin@beta.gouv.fr
-  * David Boureau, david.boureau@beta.gouv.fr
   * Dimitri Do Bairro, dimitri.do\_bairro@beta.gouv.fr
   * Alan Le Ruyet, alan.leruyet@beta.gouv.fr&#x20;
+  * Rémy Auriscote, remy.auriscote@beta.gouv.fr
 * Support : labonnealternance-contact@apprentissage.beta.gouv.fr
 
 #### Le tableau de bord apprentissage‌
