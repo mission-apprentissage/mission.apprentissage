@@ -1,7 +1,7 @@
 # Centraliser et diffuser l'offre de formation et d'emploi en alternance
 
 {% hint style="success" %}
-Vous pouvez accéder au service sur : [https://labonnealternance.apprentissage.beta.gouv.fr/](https://labonnealternance.apprentissage.beta.gouv.fr/)
+Le service est accessible à cette URL : [https://labonnealternance.apprentissage.beta.gouv.fr/](https://labonnealternance.apprentissage.beta.gouv.fr/)
 {% endhint %}
 
 ### Le constat
@@ -10,13 +10,13 @@ Une entrée en alternance résulte d'un accord entre un candidat, un employeur e
 
 ### La solution
 
-Pour accompagner au mieux les jeunes dans leurs démarches d'accès à l'alternance, La bonne alternance centralise en un point unique (site web + API) l'ensemble de l'offre de formation en apprentissage et d'emploi en alternance.&#x20;
+Pour accompagner au mieux les jeunes dans leurs démarches d'accès à l'alternance, La bonne alternance centralise en un point unique (site web, API, widget) l'ensemble de l'offre de formation en apprentissage et d'emploi en alternance.&#x20;
 
 **Les opportunités d'emploi** centralisées sur le service La bonne alternance proviennent de :&#x20;
 
 * L'[API Offres d'emploi](https://pole-emploi.io/data/api/offres-emploi) de Pôle emploi qui diffuse les offres d'emploi collectées par Pôle emploi et [ses partenaires](https://www.pole-emploi.fr/candidat/vos-services-en-ligne/des-partenaires-pour-vous-propos.html)
 * Le [formulaire de collecte simplifiée](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur) d'offre en alternance de La bonne alternance
-* Un algorithme prédictif basé sur de l'intelligence de données, qui analyse différentes données sur les entreprises afin de prédire leurs recrutements en alternance à venir. Il tient également compte du marché de l'emploi et de ses tensions
+* Un algorithme prédictif basé sur de l'intelligence de données, qui analyse différentes informations sur les entreprises afin de prédire leurs recrutements en alternance à venir. Il tient également compte du marché de l'emploi et de ses tensions
 
 **Les opportunités de formation** sont quant à elles issues du Réseau des Carif-Oref qui recense nationalement l'ensemble des formations collectées territorialement par les Carif-Oref.
 

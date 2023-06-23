@@ -1,8 +1,8 @@
-# De nouvelles modalités d'accompagnement des futurs apprentis
+# Accompagner les jeunes dans leurs démarches de recherche d’alternance
 
-_Une première version de ce service a été déclinée en 2020 pour accompagner une cohorte de jeunes ayant émis des vœux de formation en apprentissage via Parcoursup vers leur centre de formation et à la recherche d'un contrat d'apprentissage._
-
-_Une nouvelle version, issue des enseignements tirés de l'expérimentation en 2020, est en cours de réflexion._
+{% hint style="success" %}
+Le service est accessible à cette URL : [https://labonnealternance.apprentissage.beta.gouv.fr/](https://labonnealternance.apprentissage.beta.gouv.fr/)
+{% endhint %}
 
 ### Le constat
 
@@ -11,21 +11,29 @@ En 2020, environ 20 000 jeunes ont émis, depuis ParcourSup, exclusivement des v
 \
 Ces jeunes ne bénéficient pas tous des savoir-faire et outils pour concrétiser leur souhait d'apprentissage en autonomie.
 
-### Les Solutions
+### Les solutions
 
-En 2020, des campagnes de mailing et de sms, aux jeunes, ou leurs parents, ont été entreprises pour les inciter à :
+1. **Pousser des opportunités d'emploi et de formation aux jeunes intéressés par ce type de contrat**
+
+Grâce aux données que nous collectons sur La bonne alternance ainsi qu'aux vœux formulés par les jeunes sur Affelnet et Parcoursup, le service La bonne alternance a entreprit l'envoi de campagnes de mailing et de sms, aux jeunes, ou leurs parents, pour les inciter à :
 
 * Contacter le CFA pour lequel il vise une de leur formations en apprentissage ;
 * Démarcher des entreprises en les outillant pour les identifier ;
 * Effectuer des candidatures spontanées ;
 * ...
 
-Au printemps 2021, avec l'appui de [Didask](https://www.didask.com/) et en partenariat avec l'ensemble des acteurs de l'apprentissage concernés, des modules pédagogiques de mises en situation ont été construits, autour de 4 points de passage vers l'apprentissage :
+2. **Guider les candidats à l'alternance dans leurs démarches de recherche d'un contrat**
 
-1. [Prendre contact avec un CFA ](https://dinum-beta.didask.com/courses/demonstration/60abc18c075edf000065c987);
-2. [Chercher un employeur](https://dinum-beta.didask.com/courses/demonstration/60d21bf5be76560000ae916e) ;
-3. [Préparer un entretien avec un employeur](https://dinum-beta.didask.com/courses/demonstration/60d1adbb877dae00003f0eac) ;
-4. [S'intégrer dans l'entreprise](https://dinum-beta.didask.com/courses/demonstration/6283bd5ad9c7ae00003ede91).
+Au printemps 2021, avec l'appui de [Didask](https://www.didask.com/) et en partenariat avec l'ensemble des acteurs de l'apprentissage concernés, des modules pédagogiques de mises en situation ont été construits, autour de 4 points de passage vers l'apprentissage :&#x20;
+
+* [Prendre contact avec un CFA ](https://dinum-beta.didask.com/courses/demonstration/60abc18c075edf000065c987);
+* [Chercher un employeur](https://dinum-beta.didask.com/courses/demonstration/60d21bf5be76560000ae916e) ;
+* [Préparer un entretien avec un employeur](https://dinum-beta.didask.com/courses/demonstration/60d1adbb877dae00003f0eac) ;
+* [S'intégrer dans l'entreprise](https://dinum-beta.didask.com/courses/demonstration/6283bd5ad9c7ae00003ede91).
+
+3. **Orienter les candidats indécis vers des métiers d'avenir**
+
+En partenariat avec Diagoriente, le service La bonne alternance expérimente des méthodes de promotion des métiers d'avenir aux candidats dont les choix d'orientation seraient encore indécis.
 
 ### Les bénéfices attendus
 

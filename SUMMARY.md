@@ -19,9 +19,8 @@
 * [La bonne alternance - Faciliter la mise en relation entre candidats, CFA et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/README.md)
   * [Centraliser et diffuser l'offre de formation et d'emploi en alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/centraliser-et-diffuser-loffre-de-formation-et-demploi-en-alternance.md)
   * [Faire émerger les besoins en recrutements](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/matcha.md)
-  * [Sécuriser et accélérer la mise en relation entre jeunes et CFA](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/prise-de-rendez-vous.md)
-  * [Faciliter et simplifier la mise en relation entre candidats et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/faciliter-et-simplifier-la-mise-en-relation-entre-candidats-et-entreprises.md)
-  * [De nouvelles modalités d'accompagnement des futurs apprentis](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis.md)
+  * [Outiller et accompagner les mises en relation entre candidats, CFA et entreprises](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/prise-de-rendez-vous.md)
+  * [Accompagner les jeunes dans leurs démarches de recherche d’alternance](les-services-en-devenir/la-recherche-simultanee-dune-formation-et-dun-emploi-en-apprentissage/accompagner-les-futurs-apprentis.md)
 
 ## Le service facilitant le processus administratif
 
