@@ -33,15 +33,17 @@ Pour contacter :&#x20;
 
 #### Le tableau de bord apprentissage‌
 
-* Interlocutrices produit :&#x20;
-  * Responsable : Anne-Camille Monet, anne-camille.monet@beta.gouv.fr
-  * Nadine Louchart, nadine.louchart@beta.gouv.fr
+* Interlocutrice produit :&#x20;
+  * Responsable : Nadine Louchart, nadine.louchart@beta.gouv.fr
+* Interlocuteur chargé du déploiement&#x20;
+  * Paul-Boris Bouzin, paul-boris.bouzin@beta.gouv.fr&#x20;
 * Interlocutrices chargées de l'expérience utilisateur et de l'UX design :&#x20;
   * Catherine Bourreau, catherine.bourreau@beta.gouv.fr
   * Clémence Lanctuit, clemence.lanctuit@beta.gouv.fr
 * Interlocuteurs techniques :
+  * Raphaël Huchet, raphael.huchet@beta.gouv.fr
   * Samir Benfares, samir.benfares@beta.gouv.fr
-  * Sven Gaubert, sven.gaubert@beta.gouv.fr
+  * Félix At, felix.at@beta.gouv.fr
 * Support : tableau-de-bord@apprentissage.beta.gouv.fr
 
 
