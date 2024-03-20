@@ -14,7 +14,7 @@ Pour accompagner au mieux les jeunes dans leurs démarches d'accès à l'alterna
 
 **Les opportunités d'emploi** centralisées sur le service La bonne alternance proviennent de :&#x20;
 
-* L'[API Offres d'emploi](https://pole-emploi.io/data/api/offres-emploi) de Pôle emploi qui diffuse les offres d'emploi collectées par Pôle emploi et [ses partenaires](https://www.pole-emploi.fr/candidat/vos-services-en-ligne/des-partenaires-pour-vous-propos.html)
+* L'[API Offres d'emploi](https://francetravail.io/data/api/offres-emploi) de France travail qui diffuse les offres d'emploi collectées par France travail et [ses partenaires](https://www.francetravail.fr/candidat/vos-services-en-ligne/des-partenaires-pour-vous-propos.html)
 * Le [formulaire de collecte simplifiée](https://labonnealternance.apprentissage.beta.gouv.fr/acces-recruteur) d'offre en alternance de La bonne alternance
 * Un algorithme prédictif basé sur de l'intelligence de données, qui analyse différentes informations sur les entreprises afin de prédire leurs recrutements en alternance à venir. Il tient également compte du marché de l'emploi et de ses tensions
 

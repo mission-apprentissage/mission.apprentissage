@@ -1,6 +1,6 @@
 ---
 description: >-
-  D’abord développé par Pôle emploi, La bonne alternance a été repris en 2020
+  D’abord développé par France travail, La bonne alternance a été repris en 2020
   par la mission interministérielle pour l'apprentissage.
 ---
 

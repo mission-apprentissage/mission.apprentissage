@@ -54,7 +54,7 @@ Un mécanisme de vérification permet d’informer l’opérateur de compétence
 
 #### Étape 2 - l’ajout d’une offre <a href="#etape-2-lajout-dune-offre" id="etape-2-lajout-dune-offre"></a>
 
-La personne en charge du recrutement renseigne l'intitulé du poste recherché ainsi que la date de début du contrat. Le descriptif de l'offre est généré automatiquement avec le [référentiel ROME](https://www.pole-emploi.fr/employeur/vos-recrutements/le-rome-et-les-fiches-metiers.html) de Pôle emploi.&#x20;
+La personne en charge du recrutement renseigne l'intitulé du poste recherché ainsi que la date de début du contrat. Le descriptif de l'offre est généré automatiquement avec le [référentiel ROME](https://www.francetravail.fr/employeur/vos-recrutements/le-rome-et-les-fiches-metiers.html) de France travail.&#x20;
 
 **Etape 3 (facultative) - la mise en relation avec des centres de formation à proximité**
 
